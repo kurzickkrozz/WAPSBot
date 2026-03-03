@@ -1,7 +1,7 @@
 import { join } from 'path';
 
 // Bot versioning (overridable via environment variables)
-export const BOT_VERSION = process.env.BOT_VERSION ?? '1.1.0';
+export const BOT_VERSION = process.env.BOT_VERSION ?? '1.1.2';
 export const AFH1_VERSION = process.env.AFH1_VERSION ?? '15 February 2025';
 export const TEST_CYCLE = process.env.TEST_CYCLE ?? '26E5 / 26E6';
 export const BOT_DEVELOPER = process.env.BOT_DEVELOPER ?? 'TunnelRat';
