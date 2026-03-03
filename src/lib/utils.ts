@@ -1,8 +1,6 @@
 import { ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder } from 'discord.js';
 import { ANSWER_EMOJIS, ANSWER_LABELS, EMBED_COLOR, EMBED_COLOR_CORRECT, EMBED_COLOR_INCORRECT, EMBED_COLOR_RESULTS } from './config';
 
-// A = Green, B = Blurple, C = Red, D = Grey
-const ANSWER_BUTTON_STYLES = [ButtonStyle.Success, ButtonStyle.Primary, ButtonStyle.Danger, ButtonStyle.Secondary] as const;
 import type { AnswerRecord, Question, QuizSession } from '../types/quiz';
 
 export function buildQuestionEmbed(question: Question, index: number, total: number, timed: boolean): EmbedBuilder {
@@ -23,7 +21,7 @@ export function buildAnswerButtons(questionIndex: number): ActionRowBuilder<Butt
 				.setCustomId(`quiz_answer_${questionIndex}_${i}`)
 				.setLabel(label)
 				.setEmoji(ANSWER_EMOJIS[i])
-				.setStyle(ANSWER_BUTTON_STYLES[i])
+				.setStyle(ButtonStyle.Secondary)
 		)
 	);
 }

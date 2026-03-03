@@ -29,4 +29,4 @@ export const SCORES_FILE = join(DATA_DIR, 'scores.json');
 
 // Answer labels
 export const ANSWER_LABELS = ['A', 'B', 'C', 'D'] as const;
-export const ANSWER_EMOJIS = ['🅰️', '🅱️', '🇨', '🇩'] as const;
+export const ANSWER_EMOJIS = ['🇦', '🇧', '🇨', '🇩'] as const;
