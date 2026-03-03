@@ -1,0 +1,306 @@
+{
+  "chapter": "Chapter 7",
+  "title": "Enlisted Force Development",
+  "questions": [
+    {
+      "id": "ch7_001",
+      "question": "Which ranks make up the Noncommissioned Officer (NCO) tier?",
+      "options": [
+        "Staff Sergeant and Technical Sergeant",
+        "Senior Airman and Staff Sergeant",
+        "Technical Sergeant and Master Sergeant",
+        "Staff Sergeant, Technical Sergeant, and Master Sergeant"
+      ],
+      "answer": 0,
+      "reference": "AFH 1, Ch. 7, Sec. 7B"
+    },
+    {
+      "id": "ch7_002",
+      "question": "Which skill level is typically earned at the rank of Staff Sergeant?",
+      "options": [
+        "5-skill level",
+        "7-skill level",
+        "9-skill level",
+        "3-skill level"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7B"
+    },
+    {
+      "id": "ch7_003",
+      "question": "What PME must Technical Sergeants complete before assuming the grade of Master Sergeant?",
+      "options": [
+        "Airman Leadership School",
+        "Senior NCO Academy",
+        "NCO Academy",
+        "Chief Leadership Course"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7B"
+    },
+    {
+      "id": "ch7_004",
+      "question": "Which ranks make up the Senior Noncommissioned Officer (SNCO) tier?",
+      "options": [
+        "Technical Sergeant, Master Sergeant, and Senior Master Sergeant",
+        "Master Sergeant, Senior Master Sergeant, and Chief Master Sergeant",
+        "Staff Sergeant, Technical Sergeant, and Master Sergeant",
+        "Senior Master Sergeant and Chief Master Sergeant"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7B"
+    },
+    {
+      "id": "ch7_005",
+      "question": "What PME must Master Sergeants complete before assuming the grade of Senior Master Sergeant?",
+      "options": [
+        "NCO Academy",
+        "Chief Leadership Course",
+        "Airman Leadership School",
+        "SNCO Academy"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 7, Sec. 7B"
+    },
+    {
+      "id": "ch7_006",
+      "question": "Chief Master Sergeants are charged with mentoring and developing junior enlisted personnel and influencing the professional development of which group?",
+      "options": [
+        "Senior NCOs",
+        "Field grade officers",
+        "Company grade officers",
+        "General officers"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7B"
+    },
+    {
+      "id": "ch7_007",
+      "question": "What course must all newly selected RegAF Chief Master Sergeants attend?",
+      "options": [
+        "SNCO Academy",
+        "NCO Academy",
+        "Chief Leadership Course",
+        "Airman Leadership School"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7B"
+    },
+    {
+      "id": "ch7_008",
+      "question": "The title of Noncommissioned Officer in Charge (NCOIC) is used only for which personnel?",
+      "options": [
+        "Senior Airmen and NCOs",
+        "NCOs and SNCOs in charge of a work center or element",
+        "SNCOs in charge of a flight",
+        "Any enlisted member in a leadership position"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7C"
+    },
+    {
+      "id": "ch7_009",
+      "question": "Who was the first Chief Master Sergeant of the Air Force, and when did he assume the unique CMSAF insignia?",
+      "options": [
+        "Chief James Cody in April 1969",
+        "Chief Paul W. Airey in April 1967",
+        "Chief Thomas Barnes in October 1966",
+        "Chief Paul W. Airey in October 1966"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7C"
+    },
+    {
+      "id": "ch7_010",
+      "question": "The CMSAF is the career field manager for which two positions?",
+      "options": [
+        "First sergeants and section chiefs",
+        "Command chief master sergeants and group superintendents",
+        "Flight chiefs and unit training managers",
+        "Senior enlisted leaders and career field managers"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7C"
+    },
+    {
+      "id": "ch7_011",
+      "question": "Enlisted force development combines which three elements in a life-cycle approach to developing Airmen?",
+      "options": [
+        "Leadership, mentorship, and experience",
+        "Training, education, and experience",
+        "Recruiting, training, and retention",
+        "Education, evaluation, and promotion"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7D"
+    },
+    {
+      "id": "ch7_012",
+      "question": "The Air Force Enlisted Council is comprised of which group?",
+      "options": [
+        "All MAJCOM Command Chiefs",
+        "The current 12 Outstanding Airmen of the Year",
+        "Senior enlisted leaders from each COCOM",
+        "Selected Chief Master Sergeants from each career field"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7D"
+    },
+    {
+      "id": "ch7_013",
+      "question": "What web-based tool allows individuals greater transparency into their development and career management, and also offers robust mentoring capabilities?",
+      "options": [
+        "AFVEC",
+        "AUSIS",
+        "MyVECTOR",
+        "MyPers"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7D"
+    },
+    {
+      "id": "ch7_014",
+      "question": "The Occupational Analysis Program is integral to providing an objective orientation for which three force development tenets?",
+      "options": [
+        "Recruiting, training, and retention",
+        "Training, utilization, and promotions",
+        "Education, experience, and evaluation",
+        "Classification, assignment, and separation"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7D"
+    },
+    {
+      "id": "ch7_015",
+      "question": "On what typical cycle does Occupational Analysis conduct occupational studies on enlisted USAF specialties?",
+      "options": [
+        "Annually",
+        "Every two years",
+        "Three to four years",
+        "Every five years"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7D"
+    },
+    {
+      "id": "ch7_016",
+      "question": "The USAF on-the-job training (OJT) program consists of which three components?",
+      "options": [
+        "Classroom instruction, field training, and evaluation",
+        "Job knowledge, job proficiency, and job experience",
+        "Technical training, leadership development, and mentoring",
+        "Apprentice training, journeyman training, and craftsman training"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7E"
+    },
+    {
+      "id": "ch7_017",
+      "question": "To be awarded the 7-skill level (Craftsman), the member must be at least what rank?",
+      "options": [
+        "Senior Airman",
+        "Technical Sergeant",
+        "Staff Sergeant Select",
+        "Master Sergeant"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7E"
+    },
+    {
+      "id": "ch7_018",
+      "question": "For award of the 9-skill level (Superintendent), the member must be at least what rank?",
+      "options": [
+        "Master Sergeant",
+        "Chief Master Sergeant",
+        "Senior Master Sergeant",
+        "Technical Sergeant"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7E"
+    },
+    {
+      "id": "ch7_019",
+      "question": "Task certifiers must be at least what rank and skill level to provide third-party certification?",
+      "options": [
+        "Senior Airman with a 5-skill level",
+        "Staff Sergeant with a 7-skill level",
+        "Staff Sergeant with a 5-skill level",
+        "Technical Sergeant with a 7-skill level"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7E"
+    },
+    {
+      "id": "ch7_020",
+      "question": "In 1955, enlisted PME schools were established coinciding with what other significant event?",
+      "options": [
+        "The creation of the CMSAF position",
+        "The founding of the Community College of the Air Force",
+        "The release of the first official enlisted force structure",
+        "The establishment of Air Education and Training Command"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7F"
+    },
+    {
+      "id": "ch7_021",
+      "question": "The Chief Leadership Course (CLC) educates approximately how many Total Force Chief Master Sergeants and Chief Master Sergeant-selects annually?",
+      "options": [
+        "500",
+        "750",
+        "1,000",
+        "2,250"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7F"
+    },
+    {
+      "id": "ch7_022",
+      "question": "When was the Community College of the Air Force (CCAF) activated?",
+      "options": [
+        "1966",
+        "1972",
+        "1976",
+        "1977"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7G"
+    },
+    {
+      "id": "ch7_023",
+      "question": "What is the total semester-hour requirement for the typical CCAF associate of applied science degree?",
+      "options": [
+        "48 semester hours",
+        "54 semester hours",
+        "60 semester hours",
+        "72 semester hours"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7G"
+    },
+    {
+      "id": "ch7_024",
+      "question": "The AFCOOL program funds a maximum of how much during an Airman's career for specialty-applicable credentials?",
+      "options": [
+        "$2,500",
+        "$3,500",
+        "$4,500",
+        "$5,500"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 7, Sec. 7G"
+    },
+    {
+      "id": "ch7_025",
+      "question": "EJPME consists of two courses of instruction. EJPME I emphasizes curriculum commensurate with which grade levels' joint assignment responsibilities?",
+      "options": [
+        "E-1 through E-4",
+        "E-5/E-7",
+        "E-7/E-9",
+        "E-8/E-9"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 7, Sec. 7F"
+    }
+  ]
+}

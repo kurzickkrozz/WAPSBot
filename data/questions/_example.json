@@ -1,0 +1,43 @@
+{
+	"_comment": "This is an example file. Question bank files must NOT start with underscore. Create files like 'chapter-01.json', 'chapter-05.json', etc.",
+	"chapter": "Chapter 1",
+	"title": "Developing Airmen",
+	"questions": [
+		{
+			"id": "ch1_001",
+			"question": "What is the primary purpose of the Enlisted Force Structure?",
+			"options": [
+				"Define career progression timelines",
+				"Describe the roles, responsibilities, and expectations of each enlisted rank",
+				"Establish promotion testing schedules",
+				"Outline disciplinary procedures"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1"
+		},
+		{
+			"id": "ch1_002",
+			"question": "Which of the following best describes the role of a Staff Sergeant (E-5)?",
+			"options": [
+				"Senior advisor to the commander",
+				"Skilled technician and first-line supervisor",
+				"Flight-level manager responsible for mission execution",
+				"Strategic planner for wing-level operations"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1"
+		},
+		{
+			"id": "ch1_003",
+			"question": "What core value emphasizes putting the needs of the nation, the Air Force, and subordinates before your own?",
+			"options": [
+				"Integrity First",
+				"Excellence in All We Do",
+				"Service Before Self",
+				"Mission Accomplishment"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1"
+		}
+	]
+}

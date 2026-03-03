@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.js.map
+*.tsbuildinfo
+data/scores.json
+
+# Local reference projects
+._reference1/
+._reference2/
+
+# Local tooling
+scripts/
+.claude/

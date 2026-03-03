@@ -1,0 +1,306 @@
+{
+  "chapter": "Chapter 14",
+  "title": "Developing Others",
+  "questions": [
+    {
+      "id": "ch14_001",
+      "question": "What is at the core of all healthy team interaction?",
+      "options": [
+        "Communication",
+        "Cooperation",
+        "Trust",
+        "Leadership"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_002",
+      "question": "What are the four stages of team building most often experienced by teams?",
+      "options": [
+        "Planning, executing, monitoring, and closing",
+        "Forming, storming, norming, and performing",
+        "Initiating, developing, implementing, and sustaining",
+        "Assessing, building, coaching, and delivering"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_003",
+      "question": "During which stage of team building do conflicts begin to arise as members tend to resist the influence of the team and rebel against accomplishing the task?",
+      "options": [
+        "Forming",
+        "Norming",
+        "Performing",
+        "Storming"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_004",
+      "question": "During the forming stage of team building, what occurs?",
+      "options": [
+        "Team members develop proficiency in achieving goals",
+        "Conflicts arise as members resist the team's influence",
+        "Members establish cohesiveness and commitment",
+        "Individuals try to determine their place on the team and establish or accept procedures and rules"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_005",
+      "question": "Which stage of team building is described as the point where the team has settled its relationships and expectations, and can begin diagnosing and solving problems?",
+      "options": [
+        "Forming",
+        "Storming",
+        "Norming",
+        "Performing"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_006",
+      "question": "A sign that a team is not performing cohesively is when what exists among team members?",
+      "options": [
+        "Open communication",
+        "Unhelpful competition",
+        "Shared ownership",
+        "Active listening"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_007",
+      "question": "What are the three sources of conflict identified in the text?",
+      "options": [
+        "Communication factors, structural factors, and personal behavior factors",
+        "Leadership factors, organizational factors, and environmental factors",
+        "Financial factors, operational factors, and personnel factors",
+        "Strategic factors, tactical factors, and logistical factors"
+      ],
+      "answer": 0,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_008",
+      "question": "According to Dr. Kenneth Thomas, the competing (forcing) conflict management style is characterized by what levels of assertiveness and cooperativeness?",
+      "options": [
+        "Low assertiveness and low cooperativeness",
+        "High assertiveness and high cooperativeness",
+        "High assertiveness and low cooperativeness",
+        "Low assertiveness and high cooperativeness"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_009",
+      "question": "Which conflict management style uses an attempt to satisfy the concerns of both sides through honest discussion and seeks a 'win' position for both groups?",
+      "options": [
+        "Competing",
+        "Compromising",
+        "Accommodating",
+        "Collaborating"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_010",
+      "question": "The accommodating conflict management style is characterized by what levels of assertiveness and cooperativeness?",
+      "options": [
+        "High assertiveness and high cooperativeness",
+        "High assertiveness and low cooperativeness",
+        "Low assertiveness and high cooperativeness",
+        "Some assertiveness and some cooperativeness"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_011",
+      "question": "Warren G. Bennis labeled three primary behavioral leader characteristics as the abilities to do what?",
+      "options": [
+        "Plan, organize, and execute",
+        "Motivate, develop, and inspire",
+        "Communicate, delegate, and control",
+        "Assess, train, and evaluate"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14B"
+    },
+    {
+      "id": "ch14_012",
+      "question": "According to Maslow's Hierarchy of Needs, what must be achieved before reaching self-actualization?",
+      "options": [
+        "Only physiological needs must be met",
+        "Only esteem and safety needs must be met",
+        "Basic requirements at each previous level must be achieved",
+        "Only belongingness and love needs must be met"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14B"
+    },
+    {
+      "id": "ch14_013",
+      "question": "Bennis labeled three primary behavioral characteristics of managers as what?",
+      "options": [
+        "Motivators, developers, and inspirers",
+        "Planners, organizers, and executors",
+        "Administrators, maintainers, and controllers",
+        "Coaches, counselors, and mentors"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14B"
+    },
+    {
+      "id": "ch14_014",
+      "question": "USAF mentoring is governed by which publication?",
+      "options": [
+        "AFH 36-2647, Competency Modeling",
+        "AFH 1, Airman",
+        "DAFMAN 36-2643, Air Force Mentoring Program",
+        "AFI 36-2406, Officer and Enlisted Evaluation Systems"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14C"
+    },
+    {
+      "id": "ch14_015",
+      "question": "In the mentoring model (M-E-N-T-O-R-I-N-G), what does the 'E' stand for?",
+      "options": [
+        "Educate",
+        "Evaluate",
+        "Empower",
+        "Empathize"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 14, Sec. 14C"
+    },
+    {
+      "id": "ch14_016",
+      "question": "In the mentoring model, what does the 'G' at the end of M-E-N-T-O-R-I-N-G stand for?",
+      "options": [
+        "Guide",
+        "Goal-Set",
+        "Grow",
+        "Govern"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14C"
+    },
+    {
+      "id": "ch14_017",
+      "question": "Which counseling approach is preferred for most counseling sessions?",
+      "options": [
+        "Directive",
+        "Combined",
+        "Nondirective",
+        "Referral"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14C"
+    },
+    {
+      "id": "ch14_018",
+      "question": "The directive counseling approach works best in which situation?",
+      "options": [
+        "When discussing long-term career goals",
+        "To correct simple problems, make on-the-spot corrections, and correct specific aspects of duty performance",
+        "When the Airman needs to develop personal responsibility",
+        "When there is ample time for the Airman to explore options"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14C"
+    },
+    {
+      "id": "ch14_019",
+      "question": "What are the four basic components of a counseling session?",
+      "options": [
+        "Assess, plan, execute, and evaluate",
+        "State the purpose, discuss the issues, develop a plan of action, and record the plan",
+        "Identify, analyze, resolve, and follow up",
+        "Introduce, investigate, instruct, and implement"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14C"
+    },
+    {
+      "id": "ch14_020",
+      "question": "Full Range Leadership Development (FRLD) requires leadership to be viewed as a system made up of which three core elements?",
+      "options": [
+        "Strategy, structure, and culture",
+        "Planning, organizing, and controlling",
+        "The leader, the follower, and the situation",
+        "Communication, delegation, and supervision"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14D"
+    },
+    {
+      "id": "ch14_021",
+      "question": "Which FRLD leadership behavior is described as an 'if it's not broke, don't fix it' style where leaders sit back, observe, and wait for things to go wrong before taking action?",
+      "options": [
+        "Laissez-faire",
+        "Management by exception - passive",
+        "Management by exception - active",
+        "Contingent rewards"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14D"
+    },
+    {
+      "id": "ch14_022",
+      "question": "What are the four components of transformational leadership?",
+      "options": [
+        "Planning, organizing, leading, and controlling",
+        "Individualized consideration, intellectual stimulation, idealized influence, and inspirational motivation",
+        "Coaching, mentoring, counseling, and directing",
+        "Visioning, strategizing, implementing, and evaluating"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14D"
+    },
+    {
+      "id": "ch14_023",
+      "question": "Which source of power comes from personal character attributes such as strength of character, passion, inspiration, or a personal vision of the future?",
+      "options": [
+        "Position power",
+        "Task power",
+        "Knowledge power",
+        "Personal power"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 14, Sec. 14D"
+    },
+    {
+      "id": "ch14_024",
+      "question": "According to the chapter, which conflict management style requires a willingness of both parties to change, adjust, or give something up and seeks to partially satisfy both parties' desires?",
+      "options": [
+        "Collaborating",
+        "Accommodating",
+        "Compromising",
+        "Avoiding"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    },
+    {
+      "id": "ch14_025",
+      "question": "In the norming stage of team building, what happens to competitive relationships?",
+      "options": [
+        "They intensify as members compete for leadership roles",
+        "They become more cooperative as emotional conflict is reduced",
+        "They are eliminated entirely through enforced rules",
+        "They are redirected toward external competitors"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 14, Sec. 14A"
+    }
+  ]
+}

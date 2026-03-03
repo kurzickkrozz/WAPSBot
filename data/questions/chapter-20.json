@@ -1,0 +1,306 @@
+{
+	"chapter": "Chapter 20",
+	"title": "Enforcing Military Standards",
+	"questions": [
+		{
+			"id": "ch20_001",
+			"question": "What is the primary purpose of the Unit Self-Assessment Program (USAP)?",
+			"options": [
+				"To replace external inspection teams entirely",
+				"To accurately identify and report issues to the command chain so Airmen feel they can safely report what is true",
+				"To conduct annual performance evaluations of unit personnel",
+				"To document individual disciplinary actions for the commander"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20A"
+		},
+		{
+			"id": "ch20_002",
+			"question": "What tool is a USAF program of record used for managing Unit Self-Assessment Programs (USAPs)?",
+			"options": [
+				"Inspector General Evaluation Management System (IGEMS)",
+				"Self-Assessment Communicator (SAC)",
+				"Management Internal Control Toolset (MICT)",
+				"Automated Inspection Tracking System (AITS)"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20A"
+		},
+		{
+			"id": "ch20_003",
+			"question": "Under the Air Force Complaints Resolution Program, complaints may be submitted through all of the following EXCEPT:",
+			"options": [
+				"In person or by phone",
+				"Through electronic means or in writing",
+				"Anonymously through social media without identification",
+				"To supervisors, first sergeants, commanders, or members of Congress"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_004",
+			"question": "Who is the only authority that may investigate allegations of reprisal and restriction under the Military Whistleblower's Protection Act?",
+			"options": [
+				"The member's immediate commander",
+				"The Staff Judge Advocate",
+				"The Inspector General (IG)",
+				"The first sergeant"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_005",
+			"question": "According to AFI 31-218, at what blood alcohol concentration (BAC) is a person considered impaired on a military installation, even without other evidence?",
+			"options": [
+				"Greater than .05",
+				"Greater than .06",
+				"Greater than .08",
+				"Greater than .10"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_006",
+			"question": "What is the length of the driving privilege suspension for driving under the influence at a BAC of 0.08 percent or greater on a military installation?",
+			"options": [
+				"Six months",
+				"One year",
+				"Two years",
+				"Permanent revocation"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_007",
+			"question": "Why should commander-directed drug testing be used only as a last resort?",
+			"options": [
+				"It requires approval from the Secretary of the Air Force",
+				"The results may not be used for disciplinary action under the UCMJ or to characterize an administrative discharge",
+				"It can only be administered during duty hours",
+				"It requires a search and seizure authorization from a military judge"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_008",
+			"question": "Under the self-identification provision for substance abuse, what protection is afforded to a member who voluntarily seeks help?",
+			"options": [
+				"The member is guaranteed retention in the USAF",
+				"The member receives automatic promotion protection",
+				"Commanders may not use the self-identification against the member in UCMJ action or when characterizing an administrative discharge",
+				"The member is exempt from all future drug testing"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_009",
+			"question": "What is fraternization, as defined in the UCMJ?",
+			"options": [
+				"Any social interaction between officers and enlisted members",
+				"An unprofessional relationship between an officer and enlisted member prohibited by Article 134, UCMJ",
+				"A romantic relationship between any two members of different ranks",
+				"An unprofessional relationship between any military member and a civilian employee"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_010",
+			"question": "When fraternization occurs between an officer and an enlisted member, who is held primarily responsible and subject to disciplinary action for fraternization under Article 134, UCMJ?",
+			"options": [
+				"Both are equally held responsible under Article 134",
+				"The enlisted member",
+				"The officer",
+				"The member with the longer time in service"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_011",
+			"question": "What are the six distinct forms of harassment covered by the Air Force Equal Opportunity Program?",
+			"options": [
+				"Verbal, physical, emotional, cyber, institutional, and environmental",
+				"Discriminatory, sexual, bullying, hazing, retaliation, and reprisal",
+				"Racial, gender, religious, disability, age, and genetic",
+				"Direct, indirect, quid pro quo, hostile environment, systemic, and retaliatory"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_012",
+			"question": "Within what timeframe must military formal Equal Opportunity complaints be filed?",
+			"options": [
+				"30 calendar days of the alleged offense",
+				"45 calendar days of the alleged offense",
+				"60 calendar days of the alleged offense",
+				"90 calendar days of the alleged offense"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_013",
+			"question": "Who may file military Equal Opportunity complaints?",
+			"options": [
+				"Only active duty military personnel",
+				"Military personnel, their family members, and retirees",
+				"Any person affiliated with the Department of Defense",
+				"Military personnel and civilian employees of the USAF"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_014",
+			"question": "What is the Unfavorable Information File (UIF) used for?",
+			"options": [
+				"To store all personnel records for a member's entire career",
+				"To provide commanders with an official and single means of filing derogatory data about a member's conduct and duty performance",
+				"To document only court-martial convictions for the member's record",
+				"To record positive accomplishments that offset disciplinary actions"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_015",
+			"question": "How long is the initial observation period when a commander places an individual on the control roster?",
+			"options": [
+				"Three months",
+				"Six months",
+				"Nine months",
+				"Twelve months"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_016",
+			"question": "How many duty days does an individual have to acknowledge and provide pertinent information before the commander makes a final decision on a UIF action?",
+			"options": [
+				"One duty day",
+				"Three duty days",
+				"Five duty days",
+				"Seven duty days"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_017",
+			"question": "What standard of proof is used in administrative action proceedings to evaluate whether misconduct occurred?",
+			"options": [
+				"Beyond a reasonable doubt",
+				"Clear and convincing evidence",
+				"Preponderance of the evidence",
+				"Probable cause"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_018",
+			"question": "What is the purpose of the control roster?",
+			"options": [
+				"To permanently mark a member's record with a disciplinary action",
+				"To serve as a substitute for nonjudicial punishment",
+				"To establish an observation period as a rehabilitative tool for individuals who fail to meet standards",
+				"To initiate involuntary separation proceedings"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_019",
+			"question": "Which administrative action indicates a stronger degree of official censure than a letter of counseling and a letter of admonishment?",
+			"options": [
+				"Control roster placement",
+				"Letter of reprimand",
+				"Record of individual counseling",
+				"Unfavorable Information File entry"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_020",
+			"question": "What are the three possible service characterizations for members administratively discharged under DAFI 36-3211?",
+			"options": [
+				"Honorable, general (under honorable conditions), and bad conduct",
+				"Honorable, general (under honorable conditions), and under other than honorable conditions",
+				"Honorable, dishonorable, and bad conduct",
+				"Honorable, general, and dishonorable"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_021",
+			"question": "Within how many years of the date of separation may a former USAF member request review by the Air Force Discharge Review Board?",
+			"options": [
+				"5 years",
+				"10 years",
+				"15 years",
+				"20 years"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_022",
+			"question": "What is the highest level of administrative review for correcting military records?",
+			"options": [
+				"Air Force Discharge Review Board",
+				"Air Force Board for Correction of Military Records",
+				"Secretary of the Air Force Personnel Council",
+				"Inspector General Appeals Board"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_023",
+			"question": "Which of the following is true about the two sexual assault reporting options in the USAF?",
+			"options": [
+				"A victim may convert an unrestricted report to a restricted report at any time",
+				"A victim may convert a restricted report to an unrestricted report at any time",
+				"Both restricted and unrestricted reports trigger an immediate investigation",
+				"Only officers may elect the restricted reporting option"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_024",
+			"question": "According to the chapter, retaliation is prohibited by which article of the UCMJ?",
+			"options": [
+				"Article 92",
+				"Article 120",
+				"Article 132",
+				"Article 134"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_025",
+			"question": "When a member is not rehabilitated within six months of being placed on the control roster, what action must the commander take?",
+			"options": [
+				"Grant an automatic six-month extension",
+				"Remove the member from the control roster with no further action",
+				"Initiate more severe action",
+				"Refer the case to the Inspector General"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		}
+	]
+}

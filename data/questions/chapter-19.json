@@ -1,0 +1,306 @@
+{
+	"chapter": "Chapter 19",
+	"title": "Standards of Conduct",
+	"questions": [
+		{
+			"id": "ch19_001",
+			"question": "The law of war is also known by what other name?",
+			"options": [
+				"Law of Military Engagement (LOME)",
+				"Law of Armed Conflict (LOAC)",
+				"Rules of Armed Engagement (ROAE)",
+				"International Military Code (IMC)"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_002",
+			"question": "What is the purpose of the law of war?",
+			"options": [
+				"To ensure total defeat of the enemy regardless of cost",
+				"To lessen the effects of conflicts and protect combatants and noncombatants from unnecessary suffering",
+				"To provide commanders unlimited authority in the use of military force",
+				"To establish rules for declaring war between nations"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_003",
+			"question": "Law of war training is an obligation of the United States under provisions of which international agreements?",
+			"options": [
+				"The 1907 Hague Conventions",
+				"The 1945 United Nations Charter",
+				"The 1949 Geneva Conventions, other law of war treaties, and customary international law",
+				"The 1948 Universal Declaration of Human Rights"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_004",
+			"question": "How many important law of war principles govern armed conflict?",
+			"options": [
+				"Three",
+				"Four",
+				"Five",
+				"Six"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_005",
+			"question": "Which law of war principle justifies the use of all measures needed to defeat the enemy as quickly and efficiently as possible that are not prohibited by the law of war?",
+			"options": [
+				"Proportionality",
+				"Distinction",
+				"Honor",
+				"Military Necessity"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_006",
+			"question": "Under the law of war principle of military necessity, which of the following is specifically prohibited?",
+			"options": [
+				"Attacking military headquarters and supply lines",
+				"The murder of prisoners of war or execution of reprisal against specifically protected persons",
+				"Destroying enemy lines of communication",
+				"Targeting enemy military aircraft in hostile airspace"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_007",
+			"question": "Which law of war principle forbids the infliction of suffering, injury, or destruction unnecessary to accomplish a legitimate military purpose?",
+			"options": [
+				"Military Necessity",
+				"Distinction",
+				"Humanity",
+				"Proportionality"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_008",
+			"question": "The law of war principle of distinction requires forces to discriminate between which of the following?",
+			"options": [
+				"Officers and enlisted personnel",
+				"Active duty and reserve forces",
+				"Military forces and the civilian population, and between unprotected and protected objects",
+				"Allied and neutral nations"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_009",
+			"question": "Which of the following is a fundamental violation of the law of war principle of distinction?",
+			"options": [
+				"Using camouflage on military equipment",
+				"Employing voluntary or involuntary human shields to protect military objectives",
+				"Conducting nighttime military operations",
+				"Engaging military targets in urban areas"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_010",
+			"question": "Under the law of war principle of proportionality, commanders must refrain from attacks where expected harm would be considered what?",
+			"options": [
+				"Any level of incidental damage to civilians",
+				"Excessive in relation to the concrete and direct military advantage anticipated",
+				"Greater than the cost of military resources expended",
+				"Harmful to the environment surrounding the objective"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_011",
+			"question": "The law of war principle of honor prohibits which of the following during the conduct of hostilities?",
+			"options": [
+				"Using ruses and lawful deceptions",
+				"Killing or wounding enemy persons by resort to perfidy (treachery)",
+				"Conducting surprise attacks on military objectives",
+				"Engaging in psychological operations"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_012",
+			"question": "If doubt exists as to whether a captured individual is a lawful combatant, noncombatant, or unprivileged belligerent, what protections do they receive?",
+			"options": [
+				"No protections until status is confirmed",
+				"Protections of the Geneva Prisoner of War Convention until actual status is determined",
+				"Only basic medical treatment until a tribunal convenes",
+				"Civilian criminal justice protections of the detaining nation"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_013",
+			"question": "What happens to civilians who take an active or direct part in hostilities?",
+			"options": [
+				"They receive enhanced protections under the Geneva Conventions",
+				"They are automatically classified as prisoners of war",
+				"They forfeit protection from being made the object of attack",
+				"They must be treated as noncombatants"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_014",
+			"question": "Under the law of war, airmen who parachute from a disabled aircraft and offer no resistance may be:",
+			"options": [
+				"Attacked immediately as enemy combatants",
+				"Detained without any protections",
+				"Not attacked",
+				"Engaged only with non-lethal weapons"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_015",
+			"question": "For law of war violations, members may be prosecuted by which of the following?",
+			"options": [
+				"Only civilian courts within the violator's home country",
+				"Courts-martial under the UCMJ or through an international military tribunal",
+				"The United Nations Security Council exclusively",
+				"Only the International Criminal Court"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_016",
+			"question": "The standing rules of engagement are approved by whom and issued by whom?",
+			"options": [
+				"Approved by the Secretary of Defense and issued by combatant commanders",
+				"Approved by the U.S. President and Secretary of Defense and issued by the Chairman of the Joint Chiefs of Staff",
+				"Approved by Congress and issued by the Secretary of the Air Force",
+				"Approved by the National Security Council and issued by theater commanders"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_017",
+			"question": "How many articles make up the Code of Conduct for members of the U.S. Armed Forces?",
+			"options": [
+				"Four",
+				"Five",
+				"Six",
+				"Eight"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_018",
+			"question": "Who first published the Code of Conduct, and in what year?",
+			"options": [
+				"President Harry S. Truman in 1950",
+				"President Dwight D. Eisenhower in 1955",
+				"President John F. Kennedy in 1962",
+				"President Lyndon B. Johnson in 1966"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_019",
+			"question": "Which president amended the Code of Conduct with gender-neutral language, and in what year?",
+			"options": [
+				"President Jimmy Carter in 1980",
+				"President Ronald W. Reagan in 1988",
+				"President George H.W. Bush in 1991",
+				"President Bill Clinton in 1994"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_020",
+			"question": "According to Article V of the Code of Conduct, when questioned as a prisoner of war, a member is required to give which of the following?",
+			"options": [
+				"Name, rank, unit assignment, and mission details",
+				"Name, rank, service number, and date of birth",
+				"Name, rank, service number, and home address",
+				"Name, rank, duty station, and commanding officer"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_021",
+			"question": "According to Article II of the Code of Conduct, what is the duty of a member who is isolated and no longer able to inflict casualties on the enemy?",
+			"options": [
+				"To surrender voluntarily to preserve their life",
+				"To evade capture and rejoin the nearest friendly force",
+				"To destroy all equipment and wait for rescue",
+				"To negotiate terms of surrender with the enemy"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_022",
+			"question": "Code of Conduct training is conducted at how many levels?",
+			"options": [
+				"Two",
+				"Three",
+				"Four",
+				"Five"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_023",
+			"question": "According to Article IV of the Code of Conduct, if the senior prisoner of war is incapacitated, who assumes command?",
+			"options": [
+				"The prisoner of war with the most combat experience",
+				"The prisoner of war elected by other captives",
+				"The next senior prisoner of war",
+				"Command is deferred until the senior POW recovers"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_024",
+			"question": "During a terrorist hostage situation, Department of Defense policy recommends U.S. personnel should avoid which topics with their captors?",
+			"options": [
+				"Weather, sports, and entertainment",
+				"Their cause, politics, or religion",
+				"Personal family information and hometown details",
+				"Military rank structure and chain of command"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_025",
+			"question": "According to Department of Defense policy, attempting to escape from an unfriendly government during operations other than war is:",
+			"options": [
+				"Required under all circumstances per the Code of Conduct",
+				"Recommended as the first course of action",
+				"Not recommended except under life-threatening circumstances",
+				"Prohibited under all circumstances"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		}
+	]
+}

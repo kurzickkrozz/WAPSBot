@@ -1,0 +1,306 @@
+{
+  "chapter": "Chapter 22",
+  "title": "Fitness and Readiness",
+  "questions": [
+    {
+      "id": "ch22_001",
+      "question": "What is the maximum ratio of Airmen to FAC augmentees when conducting components of the PFA?",
+      "options": [
+        "10 Airmen for every one FAC augmentee",
+        "12 Airmen for every one FAC augmentee",
+        "15 Airmen for every one FAC augmentee",
+        "8 Airmen for every one FAC augmentee"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22A"
+    },
+    {
+      "id": "ch22_002",
+      "question": "What minimum fitness assessment score must a Physical Training Leader (PTL) maintain?",
+      "options": [
+        "80.0 or higher",
+        "90.0 or higher",
+        "70.0 or higher",
+        "75.0 or higher"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 22, Sec. 22A"
+    },
+    {
+      "id": "ch22_003",
+      "question": "Which form is mandatory for documenting fitness assessment results, and locally-produced scorecards cannot be used?",
+      "options": [
+        "AF Form 469",
+        "DAF Form 4446",
+        "DAF Form 108",
+        "DAF Form 113"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22A"
+    },
+    {
+      "id": "ch22_004",
+      "question": "What method does the Body Composition Program (BCP) use to calculate body composition?",
+      "options": [
+        "Body Mass Index (BMI)",
+        "Abdominal circumference measurement",
+        "Waist-to-Height Ratio (WHtR)",
+        "Skin fold caliper measurements"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22A"
+    },
+    {
+      "id": "ch22_005",
+      "question": "According to the BCA assessment standards, what WHtR value is the threshold between meeting standard and not meeting standard?",
+      "options": [
+        "0.50",
+        "0.60",
+        "0.55",
+        "0.45"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22A"
+    },
+    {
+      "id": "ch22_006",
+      "question": "When must Air Force military members complete their annual Body Composition Assessment (BCA)?",
+      "options": [
+        "Within their enlistment anniversary month",
+        "Within the first quarter of the fiscal year",
+        "Within their birth month",
+        "Within the month designated by their unit commander"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22A"
+    },
+    {
+      "id": "ch22_007",
+      "question": "All components of the fitness assessment must be completed within what time window on the same day?",
+      "options": [
+        "A two-hour window",
+        "A four-hour window",
+        "A three-hour window",
+        "A one-hour window"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22B"
+    },
+    {
+      "id": "ch22_008",
+      "question": "What is the correct order of fitness assessment components?",
+      "options": [
+        "Cardiorespiratory, muscular strength, core endurance, body composition",
+        "Muscular strength, core endurance, body composition, cardiorespiratory",
+        "Body composition, core endurance, muscular strength, cardiorespiratory",
+        "Body composition, muscular strength, core endurance, cardiorespiratory"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 22, Sec. 22B"
+    },
+    {
+      "id": "ch22_009",
+      "question": "How many maximum points can be earned for the aerobic component of the fitness assessment composite score?",
+      "options": [
+        "40 points",
+        "50 points",
+        "60 points",
+        "30 points"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22B"
+    },
+    {
+      "id": "ch22_010",
+      "question": "What composite score is required to achieve a fitness assessment level of 'Excellent'?",
+      "options": [
+        "At or above 85",
+        "At or above 95",
+        "At or above 80",
+        "At or above 90"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 22, Sec. 22B"
+    },
+    {
+      "id": "ch22_011",
+      "question": "If an Airman receives an 'Unsatisfactory' fitness assessment result, within how many days must they retest?",
+      "options": [
+        "60 days",
+        "90 days",
+        "120 days",
+        "180 days"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22B"
+    },
+    {
+      "id": "ch22_012",
+      "question": "What is the minimum rest period required between fitness assessment components?",
+      "options": [
+        "Three minutes",
+        "Ten minutes",
+        "Two minutes",
+        "Five minutes"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 22, Sec. 22B"
+    },
+    {
+      "id": "ch22_013",
+      "question": "What is the general recommendation for carbohydrate intake as a percentage of total daily caloric intake?",
+      "options": [
+        "30-50 percent",
+        "45-65 percent",
+        "55-75 percent",
+        "25-40 percent"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22C"
+    },
+    {
+      "id": "ch22_014",
+      "question": "How many calories per gram do fats provide?",
+      "options": [
+        "Four calories per gram",
+        "Seven calories per gram",
+        "Nine calories per gram",
+        "Six calories per gram"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22C"
+    },
+    {
+      "id": "ch22_015",
+      "question": "What is the optimal composition of a post-recovery beverage or snack in terms of carbohydrate to protein ratio?",
+      "options": [
+        "Two-to-one",
+        "Three-to-one",
+        "Four-to-one",
+        "Five-to-one"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22C"
+    },
+    {
+      "id": "ch22_016",
+      "question": "What is the recommended daily sodium intake limit for adults according to the Dietary Guidelines for Americans?",
+      "options": [
+        "1,500 milligrams per day",
+        "3,400 milligrams per day",
+        "2,300 milligrams per day",
+        "2,000 milligrams per day"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22C"
+    },
+    {
+      "id": "ch22_017",
+      "question": "Tobacco use is estimated to cost the Department of Defense how much annually due to increased healthcare utilization and decreased work productivity?",
+      "options": [
+        "$2.5 billion",
+        "$1.7 billion",
+        "$3.2 billion",
+        "$1.2 billion"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22D"
+    },
+    {
+      "id": "ch22_018",
+      "question": "What is the minimum distance that designated tobacco use areas must be from building entrances on USAF installations?",
+      "options": [
+        "25 feet",
+        "75 feet",
+        "100 feet",
+        "50 feet"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 22, Sec. 22D"
+    },
+    {
+      "id": "ch22_019",
+      "question": "What does the ADAPT program acronym stand for?",
+      "options": [
+        "Alcohol and Drug Assessment Prevention Training",
+        "Alcohol and Drug Abuse Prevention and Treatment",
+        "Airman Drug and Alcohol Prevention and Testing",
+        "Assessment and Deterrence of Alcohol Problems and Treatment"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22D"
+    },
+    {
+      "id": "ch22_020",
+      "question": "What are the four categories in which stress reactions typically appear?",
+      "options": [
+        "Physical, emotional, social, and spiritual",
+        "Cognitive, emotional, behavioral, and physical",
+        "Mental, physical, behavioral, and social",
+        "Cognitive, behavioral, social, and spiritual"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22E"
+    },
+    {
+      "id": "ch22_021",
+      "question": "What does the ACE model in suicide prevention stand for?",
+      "options": [
+        "Assess, Comfort, and Evaluate",
+        "Ask, Care, and Escort",
+        "Acknowledge, Counsel, and Engage",
+        "Assist, Communicate, and Empower"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22E"
+    },
+    {
+      "id": "ch22_022",
+      "question": "What are the four domains of Comprehensive Airman Fitness (CAF)?",
+      "options": [
+        "Mental, physical, social, and spiritual",
+        "Physical, emotional, cognitive, and behavioral",
+        "Mental, physical, financial, and social",
+        "Physical, spiritual, professional, and personal"
+      ],
+      "answer": 0,
+      "reference": "AFH 1, Ch. 22, Sec. 22E"
+    },
+    {
+      "id": "ch22_023",
+      "question": "According to the chapter, consuming large doses of caffeine (roughly 400-500 milligrams at one time) can result in what condition?",
+      "options": [
+        "Caffeine shock",
+        "Caffeine overdose syndrome",
+        "Caffeine intoxication",
+        "Caffeine hypersensitivity"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22C"
+    },
+    {
+      "id": "ch22_024",
+      "question": "What is the recommended total fiber intake per day to aid in digestion and help balance the absorption of sugar into the bloodstream?",
+      "options": [
+        "12-15 grams per day",
+        "15-25 grams per day",
+        "20-35 grams per day",
+        "30-45 grams per day"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 22, Sec. 22C"
+    },
+    {
+      "id": "ch22_025",
+      "question": "For an Airman who achieves an 'Excellent' fitness assessment with all three applicable component scores at or above 90, how often must they retest?",
+      "options": [
+        "Within 6 months",
+        "Within 12 months",
+        "Within 18 months",
+        "Within 90 days"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 22, Sec. 22B"
+    }
+  ]
+}

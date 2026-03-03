@@ -1,0 +1,306 @@
+{
+  "chapter": "Chapter 15",
+  "title": "Developing Self",
+  "questions": [
+    {
+      "id": "ch15_001",
+      "question": "According to surveys of USAF members, which foundational competency has been consistently rated as the most important for success in a USAF career?",
+      "options": [
+        "Communication",
+        "Accountability",
+        "Resilience",
+        "Perseverance"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_002",
+      "question": "Accountability is defined as demonstrating reliability and honesty and taking responsibility for the behaviors of whom?",
+      "options": [
+        "Self only",
+        "Self and subordinates",
+        "Self and team",
+        "The entire organization"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_003",
+      "question": "What term refers to a person's belief in their ability to address a situation, based on the skills they have and the circumstances they face?",
+      "options": [
+        "Autonomy",
+        "Growth mindset",
+        "Positive reappraisal",
+        "Self-efficacy"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_004",
+      "question": "Which mindset refers to the belief that a person's intelligence and personal qualities are mostly permanent and cannot be significantly changed?",
+      "options": [
+        "Growth mindset",
+        "Fixed mindset",
+        "Resilient mindset",
+        "Controlled mindset"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_005",
+      "question": "People with a growth mindset are likely to do which of the following when they encounter challenges?",
+      "options": [
+        "Give up easily because the task is too difficult",
+        "View exerting effort as evidence of inability",
+        "Persist on even the most difficult tasks and focus on improving",
+        "Become defensive about mistakes and negative feedback"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_006",
+      "question": "According to the text, self-control is compared to what physical attribute?",
+      "options": [
+        "A battery that drains and recharges",
+        "A muscle that gets depleted with heavy use but can be strengthened with practice",
+        "A reservoir that empties and refills over time",
+        "A circuit breaker that trips under overload"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_007",
+      "question": "According to the text on self-control, what strategy is more likely to prevent inappropriate behavior than simply trying to internally control urges?",
+      "options": [
+        "Practicing meditation and deep breathing exercises",
+        "Setting daily written reminders of personal goals",
+        "Changing the situation to reduce temptation",
+        "Seeking counseling from a mental health professional"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_008",
+      "question": "Studies have found that even how many weeks of deliberate, daily practice to inhibit an urge or behavior can meaningfully improve impulse control?",
+      "options": [
+        "One week",
+        "Two weeks",
+        "Four weeks",
+        "Six weeks"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_009",
+      "question": "What does positive reappraisal refer to in the context of resilience?",
+      "options": [
+        "Ignoring negative events and focusing only on positive outcomes",
+        "The process of re-interpreting stressful events as non-threatening, meaningful, and even contributing to personal growth",
+        "Replacing negative thoughts with positive affirmations daily",
+        "Seeking external validation to overcome stressful experiences"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_010",
+      "question": "When a person frames a stressful situation in terms of challenge rather than threat, what physiological outcome is observed?",
+      "options": [
+        "Heart rate, pulse, and blood pressure do not increase at all",
+        "The person experiences no anxiety about the task",
+        "Heart rate, pulse, and blood pressure return to normal more quickly after the event",
+        "Stress hormones are completely eliminated during the event"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15A"
+    },
+    {
+      "id": "ch15_011",
+      "question": "What are the five core principles of effective communication represented by the acronym FOCUS?",
+      "options": [
+        "Faithful, Objective, Coherent, Unified, Specific",
+        "Focused, Organized, Clear, Understanding, Supported",
+        "Formal, Original, Concise, Universal, Structured",
+        "Flexible, Open, Credible, Understandable, Streamlined"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15C"
+    },
+    {
+      "id": "ch15_012",
+      "question": "According to the text, what is the most important aspect of good communication?",
+      "options": [
+        "Delivery",
+        "Content accuracy",
+        "Preparation",
+        "Audience engagement"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15C"
+    },
+    {
+      "id": "ch15_013",
+      "question": "What is the seventh and final step for effective communication as indicated in DAFH 33-337?",
+      "options": [
+        "Draft the final product",
+        "Edit for grammar and clarity",
+        "Organize and outline the message",
+        "Fight for feedback and get approval"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 15, Sec. 15C"
+    },
+    {
+      "id": "ch15_014",
+      "question": "According to the text, the purpose of all job interviews is designed with what single goal in mind?",
+      "options": [
+        "To evaluate a candidate's technical knowledge",
+        "To find the right person for the right job",
+        "To assess communication and leadership skills",
+        "To determine salary and benefit requirements"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15C"
+    },
+    {
+      "id": "ch15_015",
+      "question": "Which USAF paper type is used when addressing a single issue that can be covered within a single page using bullets or phrases that require minimal data, and functions as a memory jogger?",
+      "options": [
+        "Talking paper",
+        "Bullet background paper",
+        "Point paper",
+        "Position paper"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15D"
+    },
+    {
+      "id": "ch15_016",
+      "question": "What are the three common delivery formats for spoken communication?",
+      "options": [
+        "Formal, informal, and extemporaneous",
+        "Briefing, lecture, and speech",
+        "Impromptu, prepared, and manuscript",
+        "Scripted, outlined, and conversational"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15E"
+    },
+    {
+      "id": "ch15_017",
+      "question": "According to the text, a superb impromptu speaker has achieved what level in verbal communications?",
+      "options": [
+        "An advanced level",
+        "A professional level",
+        "The highest level",
+        "A competent level"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15E"
+    },
+    {
+      "id": "ch15_018",
+      "question": "What are the three qualities that every good briefing must have?",
+      "options": [
+        "Accuracy, brevity, and clarity",
+        "Precision, conciseness, and impact",
+        "Relevance, timeliness, and completeness",
+        "Structure, detail, and persuasion"
+      ],
+      "answer": 0,
+      "reference": "AFH 1, Ch. 15, Sec. 15E"
+    },
+    {
+      "id": "ch15_019",
+      "question": "According to the text, communication experts believe that over half of the meaning of any message may be communicated in what way?",
+      "options": [
+        "Through written documentation",
+        "Through verbal emphasis and tone",
+        "Nonverbally",
+        "Through repetition"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15E"
+    },
+    {
+      "id": "ch15_020",
+      "question": "What is the normal spoken rate referenced in the text for verbal communication?",
+      "options": [
+        "80 words a minute",
+        "100 words a minute",
+        "120 words a minute",
+        "150 words a minute"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15E"
+    },
+    {
+      "id": "ch15_021",
+      "question": "What nonverbal quirk term is used when a speaker paces across a stage from one side to the other without stopping?",
+      "options": [
+        "Life raft",
+        "Caged tiger",
+        "Rocker",
+        "Too cool"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15E"
+    },
+    {
+      "id": "ch15_022",
+      "question": "What is the difference between hearing and listening as described in the text?",
+      "options": [
+        "Hearing is involuntary while listening is a trained military skill",
+        "Hearing occurs when ears pick up sounds; listening involves hearing while also paying attention to and giving consideration to what is heard",
+        "Hearing requires focus while listening is passive reception of sound",
+        "There is no functional difference; the terms are interchangeable"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15E"
+    },
+    {
+      "id": "ch15_023",
+      "question": "In e-mail etiquette, writing in all CAPITAL letters is considered the equivalent of what?",
+      "options": [
+        "Emphasizing key points",
+        "Formal communication",
+        "Shouting, and is considered rude",
+        "Marking a message as urgent"
+      ],
+      "answer": 2,
+      "reference": "AFH 1, Ch. 15, Sec. 15F"
+    },
+    {
+      "id": "ch15_024",
+      "question": "According to the text, what is the Department of Defense's core messaging system of record?",
+      "options": [
+        "Air Force Organizational Messaging System",
+        "Public key infrastructure",
+        "Simple mail transfer protocol",
+        "The defense message system"
+      ],
+      "answer": 3,
+      "reference": "AFH 1, Ch. 15, Sec. 15F"
+    },
+    {
+      "id": "ch15_025",
+      "question": "According to the organizational communication section, what five characteristics must an effective organizational culture exhibit to foster a culture of engagement?",
+      "options": [
+        "Transparent, honest, accountable, responsive, and resilient",
+        "Proactive, innovative, adaptive, leader driven, and sustainable",
+        "Structured, disciplined, mission-focused, team-oriented, and agile",
+        "Inclusive, diverse, flexible, results-driven, and collaborative"
+      ],
+      "answer": 1,
+      "reference": "AFH 1, Ch. 15, Sec. 15B"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"extends": "@sapphire/ts-config",
+	"compilerOptions": {
+		"rootDir": "src",
+		"outDir": "dist",
+		"tsBuildInfoFile": "dist/.tsbuildinfo",
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false,
+		"noImplicitOverride": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true
+	},
+	"include": ["src"],
+	"exclude": ["node_modules", "dist", "._reference1", "._reference2"]
+}

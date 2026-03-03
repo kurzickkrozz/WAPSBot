@@ -1,0 +1,366 @@
+{
+	"chapter": "Chapter 12",
+	"title": "Finance, Manpower, and Resources",
+	"questions": [
+		{
+			"id": "ch12_001",
+			"question": "According to AFI 1-1, what two key aspects of individual financial responsibility should USAF members focus on?",
+			"options": [
+				"Investing in stocks and maintaining a savings account",
+				"Establishing a personal budget and effective management of debt",
+				"Maximizing allowances and minimizing taxes",
+				"Filing tax returns early and contributing to TSP"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_002",
+			"question": "Annual military pay raises are set by Congress and the U.S. President in which document?",
+			"options": [
+				"DoD Financial Management Regulation",
+				"Joint Travel Regulation",
+				"National Defense Authorization Act",
+				"Federal Employees' Retirement Act"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_003",
+			"question": "The 1 January annual pay raise automatically matches what metric from the previous year?",
+			"options": [
+				"Consumer Price Index increase",
+				"Private sector wage increases as measured by the Employment Cost Index",
+				"Federal civilian General Schedule pay adjustments",
+				"Inflation rate as determined by the Treasury Department"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_004",
+			"question": "The Leave and Earnings Statement (LES) is formally titled as which DFAS form?",
+			"options": [
+				"DFAS Form 200",
+				"DFAS Form 502",
+				"DFAS Form 702",
+				"DFAS Form 1351"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_005",
+			"question": "LES processing cutoff dates generally occur around which dates each month?",
+			"options": [
+				"The 1st for mid-month and the 15th for end-of-month",
+				"The 6th for mid-month and the 20th for end-of-month",
+				"The 10th for mid-month and the 25th for end-of-month",
+				"The 5th for mid-month and the 15th for end-of-month"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_006",
+			"question": "The Basic Needs Allowance is available to Airmen and Guardians whose Gross Household Income places them below what percentage of Federal Poverty Guidelines?",
+			"options": [
+				"100 percent",
+				"125 percent",
+				"150 percent",
+				"200 percent"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_007",
+			"question": "Which types of pay are service members NOT required to pay federal or state taxes on?",
+			"options": [
+				"Basic pay and incentive pay",
+				"BAH and BAS",
+				"Special duty assignment pay and hazardous duty pay",
+				"Separation pay and lump-sum leave payment"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_008",
+			"question": "What is the maximum monthly deduction amount for the Armed Forces Retirement Home (AFRH) from the pay of regular enlisted members?",
+			"options": [
+				"$0.50",
+				"$1.00",
+				"$2.00",
+				"$5.00"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_009",
+			"question": "Under the Blended Retirement System (BRS), a member who enlisted on or after 1 January 2018 will be automatically enrolled in TSP at what contribution level?",
+			"options": [
+				"3% of basic pay",
+				"5% of basic pay",
+				"7% of basic pay",
+				"10% of basic pay"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_010",
+			"question": "TSP automatic contributions for BRS-enrolled members begin with the first pay period following how many days of service from the Pay Entry Base Date?",
+			"options": [
+				"30 days",
+				"45 days",
+				"60 days",
+				"90 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_011",
+			"question": "What is the maximum amount of Servicemembers' Group Life Insurance (SGLI) coverage?",
+			"options": [
+				"$100,000",
+				"$250,000",
+				"$400,000",
+				"$500,000"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_012",
+			"question": "Under SGLI, each dependent child is covered in what amount at no cost to the member?",
+			"options": [
+				"$5,000",
+				"$10,000",
+				"$25,000",
+				"$50,000"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_013",
+			"question": "How many days do commanders have to attempt to respond to financial complaints against members?",
+			"options": [
+				"5 days",
+				"10 days",
+				"15 days",
+				"30 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_014",
+			"question": "For federal government collection of debts, due process notification is generally required for debts exceeding what amount?",
+			"options": [
+				"$50",
+				"$75",
+				"$100",
+				"$200"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12A"
+		},
+		{
+			"id": "ch12_015",
+			"question": "A PCS advance payment is an advance of up to how many months of basic pay?",
+			"options": [
+				"One month",
+				"Two months",
+				"Three months",
+				"Six months"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_016",
+			"question": "All Airmen who are E-3 and below must have whose approval to receive PCS advance pay?",
+			"options": [
+				"The installation commander",
+				"The first sergeant",
+				"Their immediate commander",
+				"The financial services office"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_017",
+			"question": "When the expedited transportation mode for unaccompanied baggage is commercial air, what is the maximum weight that may be transported?",
+			"options": [
+				"500 pounds",
+				"750 pounds",
+				"1,000 pounds",
+				"1,500 pounds"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_018",
+			"question": "Within how many business days must travelers electronically file a voucher in DTS upon return to their permanent duty station?",
+			"options": [
+				"Three business days",
+				"Five business days",
+				"Seven business days",
+				"Ten business days"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_019",
+			"question": "GTCC automated teller machine cash advances may not be obtained earlier than how many working days before scheduled travel?",
+			"options": [
+				"One working day",
+				"Two working days",
+				"Three working days",
+				"Five working days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_020",
+			"question": "At what number of days past due will a GTCC account be suspended?",
+			"options": [
+				"15 days",
+				"31 days",
+				"45 days",
+				"61 days"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_021",
+			"question": "GTCC accounts that are how many days past due will be submitted for salary-offset processing to DFAS?",
+			"options": [
+				"61 days",
+				"75 days",
+				"96 days",
+				"181 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_022",
+			"question": "GTCC accounts that are how many days past due are considered in charged-off status, making the cardholder no longer eligible for reinstatement?",
+			"options": [
+				"96 days",
+				"120 days",
+				"150 days",
+				"181 days"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 12, Sec. 12B"
+		},
+		{
+			"id": "ch12_023",
+			"question": "What are the three types of manpower used to conduct the USAF mission?",
+			"options": [
+				"Active duty, reserve, and guard personnel",
+				"Military personnel, in-service civilian employees, and contracted services",
+				"Officers, enlisted, and civilian employees",
+				"Federal employees, contractors, and volunteers"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12C"
+		},
+		{
+			"id": "ch12_024",
+			"question": "What is the primary document that reflects the manpower required to accomplish the unit mission?",
+			"options": [
+				"Unit Personnel Management Roster",
+				"Manpower Programming and Execution Report",
+				"Unit Manpower Document (UMD)",
+				"Air Force Specialty Code Register"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12C"
+		},
+		{
+			"id": "ch12_025",
+			"question": "What are the four interrelated phases of the Planning, Programming, Budgeting, and Execution (PPBE) process?",
+			"options": [
+				"Analyzing, resourcing, distributing, and reviewing",
+				"Planning, programming, budgeting, and execution",
+				"Identifying, validating, allocating, and auditing",
+				"Forecasting, obligating, expending, and reconciling"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12D"
+		},
+		{
+			"id": "ch12_026",
+			"question": "The USAF budget program operates on a fiscal year basis that runs during which period?",
+			"options": [
+				"1 January through 31 December",
+				"1 July through the following 30 June",
+				"1 October through the following 30 September",
+				"1 April through the following 31 March"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12D"
+		},
+		{
+			"id": "ch12_027",
+			"question": "A financial liability investigation shall be conducted for all loss, damage, destruction, or theft of government-owned equipment with an initial acquisition cost of what amount or greater?",
+			"options": [
+				"$1,000",
+				"$2,500",
+				"$5,000",
+				"$10,000"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12D"
+		},
+		{
+			"id": "ch12_028",
+			"question": "How is fraud defined in the context of Fraud, Waste, and Abuse prevention?",
+			"options": [
+				"The extravagant, careless, or needless expenditure of USAF funds",
+				"The intentionally wrongful or improper use of USAF resources",
+				"Any intentional deception designed to unlawfully deprive the USAF of something of value or to secure an unentitled benefit",
+				"The misuse of rank, position, or authority that causes the loss of resources"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12, Sec. 12D"
+		},
+		{
+			"id": "ch12_029",
+			"question": "What are the three priorities of the Environmental Management System?",
+			"options": [
+				"Reduction, recycling, and restoration",
+				"Compliance, risk reduction, and continuous improvement",
+				"Conservation, protection, and sustainability",
+				"Prevention, mitigation, and remediation"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12E"
+		},
+		{
+			"id": "ch12_030",
+			"question": "The Environmental Management System is designed with how many phases, and what are they?",
+			"options": [
+				"Three phases: Assess, Implement, Review",
+				"Four phases: Plan, Do, Check, Act",
+				"Five phases: Identify, Plan, Execute, Monitor, Improve",
+				"Six phases: Survey, Plan, Execute, Monitor, Report, Improve"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12, Sec. 12E"
+		}
+	]
+}
