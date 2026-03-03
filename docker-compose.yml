@@ -1,7 +1,7 @@
 services:
   bot:
     build: .
-    container_name: waps-quiz-bot
+    container_name: waps-bot
     restart: unless-stopped
     env_file:
       - .env
