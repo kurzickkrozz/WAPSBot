@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="banner.png" alt="WAPSBot Banner" width="600" />
+</p>
+
+<p align="center">
+  <img src="logo.png" alt="WAPSBot Logo" width="128" />
+</p>
+
 # WAPS PFE Quiz Bot
 
 A Discord bot for studying USAF WAPS (Weighted Airman Promotion System) PFE (Promotion Fitness Examination) material. Delivers DM-based multiple-choice quiz sessions sourced from AFH-1 (Air Force Handbook 1) question banks.
@@ -117,7 +125,7 @@ Bot versioning and metadata are configurable via environment variables:
 |----------|---------|-------------|
 | `DISCORD_TOKEN` | — | Discord bot token (required) |
 | `NODE_ENV` | `development` | Environment (`development` or `production`) |
-| `BOT_VERSION` | `1.1.0` | Displayed bot version |
+| `BOT_VERSION` | `1.1.3` | Displayed bot version |
 | `AFH1_VERSION` | `15 February 2025` | AFH-1 publication date |
 | `TEST_CYCLE` | `26E5 / 26E6` | Current WAPS test cycle |
 | `BOT_DEVELOPER` | `TunnelRat` | Developer name shown in `/about` |
