@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="WAPSBot Banner" width="600" />
+  <img src="banner.png" alt="WAPSBot Banner" />
 </p>
 
 <p align="center">
