@@ -1,7 +1,11 @@
 import { join } from 'path';
+import { readFileSync } from 'fs';
+
+// Read version from package.json (single source of truth), allow env override
+const pkg = JSON.parse(readFileSync(join(__dirname, '..', '..', 'package.json'), 'utf8'));
 
 // Bot versioning (overridable via environment variables)
-export const BOT_VERSION = process.env.BOT_VERSION ?? '1.1.3';
+export const BOT_VERSION = process.env.BOT_VERSION ?? pkg.version;
 export const AFH1_VERSION = process.env.AFH1_VERSION ?? '15 February 2025';
 export const TEST_CYCLE = process.env.TEST_CYCLE ?? '26E5 / 26E6';
 export const BOT_DEVELOPER = process.env.BOT_DEVELOPER ?? 'TunnelRat';

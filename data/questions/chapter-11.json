@@ -1,366 +1,486 @@
 {
-  "chapter": "Chapter 11",
-  "title": "Developing Yourself",
-  "questions": [
-    {
-      "id": "ch11_001",
-      "question": "According to AFI 1-1, which members must have a family care plan?",
-      "options": [
-        "All USAF members regardless of family status",
-        "Single-member parents with custody of children who bear sole or joint responsibility, and military couples with dependents",
-        "Only dual-military couples with dependents under age 5",
-        "Only members assigned to overseas duty stations with dependents"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_002",
-      "question": "How quickly must members notify their commander or first sergeant of changes in personal status or family circumstances that require completion of a DAF Form 357?",
-      "options": [
-        "Within 15 days",
-        "Within 45 days",
-        "Immediately, or within 30 days (60 days for Selected Reserve)",
-        "Within 90 days"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_003",
-      "question": "What is the consequence of failing to produce a family care plan within 60 days of discussion with the commander, supervisor, or commander's designated representative?",
-      "options": [
-        "Mandatory reassignment to a non-deployable position",
-        "A letter of counseling only",
-        "Automatic demotion in grade",
-        "Disciplinary action or administrative separation"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_004",
-      "question": "What form is used for Family Care Certification?",
-      "options": [
-        "AF Form 988",
-        "DAF Form 357",
-        "DD Form 2656",
-        "SF 182"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_005",
-      "question": "How often are commanders or first sergeants required to brief military members with family care responsibilities?",
-      "options": [
-        "Monthly",
-        "Quarterly",
-        "Semi-annually",
-        "Annually"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_006",
-      "question": "VA disability compensation is graduated according to the degree of the veteran's disability. What is the scale range and increment?",
-      "options": [
-        "5 percent to 100 percent in increments of 5 percent",
-        "10 percent to 100 percent in increments of 10 percent",
-        "10 percent to 100 percent in increments of 5 percent",
-        "20 percent to 100 percent in increments of 10 percent"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_007",
-      "question": "At what combined disability rating may a veteran with dependents receive an additional allowance for VA disability compensation?",
-      "options": [
-        "10 percent or greater",
-        "20 percent or greater",
-        "30 percent or greater",
-        "50 percent or greater"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_008",
-      "question": "Which health care program serves uniformed service members, retirees, their family members, survivors, and some former spouses?",
-      "options": [
-        "Veterans Health Administration",
-        "TRICARE",
-        "CHAMPUS",
-        "Federal Employees Health Benefits"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_009",
-      "question": "What are the two primary health care plan options offered to eligible TRICARE beneficiaries?",
-      "options": [
-        "TRICARE Standard and TRICARE Extra",
-        "TRICARE Prime and TRICARE Select",
-        "TRICARE Basic and TRICARE Premium",
-        "TRICARE For Life and TRICARE Young Adult"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_010",
-      "question": "How many years of Total Active Federal Military Service (TAFMS) must enlisted members have to be eligible for retirement?",
-      "options": [
-        "15 years",
-        "18 years",
-        "20 years",
-        "25 years"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_011",
-      "question": "In addition to 20 years of TAFMS, how many years of total active federal commissioned service must officers have to be eligible to retire?",
-      "options": [
-        "5 years",
-        "8 years",
-        "10 years",
-        "15 years"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_012",
-      "question": "A retirement application can typically be submitted through myFSS up to how many months before the desired retirement date, but no less than how many months?",
-      "options": [
-        "Up to 6 months, but no less than 2 months",
-        "Up to 12 months, but no less than 4 months",
-        "Up to 18 months, but no less than 6 months",
-        "Up to 24 months, but no less than 12 months"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_013",
-      "question": "Under the Blended Retirement System (BRS), what is the retirement pay multiplier per year of service?",
-      "options": [
-        "2.5% times years of service",
-        "2.0% times years of service",
-        "3.0% times years of service",
-        "1.5% times years of service"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_014",
-      "question": "Under the BRS, when does the DoD begin an automatic contribution of one percent of base pay to the Thrift Savings Plan?",
-      "options": [
-        "After 30 days of service",
-        "After 60 days of service",
-        "After 90 days of service",
-        "After 1 year of service"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_015",
-      "question": "Under the BRS, the DoD begins matching contributions up to an additional four percent of base pay after how many years of service?",
-      "options": [
-        "1 year",
-        "2 years",
-        "3 years",
-        "5 years"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_016",
-      "question": "The Survivor Benefit Plan annuity payable is what percent of the retired pay the member would have been entitled to receive?",
-      "options": [
-        "35 percent",
-        "45 percent",
-        "55 percent",
-        "65 percent"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_017",
-      "question": "Under the Survivor Benefit Plan 'paid-up' feature, at what age and after how many months of premium payments can a member stop paying premiums while remaining an active participant?",
-      "options": [
-        "Age 65 and 240 months of premiums",
-        "Age 70 and 360 months of premiums",
-        "Age 62 and 300 months of premiums",
-        "Age 75 and 360 months of premiums"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_018",
-      "question": "When can a Survivor Benefit Plan participant terminate coverage?",
-      "options": [
-        "At any time after beginning receipt of retired pay",
-        "During a one-year window between the second and third anniversary following the date beginning receipt of retired pay",
-        "Only within 90 days of retirement",
-        "During a six-month window at the fifth anniversary of retirement"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_019",
-      "question": "What is the toll-free number for service members and families in the United States to reach the American Red Cross?",
-      "options": [
-        "1-800-273-8255",
-        "1-800-733-2767",
-        "1-800-342-9647",
-        "1-800-525-0102"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_020",
-      "question": "How many days of leave do members accrue for each month of RegAF status?",
-      "options": [
-        "1.5 days",
-        "2.0 days",
-        "2.5 days",
-        "3.0 days"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11B"
-    },
-    {
-      "id": "ch11_021",
-      "question": "What is the maximum number of leave days a member may accumulate by the end of a fiscal year?",
-      "options": [
-        "30 days",
-        "45 days",
-        "60 days",
-        "75 days"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11B"
-    },
-    {
-      "id": "ch11_022",
-      "question": "How many weeks of non-chargeable leave does the Military Parental Leave Program authorize for covered service members after a qualifying birth event or adoption?",
-      "options": [
-        "6 weeks",
-        "8 weeks",
-        "10 weeks",
-        "12 weeks"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 11, Sec. 11B"
-    },
-    {
-      "id": "ch11_023",
-      "question": "Bereavement Leave provides up to how many days of non-chargeable paid leave in connection with the death of a member's spouse or child?",
-      "options": [
-        "7 days",
-        "10 days",
-        "14 days",
-        "21 days"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11B"
-    },
-    {
-      "id": "ch11_024",
-      "question": "To be eligible for bereavement leave, a member must have less than how many days of accrued ordinary leave on the date of the death?",
-      "options": [
-        "15 days",
-        "20 days",
-        "30 days",
-        "45 days"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11B"
-    },
-    {
-      "id": "ch11_025",
-      "question": "Emergency Leave of Absence (non-chargeable leave) allows commanders to grant up to how many days, and how many times during a member's career?",
-      "options": [
-        "Up to 7 days, once during a career",
-        "Up to 14 days, once during an entire career",
-        "Up to 21 days, twice during a career",
-        "Up to 30 days, once during a career"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11B"
-    },
-    {
-      "id": "ch11_026",
-      "question": "Under the We Are All Recruiters (WEAR) program, applicants are defined as individuals within what age range?",
-      "options": [
-        "17 to 35",
-        "17 to 39",
-        "18 to 34",
-        "18 to 42"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    },
-    {
-      "id": "ch11_027",
-      "question": "How many days of sick leave do civilian employees earn each year?",
-      "options": [
-        "10 days",
-        "13 days",
-        "15 days",
-        "20 days"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11D"
-    },
-    {
-      "id": "ch11_028",
-      "question": "What is the annual leave accumulation cap for most civilian employees, and what is the cap for those working overseas?",
-      "options": [
-        "30 days for most; 45 days for overseas",
-        "45 days for most; 60 days for overseas",
-        "30 days for most; 60 days for overseas",
-        "60 days for most; 90 days for overseas"
-      ],
-      "answer": 0,
-      "reference": "AFH 1, Ch. 11, Sec. 11D"
-    },
-    {
-      "id": "ch11_029",
-      "question": "Approximately what percent of USAF civilian employees are covered by labor agreements between unions and installations or major commands?",
-      "options": [
-        "25 percent",
-        "40 percent",
-        "53 percent",
-        "67 percent"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 11, Sec. 11D"
-    },
-    {
-      "id": "ch11_030",
-      "question": "Under the CSB/REDUX retirement option, what is the value of each of the first 20 years of service toward the retirement multiplier?",
-      "options": [
-        "1.5% per year",
-        "2.0% per year",
-        "2.5% per year",
-        "3.0% per year"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 11, Sec. 11A"
-    }
-  ]
+	"chapter": "Chapter 11",
+	"title": "Developing Yourself",
+	"questions": [
+		{
+			"id": "ch11_001",
+			"question": "According to AFI 1-1, which members must have a family care plan?",
+			"options": [
+				"All USAF members regardless of family status",
+				"Single-member parents with custody of children who bear sole or joint responsibility, and military couples with dependents",
+				"Only dual-military couples with dependents under age 5",
+				"Only members assigned to overseas duty stations with dependents"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_002",
+			"question": "How quickly must members notify their commander or first sergeant of changes in personal status or family circumstances that require completion of a DAF Form 357?",
+			"options": [
+				"Within 15 days",
+				"Within 45 days",
+				"Immediately, or within 30 days (60 days for Selected Reserve)",
+				"Within 90 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_003",
+			"question": "What is the consequence of failing to produce a family care plan within 60 days of discussion with the commander, supervisor, or commander's designated representative?",
+			"options": [
+				"Mandatory reassignment to a non-deployable position",
+				"A letter of counseling only",
+				"Automatic demotion in grade",
+				"Disciplinary action or administrative separation"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_004",
+			"question": "What form is used for Family Care Certification?",
+			"options": [
+				"AF Form 988",
+				"DAF Form 357",
+				"DD Form 2656",
+				"SF 182"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_005",
+			"question": "How often are commanders or first sergeants required to brief military members with family care responsibilities?",
+			"options": [
+				"Monthly",
+				"Quarterly",
+				"Semi-annually",
+				"Annually"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_006",
+			"question": "VA disability compensation is graduated according to the degree of the veteran's disability. What is the scale range and increment?",
+			"options": [
+				"5 percent to 100 percent in increments of 5 percent",
+				"10 percent to 100 percent in increments of 10 percent",
+				"10 percent to 100 percent in increments of 5 percent",
+				"20 percent to 100 percent in increments of 10 percent"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_007",
+			"question": "At what combined disability rating may a veteran with dependents receive an additional allowance for VA disability compensation?",
+			"options": [
+				"10 percent or greater",
+				"20 percent or greater",
+				"30 percent or greater",
+				"50 percent or greater"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_008",
+			"question": "Which health care program serves uniformed service members, retirees, their family members, survivors, and some former spouses?",
+			"options": [
+				"Veterans Health Administration",
+				"TRICARE",
+				"CHAMPUS",
+				"Federal Employees Health Benefits"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_009",
+			"question": "What are the two primary health care plan options offered to eligible TRICARE beneficiaries?",
+			"options": [
+				"TRICARE Standard and TRICARE Extra",
+				"TRICARE Prime and TRICARE Select",
+				"TRICARE Basic and TRICARE Premium",
+				"TRICARE For Life and TRICARE Young Adult"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_010",
+			"question": "How many years of Total Active Federal Military Service (TAFMS) must enlisted members have to be eligible for retirement?",
+			"options": [
+				"15 years",
+				"18 years",
+				"20 years",
+				"25 years"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_011",
+			"question": "In addition to 20 years of TAFMS, how many years of total active federal commissioned service must officers have to be eligible to retire?",
+			"options": [
+				"5 years",
+				"8 years",
+				"10 years",
+				"15 years"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_012",
+			"question": "A retirement application can typically be submitted through myFSS up to how many months before the desired retirement date, but no less than how many months?",
+			"options": [
+				"Up to 6 months, but no less than 2 months",
+				"Up to 12 months, but no less than 4 months",
+				"Up to 18 months, but no less than 6 months",
+				"Up to 24 months, but no less than 12 months"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_013",
+			"question": "Under the Blended Retirement System (BRS), what is the retirement pay multiplier per year of service?",
+			"options": [
+				"2.5% times years of service",
+				"2.0% times years of service",
+				"3.0% times years of service",
+				"1.5% times years of service"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_014",
+			"question": "Under the BRS, when does the DoD begin an automatic contribution of one percent of base pay to the Thrift Savings Plan?",
+			"options": [
+				"After 30 days of service",
+				"After 60 days of service",
+				"After 90 days of service",
+				"After 1 year of service"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_015",
+			"question": "Under the BRS, the DoD begins matching contributions up to an additional four percent of base pay after how many years of service?",
+			"options": [
+				"1 year",
+				"2 years",
+				"3 years",
+				"5 years"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_016",
+			"question": "The Survivor Benefit Plan annuity payable is what percent of the retired pay the member would have been entitled to receive?",
+			"options": [
+				"35 percent",
+				"45 percent",
+				"55 percent",
+				"65 percent"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_017",
+			"question": "Under the Survivor Benefit Plan 'paid-up' feature, at what age and after how many months of premium payments can a member stop paying premiums while remaining an active participant?",
+			"options": [
+				"Age 65 and 240 months of premiums",
+				"Age 70 and 360 months of premiums",
+				"Age 62 and 300 months of premiums",
+				"Age 75 and 360 months of premiums"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_018",
+			"question": "When can a Survivor Benefit Plan participant terminate coverage?",
+			"options": [
+				"At any time after beginning receipt of retired pay",
+				"During a one-year window between the second and third anniversary following the date beginning receipt of retired pay",
+				"Only within 90 days of retirement",
+				"During a six-month window at the fifth anniversary of retirement"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_019",
+			"question": "What is the toll-free number for service members and families in the United States to reach the American Red Cross?",
+			"options": [
+				"1-800-273-8255",
+				"1-800-733-2767",
+				"1-800-342-9647",
+				"1-800-525-0102"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_020",
+			"question": "How many days of leave do members accrue for each month of RegAF status?",
+			"options": [
+				"1.5 days",
+				"2.0 days",
+				"2.5 days",
+				"3.0 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11B"
+		},
+		{
+			"id": "ch11_021",
+			"question": "What is the maximum number of leave days a member may accumulate by the end of a fiscal year?",
+			"options": [
+				"30 days",
+				"45 days",
+				"60 days",
+				"75 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11B"
+		},
+		{
+			"id": "ch11_022",
+			"question": "How many weeks of non-chargeable leave does the Military Parental Leave Program authorize for covered service members after a qualifying birth event or adoption?",
+			"options": [
+				"6 weeks",
+				"8 weeks",
+				"10 weeks",
+				"12 weeks"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 11, Sec. 11B"
+		},
+		{
+			"id": "ch11_023",
+			"question": "Bereavement Leave provides up to how many days of non-chargeable paid leave in connection with the death of a member's spouse or child?",
+			"options": [
+				"7 days",
+				"10 days",
+				"14 days",
+				"21 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11B"
+		},
+		{
+			"id": "ch11_024",
+			"question": "To be eligible for bereavement leave, a member must have less than how many days of accrued ordinary leave on the date of the death?",
+			"options": [
+				"15 days",
+				"20 days",
+				"30 days",
+				"45 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11B"
+		},
+		{
+			"id": "ch11_025",
+			"question": "Emergency Leave of Absence (non-chargeable leave) allows commanders to grant up to how many days, and how many times during a member's career?",
+			"options": [
+				"Up to 7 days, once during a career",
+				"Up to 14 days, once during an entire career",
+				"Up to 21 days, twice during a career",
+				"Up to 30 days, once during a career"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11B"
+		},
+		{
+			"id": "ch11_026",
+			"question": "Under the We Are All Recruiters (WEAR) program, applicants are defined as individuals within what age range?",
+			"options": [
+				"17 to 35",
+				"17 to 39",
+				"18 to 34",
+				"18 to 42"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_027",
+			"question": "How many days of sick leave do civilian employees earn each year?",
+			"options": [
+				"10 days",
+				"13 days",
+				"15 days",
+				"20 days"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11D"
+		},
+		{
+			"id": "ch11_028",
+			"question": "What is the annual leave accumulation cap for most civilian employees, and what is the cap for those working overseas?",
+			"options": [
+				"30 days for most; 45 days for overseas",
+				"45 days for most; 60 days for overseas",
+				"30 days for most; 60 days for overseas",
+				"60 days for most; 90 days for overseas"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 11, Sec. 11D"
+		},
+		{
+			"id": "ch11_029",
+			"question": "Approximately what percent of USAF civilian employees are covered by labor agreements between unions and installations or major commands?",
+			"options": [
+				"25 percent",
+				"40 percent",
+				"53 percent",
+				"67 percent"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11, Sec. 11D"
+		},
+		{
+			"id": "ch11_030",
+			"question": "Under the CSB/REDUX retirement option, what is the value of each of the first 20 years of service toward the retirement multiplier?",
+			"options": [
+				"1.5% per year",
+				"2.0% per year",
+				"2.5% per year",
+				"3.0% per year"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11, Sec. 11A"
+		},
+		{
+			"id": "ch11_031",
+			"question": "Which VA educational benefit programs are listed as available to service members and veterans?",
+			"options": [
+				"Post-9/11 GI Bill, Montgomery GI Bill, Reserve Educational Assistance Program, and Survivors' and Dependents' Educational Assistance",
+				"Post-9/11 GI Bill, Federal Tuition Assistance, and Vocational Rehabilitation",
+				"Montgomery GI Bill, Federal Pell Grant, and Yellow Ribbon Program only",
+				"GI Bill, Federal Stafford Loan Program, and Military Spouse Education Assistance"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_032",
+			"question": "How many national cemeteries does the VA National Cemetery Administration operate to provide burial space for eligible individuals?",
+			"options": [
+				"100",
+				"125",
+				"155",
+				"200"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_033",
+			"question": "What is Dependency and Indemnity Compensation?",
+			"options": [
+				"A taxable monthly payment to surviving spouses only",
+				"A one-time lump sum payment to veterans with service-connected disabilities",
+				"A tax-free monetary benefit generally payable to a surviving spouse, child, or parent of service members or survivors of veterans who died from service-connected disabilities",
+				"A supplemental retirement payment for veterans rated at 50 percent or higher disability"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_034",
+			"question": "How many dental plans does TRICARE offer?",
+			"options": [
+				"One",
+				"Two",
+				"Three",
+				"Four"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_035",
+			"question": "Under the Blended Retirement System, Airmen who elect a lump sum payment of a portion of their retirement pay may receive it in up to how many annual installments?",
+			"options": [
+				"Two",
+				"Three",
+				"Four",
+				"Five"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_036",
+			"question": "What is the minimum base amount a service member can elect as the basis of Survivor Benefit Plan coverage?",
+			"options": [
+				"$100",
+				"$200",
+				"$300",
+				"$500"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_037",
+			"question": "What automated system is used for requesting and processing military leave, and what form serves as a backup when that system is unavailable?",
+			"options": [
+				"myPay and DD Form 2656",
+				"LeaveWeb and DAF Form 988",
+				"myFSS and AF Form 1768",
+				"vMPF and SF 182"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_038",
+			"question": "What happens to a member's entitlement to pay, allowances, and leave accrual when they enter excess leave status?",
+			"options": [
+				"Pay and allowances continue at half rate, but leave accrual stops",
+				"Pay, allowances, and leave accrual all continue as normal",
+				"Entitlement to pay and allowances and leave accrual stops on the first day of excess leave",
+				"Pay continues but allowances and leave accrual are suspended for 30 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_039",
+			"question": "How many steps are in each General Schedule grade for civilian employees?",
+			"options": [
+				"5",
+				"8",
+				"10",
+				"12"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 11"
+		},
+		{
+			"id": "ch11_040",
+			"question": "What is the normal regular tour of duty for most civilian employees?",
+			"options": [
+				"Four ten-hour days, Monday through Thursday",
+				"Five eight-hour days, Monday through Friday",
+				"Six six-hour days, Monday through Saturday",
+				"Five nine-hour days with alternating Fridays off"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 11"
+		}
+	]
 }

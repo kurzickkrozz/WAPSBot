@@ -1,366 +1,486 @@
 {
-  "chapter": "Chapter 17",
-  "title": "Emergency Management",
-  "questions": [
-    {
-      "id": "ch17_001",
-      "question": "What is the primary mission of the DAF Emergency Management (EM) Program?",
-      "options": [
-        "To coordinate with host nation authorities for disaster relief operations",
-        "To prevent, protect, prepare for, respond to, and recover from all hazards/threats that pose the greatest risk to lives, key resources, facilities, infrastructure, and operational missions",
-        "To establish MOPP levels for all DAF installations worldwide",
-        "To train first responders in CBRN defense techniques"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17A"
-    },
-    {
-      "id": "ch17_002",
-      "question": "How many pillars of EM preparedness does the DAF EM Program accomplish its missions through?",
-      "options": [
-        "Five",
-        "Six",
-        "Seven",
-        "Eight"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17A"
-    },
-    {
-      "id": "ch17_003",
-      "question": "Which of the following is NOT one of the seven pillars of EM preparedness?",
-      "options": [
-        "Risk Management",
-        "Planning Framework",
-        "Threat Neutralization",
-        "Adaptation via Information"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17A"
-    },
-    {
-      "id": "ch17_004",
-      "question": "The Crisis Action Team (CAT) is intended to focus on what primary function?",
-      "options": [
-        "Management of the incident at the scene",
-        "Coordinating first responder deployment",
-        "Mission continuation and sustainment",
-        "Conducting post-attack reconnaissance"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17A"
-    },
-    {
-      "id": "ch17_005",
-      "question": "Which EM mission area is defined as 'activities that address the short-term, direct effects of an incident'?",
-      "options": [
-        "Prevention",
-        "Protection",
-        "Response",
-        "Recovery"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17A"
-    },
-    {
-      "id": "ch17_006",
-      "question": "What does the Emergency Communications Center (ECC) provide?",
-      "options": [
-        "Strategic-level planning for CBRN threats only",
-        "A 24/7 operation incorporating core functions of fire and emergency services, security forces, and medical dispatch",
-        "Weekly briefings on installation emergency status",
-        "Coordination between PAR teams and the installation commander"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17A"
-    },
-    {
-      "id": "ch17_007",
-      "question": "Due to their persistent nature, which two types of chemical agents pose the primary threat to air bases?",
-      "options": [
-        "Blood agents and choking agents",
-        "Incapacitating agents and blood agents",
-        "Nerve agents and blister agents",
-        "Choking agents and nerve agents"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17B"
-    },
-    {
-      "id": "ch17_008",
-      "question": "Which statement about biological agents is correct?",
-      "options": [
-        "Symptoms of biological attacks are always experienced immediately after contact",
-        "Biological agents can only be found as dry powders",
-        "Symptoms of biological attacks may not be experienced immediately after contact; each agent has a different incubation period",
-        "Biological agents only include viruses and bacteria"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17B"
-    },
-    {
-      "id": "ch17_009",
-      "question": "What is the most important action in the event of a toxic industrial material incident?",
-      "options": [
-        "Don the protective mask and remain in place",
-        "Report the incident to the CBRN Control Center before taking any action",
-        "Immediately evacuate to an area outside the hazard's path, if feasible",
-        "Activate the collective protection system"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17B"
-    },
-    {
-      "id": "ch17_010",
-      "question": "What does a three-to-five-minute wavering tone indicate?",
-      "options": [
-        "A disaster or incident is imminent or in progress",
-        "An attack or hostile act is imminent or in progress",
-        "An active shooter incident is in progress",
-        "The all clear has been sounded"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_011",
-      "question": "What does the announcement 'Lockdown, Lockdown, Lockdown' indicate?",
-      "options": [
-        "A natural disaster warning requiring shelter-in-place",
-        "A CBRN attack is imminent",
-        "An active shooter incident is in progress",
-        "An air or ground attack is imminent"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_012",
-      "question": "During Alarm Yellow, what MOPP level is directed (or as directed)?",
-      "options": [
-        "MOPP 0",
-        "MOPP 1",
-        "MOPP 2",
-        "MOPP 4"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_013",
-      "question": "What does Alarm Yellow indicate?",
-      "options": [
-        "Attack is not probable",
-        "Attack is probable in less than 30 minutes",
-        "Air or ground attack is imminent or in progress",
-        "Attack is over and CBRN contamination is suspected"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_014",
-      "question": "During Alarm Black, what type of release allows Post Attack Reconnaissance teams to deploy?",
-      "options": [
-        "Initial Release",
-        "Limited Release",
-        "General Release",
-        "Conditional Release"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_015",
-      "question": "What is the purpose of Split MOPP?",
-      "options": [
-        "To allow individual units to choose their own MOPP level",
-        "To divide an installation into two or more CBRN zones rather than declaring the entire installation contaminated",
-        "To alternate MOPP levels between day and night shifts",
-        "To reduce the required MOPP level by half during low-threat conditions"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_016",
-      "question": "What is the best immediate protective equipment against chemical agents regardless of agent type, concentration, or method of attack?",
-      "options": [
-        "The protective mask with filters only",
-        "The M295 decontamination kit",
-        "The ground crew ensemble",
-        "The collective protection system (COLPRO)"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_017",
-      "question": "At MOPP Level Two, which items are worn and which are carried?",
-      "options": [
-        "Wear: Overgarment and Footwear; Carry: Mask/Hood and Handwear",
-        "Wear: Field Gear, Overgarment, and Footwear; Carry: Mask/Hood and Handwear",
-        "Wear: Field Gear and Overgarment; Carry: Footwear and Mask/Hood",
-        "Wear: All items; Carry: N/A"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_018",
-      "question": "What is the purpose of Collective Protection Systems (COLPRO)?",
-      "options": [
-        "To provide individual chemical agent detection for each unit member",
-        "To provide protection from CBRN agents by utilizing an overpressure system to keep threat agents outside certain facilities",
-        "To store protective equipment for rapid deployment",
-        "To decontaminate personnel after exposure to chemical agents"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_019",
-      "question": "When covering equipment that cannot be placed under overhead cover, how many layers of barrier material should be used on tops of vehicles and equipment when possible?",
-      "options": [
-        "One layer",
-        "Two layers",
-        "Three layers",
-        "Four layers"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17C"
-    },
-    {
-      "id": "ch17_020",
-      "question": "What reporting method is used as a quick and effective way to communicate attack information?",
-      "options": [
-        "SITREP",
-        "SALUTE",
-        "OPREP-3",
-        "SPOTREP"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17D"
-    },
-    {
-      "id": "ch17_021",
-      "question": "In the SALUTE reporting method, what does the 'U' stand for?",
-      "options": [
-        "Urgency",
-        "Uniform",
-        "Unit",
-        "Understanding"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17D"
-    },
-    {
-      "id": "ch17_022",
-      "question": "What are the most effective methods of removing chemical agents from skin or protective equipment?",
-      "options": [
-        "5-percent chlorine solution and water rinse",
-        "Reactive skin decontamination lotion and M295 individual decontamination kits",
-        "Soap and water followed by M8 detector paper verification",
-        "0.5-percent chlorine solution and M9 detector paper"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17D"
-    },
-    {
-      "id": "ch17_023",
-      "question": "Why should chlorine solutions for decontamination only be used after consultation with CBRN Defense Specialists?",
-      "options": [
-        "Chlorine solutions are only effective against biological agents",
-        "Some chemicals react negatively to chlorine",
-        "Chlorine solutions damage protective equipment beyond repair",
-        "Chlorine solutions are only available in limited quantities"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17D"
-    },
-    {
-      "id": "ch17_024",
-      "question": "What is a Class A mishap?",
-      "options": [
-        "Costs totaling $600,000 or more but less than $2,500,000",
-        "Costs totaling $60,000 or more but less than $600,000",
-        "Costs totaling $2,500,000, destruction of a DoD aircraft, or a fatality or permanent total disability",
-        "Costs totaling $25,000 or more but less than $60,000"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17E"
-    },
-    {
-      "id": "ch17_025",
-      "question": "Within how many hours must individuals report personal injury, property damage, or suspected exposure to hazardous materials?",
-      "options": [
-        "12 hours",
-        "24 hours",
-        "48 hours",
-        "72 hours"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17E"
-    },
-    {
-      "id": "ch17_026",
-      "question": "How many days do investigators have to respond to hazard reports in writing?",
-      "options": [
-        "5 duty days",
-        "7 duty days",
-        "10 duty days",
-        "14 duty days"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17E"
-    },
-    {
-      "id": "ch17_027",
-      "question": "How many principles govern all actions associated with risk management?",
-      "options": [
-        "Three",
-        "Four",
-        "Five",
-        "Six"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17F"
-    },
-    {
-      "id": "ch17_028",
-      "question": "What are the five steps of the Risk Management Process in order?",
-      "options": [
-        "Identify Hazards, Assess Hazards, Develop Controls and Make Decisions, Implement Controls, Supervise and Evaluate",
-        "Assess Hazards, Identify Hazards, Make Decisions, Implement Controls, Review and Report",
-        "Plan, Organize, Execute, Monitor, Debrief",
-        "Identify Risks, Analyze Risks, Develop Countermeasures, Deploy Countermeasures, Monitor Results"
-      ],
-      "answer": 0,
-      "reference": "AFH 1, Ch. 17, Sec. 17F"
-    },
-    {
-      "id": "ch17_029",
-      "question": "In Real-Time Risk Management, what are the three stages of situational awareness required for a complete assessment?",
-      "options": [
-        "Observation, Orientation, Decision",
-        "Detection, Analysis, Response",
-        "Perception of what is happening, Integration of information and goals, and Projection into the future",
-        "Identification, Evaluation, and Implementation"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 17, Sec. 17F"
-    },
-    {
-      "id": "ch17_030",
-      "question": "What are the 'Knock-it-off' and 'Timeout' concepts integral to?",
-      "options": [
-        "Deliberate Risk Management planning",
-        "Real-Time Risk Management",
-        "In-Depth Risk Management Planning",
-        "The Five-Step Risk Management Process"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 17, Sec. 17F"
-    }
-  ]
+	"chapter": "Chapter 17",
+	"title": "Emergency Management",
+	"questions": [
+		{
+			"id": "ch17_001",
+			"question": "What is the primary mission of the DAF Emergency Management (EM) Program?",
+			"options": [
+				"To coordinate with host nation authorities for disaster relief operations",
+				"To prevent, protect, prepare for, respond to, and recover from all hazards/threats that pose the greatest risk to lives, key resources, facilities, infrastructure, and operational missions",
+				"To establish MOPP levels for all DAF installations worldwide",
+				"To train first responders in CBRN defense techniques"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17A"
+		},
+		{
+			"id": "ch17_002",
+			"question": "How many pillars of EM preparedness does the DAF EM Program accomplish its missions through?",
+			"options": [
+				"Five",
+				"Six",
+				"Seven",
+				"Eight"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17A"
+		},
+		{
+			"id": "ch17_003",
+			"question": "Which of the following is NOT one of the seven pillars of EM preparedness?",
+			"options": [
+				"Risk Management",
+				"Planning Framework",
+				"Threat Neutralization",
+				"Adaptation via Information"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17A"
+		},
+		{
+			"id": "ch17_004",
+			"question": "The Crisis Action Team (CAT) is intended to focus on what primary function?",
+			"options": [
+				"Management of the incident at the scene",
+				"Coordinating first responder deployment",
+				"Mission continuation and sustainment",
+				"Conducting post-attack reconnaissance"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17A"
+		},
+		{
+			"id": "ch17_005",
+			"question": "Which EM mission area is defined as 'activities that address the short-term, direct effects of an incident'?",
+			"options": [
+				"Prevention",
+				"Protection",
+				"Response",
+				"Recovery"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17A"
+		},
+		{
+			"id": "ch17_006",
+			"question": "What does the Emergency Communications Center (ECC) provide?",
+			"options": [
+				"Strategic-level planning for CBRN threats only",
+				"A 24/7 operation incorporating core functions of fire and emergency services, security forces, and medical dispatch",
+				"Weekly briefings on installation emergency status",
+				"Coordination between PAR teams and the installation commander"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17A"
+		},
+		{
+			"id": "ch17_007",
+			"question": "Due to their persistent nature, which two types of chemical agents pose the primary threat to air bases?",
+			"options": [
+				"Blood agents and choking agents",
+				"Incapacitating agents and blood agents",
+				"Nerve agents and blister agents",
+				"Choking agents and nerve agents"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17B"
+		},
+		{
+			"id": "ch17_008",
+			"question": "Which statement about biological agents is correct?",
+			"options": [
+				"Symptoms of biological attacks are always experienced immediately after contact",
+				"Biological agents can only be found as dry powders",
+				"Symptoms of biological attacks may not be experienced immediately after contact; each agent has a different incubation period",
+				"Biological agents only include viruses and bacteria"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17B"
+		},
+		{
+			"id": "ch17_009",
+			"question": "What is the most important action in the event of a toxic industrial material incident?",
+			"options": [
+				"Don the protective mask and remain in place",
+				"Report the incident to the CBRN Control Center before taking any action",
+				"Immediately evacuate to an area outside the hazard's path, if feasible",
+				"Activate the collective protection system"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17B"
+		},
+		{
+			"id": "ch17_010",
+			"question": "What does a three-to-five-minute wavering tone indicate?",
+			"options": [
+				"A disaster or incident is imminent or in progress",
+				"An attack or hostile act is imminent or in progress",
+				"An active shooter incident is in progress",
+				"The all clear has been sounded"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_011",
+			"question": "What does the announcement 'Lockdown, Lockdown, Lockdown' indicate?",
+			"options": [
+				"A natural disaster warning requiring shelter-in-place",
+				"A CBRN attack is imminent",
+				"An active shooter incident is in progress",
+				"An air or ground attack is imminent"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_012",
+			"question": "During Alarm Yellow, what MOPP level is directed (or as directed)?",
+			"options": [
+				"MOPP 0",
+				"MOPP 1",
+				"MOPP 2",
+				"MOPP 4"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_013",
+			"question": "What does Alarm Yellow indicate?",
+			"options": [
+				"Attack is not probable",
+				"Attack is probable in less than 30 minutes",
+				"Air or ground attack is imminent or in progress",
+				"Attack is over and CBRN contamination is suspected"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_014",
+			"question": "During Alarm Black, what type of release allows Post Attack Reconnaissance teams to deploy?",
+			"options": [
+				"Initial Release",
+				"Limited Release",
+				"General Release",
+				"Conditional Release"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_015",
+			"question": "What is the purpose of Split MOPP?",
+			"options": [
+				"To allow individual units to choose their own MOPP level",
+				"To divide an installation into two or more CBRN zones rather than declaring the entire installation contaminated",
+				"To alternate MOPP levels between day and night shifts",
+				"To reduce the required MOPP level by half during low-threat conditions"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_016",
+			"question": "What is the best immediate protective equipment against chemical agents regardless of agent type, concentration, or method of attack?",
+			"options": [
+				"The protective mask with filters only",
+				"The M295 decontamination kit",
+				"The ground crew ensemble",
+				"The collective protection system (COLPRO)"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_017",
+			"question": "At MOPP Level Two, which items are worn and which are carried?",
+			"options": [
+				"Wear: Overgarment and Footwear; Carry: Mask/Hood and Handwear",
+				"Wear: Field Gear, Overgarment, and Footwear; Carry: Mask/Hood and Handwear",
+				"Wear: Field Gear and Overgarment; Carry: Footwear and Mask/Hood",
+				"Wear: All items; Carry: N/A"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_018",
+			"question": "What is the purpose of Collective Protection Systems (COLPRO)?",
+			"options": [
+				"To provide individual chemical agent detection for each unit member",
+				"To provide protection from CBRN agents by utilizing an overpressure system to keep threat agents outside certain facilities",
+				"To store protective equipment for rapid deployment",
+				"To decontaminate personnel after exposure to chemical agents"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_019",
+			"question": "When covering equipment that cannot be placed under overhead cover, how many layers of barrier material should be used on tops of vehicles and equipment when possible?",
+			"options": [
+				"One layer",
+				"Two layers",
+				"Three layers",
+				"Four layers"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17C"
+		},
+		{
+			"id": "ch17_020",
+			"question": "What reporting method is used as a quick and effective way to communicate attack information?",
+			"options": [
+				"SITREP",
+				"SALUTE",
+				"OPREP-3",
+				"SPOTREP"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17D"
+		},
+		{
+			"id": "ch17_021",
+			"question": "In the SALUTE reporting method, what does the 'U' stand for?",
+			"options": [
+				"Urgency",
+				"Uniform",
+				"Unit",
+				"Understanding"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17D"
+		},
+		{
+			"id": "ch17_022",
+			"question": "What are the most effective methods of removing chemical agents from skin or protective equipment?",
+			"options": [
+				"5-percent chlorine solution and water rinse",
+				"Reactive skin decontamination lotion and M295 individual decontamination kits",
+				"Soap and water followed by M8 detector paper verification",
+				"0.5-percent chlorine solution and M9 detector paper"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17D"
+		},
+		{
+			"id": "ch17_023",
+			"question": "Why should chlorine solutions for decontamination only be used after consultation with CBRN Defense Specialists?",
+			"options": [
+				"Chlorine solutions are only effective against biological agents",
+				"Some chemicals react negatively to chlorine",
+				"Chlorine solutions damage protective equipment beyond repair",
+				"Chlorine solutions are only available in limited quantities"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17D"
+		},
+		{
+			"id": "ch17_024",
+			"question": "What is a Class A mishap?",
+			"options": [
+				"Costs totaling $600,000 or more but less than $2,500,000",
+				"Costs totaling $60,000 or more but less than $600,000",
+				"Costs totaling $2,500,000, destruction of a DoD aircraft, or a fatality or permanent total disability",
+				"Costs totaling $25,000 or more but less than $60,000"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17E"
+		},
+		{
+			"id": "ch17_025",
+			"question": "Within how many hours must individuals report personal injury, property damage, or suspected exposure to hazardous materials?",
+			"options": [
+				"12 hours",
+				"24 hours",
+				"48 hours",
+				"72 hours"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17E"
+		},
+		{
+			"id": "ch17_026",
+			"question": "How many days do investigators have to respond to hazard reports in writing?",
+			"options": [
+				"5 duty days",
+				"7 duty days",
+				"10 duty days",
+				"14 duty days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17E"
+		},
+		{
+			"id": "ch17_027",
+			"question": "How many principles govern all actions associated with risk management?",
+			"options": [
+				"Three",
+				"Four",
+				"Five",
+				"Six"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17F"
+		},
+		{
+			"id": "ch17_028",
+			"question": "What are the five steps of the Risk Management Process in order?",
+			"options": [
+				"Identify Hazards, Assess Hazards, Develop Controls and Make Decisions, Implement Controls, Supervise and Evaluate",
+				"Assess Hazards, Identify Hazards, Make Decisions, Implement Controls, Review and Report",
+				"Plan, Organize, Execute, Monitor, Debrief",
+				"Identify Risks, Analyze Risks, Develop Countermeasures, Deploy Countermeasures, Monitor Results"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 17, Sec. 17F"
+		},
+		{
+			"id": "ch17_029",
+			"question": "In Real-Time Risk Management, what are the three stages of situational awareness required for a complete assessment?",
+			"options": [
+				"Observation, Orientation, Decision",
+				"Detection, Analysis, Response",
+				"Perception of what is happening, Integration of information and goals, and Projection into the future",
+				"Identification, Evaluation, and Implementation"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17, Sec. 17F"
+		},
+		{
+			"id": "ch17_030",
+			"question": "What are the 'Knock-it-off' and 'Timeout' concepts integral to?",
+			"options": [
+				"Deliberate Risk Management planning",
+				"Real-Time Risk Management",
+				"In-Depth Risk Management Planning",
+				"The Five-Step Risk Management Process"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17, Sec. 17F"
+		},
+		{
+			"id": "ch17_031",
+			"question": "What MOPP level is associated with Alarm Green (or as directed)?",
+			"options": [
+				"MOPP 4",
+				"MOPP 2",
+				"MOPP 1",
+				"MOPP 0"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_032",
+			"question": "The 'Blue' variation of Alarm Red may be utilized at some installations within which region?",
+			"options": [
+				"Europe",
+				"The Pacific",
+				"The Middle East",
+				"South America"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_033",
+			"question": "During Alarm Black, General Release authorizes the deployment of which category of personnel?",
+			"options": [
+				"CBRN and Specialized Teams",
+				"Post Attack Reconnaissance Teams",
+				"All installation personnel",
+				"Mission-essential personnel only"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_034",
+			"question": "When the 'All Clear' announcement is made, what are the individual actions personnel should take?",
+			"options": [
+				"Remove all MOPP gear immediately and resume normal operations",
+				"Remain alert, account for personnel, and report hazards, injuries, and damages",
+				"Report to the Emergency Operations Center for debriefing",
+				"Evacuate the installation and assemble at pre-designated rally points"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_035",
+			"question": "What defines a Class B mishap?",
+			"options": [
+				"Costs totaling $60,000 or more but less than $600,000, or a nonfatal injury resulting in one or more days away from work",
+				"Costs totaling $2,500,000, destruction of a DoD aircraft, or a fatality or permanent total disability",
+				"Costs totaling $600,000 or more but less than $2,500,000, a permanent partial disability, or inpatient hospitalization of three or more personnel",
+				"Costs totaling $25,000 or more but less than $60,000, or a recordable injury not otherwise classified"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_036",
+			"question": "What defines a Class D mishap?",
+			"options": [
+				"Costs totaling $25,000 or more but less than $60,000, or a recordable injury or illness not otherwise classified as a Class A, B, or C mishap",
+				"Costs totaling $60,000 or more but less than $600,000",
+				"Costs totaling $600,000 or more but less than $2,500,000",
+				"Any injury requiring first aid treatment only"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_037",
+			"question": "What form must be readily available in all work centers for hazard reporting?",
+			"options": [
+				"AF Form 55",
+				"AF Form 457",
+				"AF Form 1206",
+				"AF Form 910"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_038",
+			"question": "The safety office staff at the installation level consists of career safety professionals trained in which enlisted AFSC?",
+			"options": [
+				"3E9X1",
+				"3P0X1",
+				"1S0X1",
+				"4B0X1"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_039",
+			"question": "At MOPP Level Three, which item is carried and which items are worn?",
+			"options": [
+				"Carry: Mask/Hood; Wear: Field Gear, Overgarment, Footwear, and Handwear",
+				"Carry: Footwear; Wear: Field Gear, Overgarment, Mask/Hood, and Handwear",
+				"Carry: Handwear; Wear: Field Gear, Overgarment, Footwear, and Mask/Hood",
+				"Carry: N/A; Wear: All items"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17"
+		},
+		{
+			"id": "ch17_040",
+			"question": "When personnel are required to shelter-in-place during a suspected attack, what actions should building occupants take to prevent inside contamination?",
+			"options": [
+				"Open all windows to allow air circulation and don protective masks",
+				"Evacuate the building immediately and move upwind",
+				"Close all windows and doors, and turn off ventilation systems",
+				"Activate the COLPRO system and move to the roof for extraction"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 17"
+		}
+	]
 }

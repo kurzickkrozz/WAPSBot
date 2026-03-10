@@ -20,7 +20,7 @@ Built with [Sapphire Framework](https://www.sapphirejs.dev/) and [Discord.js](ht
 - **Timed mode** — Optional 60-second timer per question (default: untimed)
 - **Score tracking** — Persistent per-user stats with quiz history
 - **Leaderboard** — Guild-wide rankings by accuracy
-- **Question bank** — 410 questions across 16 AFH-1 chapters (2026 E-6 PFE)
+- **Question bank** — 640 questions across 16 AFH-1 chapters (2026 E-6 PFE)
 
 ## Commands
 
@@ -125,7 +125,7 @@ Bot versioning and metadata are configurable via environment variables:
 |----------|---------|-------------|
 | `DISCORD_TOKEN` | — | Discord bot token (required) |
 | `NODE_ENV` | `development` | Environment (`development` or `production`) |
-| `BOT_VERSION` | `1.1.3` | Displayed bot version |
+| `BOT_VERSION` | `1.1.4` | Displayed bot version |
 | `AFH1_VERSION` | `15 February 2025` | AFH-1 publication date |
 | `TEST_CYCLE` | `26E5 / 26E6` | Current WAPS test cycle |
 | `BOT_DEVELOPER` | `TunnelRat` | Developer name shown in `/about` |

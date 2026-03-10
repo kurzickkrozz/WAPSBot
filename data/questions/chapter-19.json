@@ -301,6 +301,186 @@
 			],
 			"answer": 2,
 			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_026",
+			"question": "According to AFH 1, law of war training is an obligation of the United States under provisions of which directive?",
+			"options": [
+				"AFI 36-2909, Professional Relationships and Conduct",
+				"DAFMAN 36-2664, Personnel Assessment Program",
+				"DoDD 2311.01, Department of Defense Law of War Program",
+				"AFI 51-201, Administration of Military Justice"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_027",
+			"question": "Which law of war principle forbids the infliction of suffering, injury, or destruction NOT actually necessary to accomplish a legitimate military purpose?",
+			"options": [
+				"Military Necessity",
+				"Distinction",
+				"Proportionality",
+				"Humanity"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_028",
+			"question": "Under the law of war, which of the following are specifically protected from being targeted?",
+			"options": [
+				"Medical units, facilities, transports, and personnel",
+				"Military command and control facilities",
+				"Enemy supply convoys and logistics hubs",
+				"Military airfields and weapon storage sites"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_029",
+			"question": "According to the law of war, airborne troops parachuting from aircraft as part of an assault MAY be:",
+			"options": [
+				"Not attacked under any circumstances",
+				"Detained without protections",
+				"Given prisoner of war status automatically",
+				"Attacked because they are executing an airborne assault and are considered combatants"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_030",
+			"question": "What does perfidy (treachery) mean under the law of war principle of honor?",
+			"options": [
+				"Using legitimate ruses to confuse the enemy",
+				"Acts inviting the confidence of the adversary to lead them to believe they are entitled to protection, with intent to betray that confidence",
+				"Employing camouflage and concealment techniques",
+				"Conducting surprise attacks on military objectives"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_031",
+			"question": "According to the law of war, a commander has a duty to do what before ordering an attack?",
+			"options": [
+				"Notify the enemy of the impending attack",
+				"Receive approval from the Secretary of Defense",
+				"Take feasible precautions to reduce the risk of harm to civilians and civilian objects",
+				"Evacuate all civilians from the target area"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_032",
+			"question": "Article I of the Code of Conduct states:",
+			"options": [
+				"I will never surrender of my own free will",
+				"If I am captured I will continue to resist by all means available",
+				"I am an American, fighting in the forces which guard my country and our way of life. I am prepared to give my life in their defense.",
+				"I will never forget that I am an American fighting for freedom"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_033",
+			"question": "According to Article III of the Code of Conduct, if a member is captured, what is their obligation?",
+			"options": [
+				"To provide all requested information to protect fellow prisoners",
+				"To surrender command authority to the captors",
+				"To cooperate with the enemy until rescue operations begin",
+				"To continue to resist by all means available and make every effort to escape"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_034",
+			"question": "According to Article VI of the Code of Conduct, a member will never forget that they are an American, responsible for their actions, and dedicated to what principles?",
+			"options": [
+				"The principles of honor, duty, and country",
+				"The principles which made their country free",
+				"The principles of the Uniform Code of Military Justice",
+				"The principles of military discipline and obedience"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_035",
+			"question": "Code of Conduct training Level A is conducted at what point?",
+			"options": [
+				"Upon assignment to a combat unit",
+				"During survival school training",
+				"Upon deployment to a combat zone",
+				"During initial military training (basic training/officer training)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_036",
+			"question": "Code of Conduct training Level B is conducted how?",
+			"options": [
+				"Through in-person classroom instruction during initial military training",
+				"Through deployment-specific theater briefings",
+				"Through annual computer-based training and periodic classroom instruction",
+				"Through survival school or equivalent hands-on training"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_037",
+			"question": "During peacetime governmental detention or hostage situations, DoD policy recommends U.S. personnel should rely upon what for guidance?",
+			"options": [
+				"The six articles of the Code of Conduct",
+				"Local embassy or consulate instructions exclusively",
+				"The senior military member present in the situation",
+				"Instructions from the nearest combatant commander"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
+		},
+		{
+			"id": "ch19_038",
+			"question": "According to the law of war, what type of persons includes combatants who have fallen into the power of the enemy?",
+			"options": [
+				"Civilian detainees",
+				"Prisoners of war",
+				"Unlawful combatants",
+				"Protected persons"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_039",
+			"question": "Under rules of engagement, the right of self-defense is described as:",
+			"options": [
+				"A right that may be limited by the rules of engagement",
+				"Applicable only in declared combat zones",
+				"Available only to commissioned officers",
+				"A right that is never denied by the rules of engagement"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 19, Sec. 19B"
+		},
+		{
+			"id": "ch19_040",
+			"question": "During a terrorist hostage situation, what should captives attempt to do regarding their behavior?",
+			"options": [
+				"Immediately attempt to escape at the first opportunity",
+				"Confront captors with demands for better treatment",
+				"Remain calm, avoid provocative behavior, and comply with captor instructions",
+				"Refuse to communicate with captors under any circumstances"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 19, Sec. 19C"
 		}
 	]
 }

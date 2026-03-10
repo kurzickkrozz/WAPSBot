@@ -301,6 +301,186 @@
 			],
 			"answer": 2,
 			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_026",
+			"question": "What are the specific functions of the USAF regarding strategic capability?",
+			"options": [
+				"Organize, train, and equip air forces for joint operations and strategic missions",
+				"Provide ground support exclusively for Army operations",
+				"Manage all Department of Defense logistics operations",
+				"Conduct naval operations in support of carrier battle groups"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 5"
+		},
+		{
+			"id": "ch5_027",
+			"question": "The Department of the Air Force is composed of what types of forces?",
+			"options": [
+				"Air and ground forces only",
+				"Space and cyber forces exclusively",
+				"Combat air forces and intelligence elements",
+				"Air, space, and cyberspace forces, both combat and support"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 5"
+		},
+		{
+			"id": "ch5_028",
+			"question": "Which combatant command is headquartered at MacDill Air Force Base, Florida?",
+			"options": [
+				"U.S. Africa Command",
+				"U.S. Southern Command",
+				"U.S. Central Command",
+				"U.S. Special Operations Command"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 5, Sec. 5C"
+		},
+		{
+			"id": "ch5_029",
+			"question": "How many geographic combatant commands currently exist?",
+			"options": [
+				"Four",
+				"Five",
+				"Six",
+				"Seven"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 5, Sec. 5C"
+		},
+		{
+			"id": "ch5_030",
+			"question": "Where is United States European Command (USEUCOM) headquartered?",
+			"options": [
+				"Kelley Barracks, Stuttgart, Germany",
+				"Patch Barracks, Stuttgart, Germany",
+				"Ramstein Air Base, Germany",
+				"Camp Lemonnier, Djibouti"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 5, Sec. 5C"
+		},
+		{
+			"id": "ch5_031",
+			"question": "Under a 'reverse association' in Total Force integration, which component is the host unit?",
+			"options": [
+				"The Regular Component",
+				"The Civil Air Patrol",
+				"The Reserve Component",
+				"The Air National Guard exclusively"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 5, Sec. 5D"
+		},
+		{
+			"id": "ch5_032",
+			"question": "What are the three congressionally chartered missions of the Civil Air Patrol?",
+			"options": [
+				"Emergency services, aerospace education, and cadet programs",
+				"Combat support, logistics, and communications",
+				"Search and rescue, intelligence, and recruitment",
+				"Air defense, disaster relief, and pilot training"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 5, Sec. 5D"
+		},
+		{
+			"id": "ch5_033",
+			"question": "The Secretary of the Air Force (SecAF) is responsible for and has authority to conduct all affairs of the Department of the Air Force, including which areas?",
+			"options": [
+				"Only operational command of combat forces",
+				"Only personnel management and budgeting",
+				"Exclusively diplomatic and interagency affairs",
+				"Recruiting, organizing, supplying, equipping, training, servicing, mobilizing, and demobilizing"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_034",
+			"question": "The CSAF presides over the Air Staff, which is composed of how many deputy chiefs of staff?",
+			"options": [
+				"Five",
+				"Six",
+				"Seven",
+				"Eight"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_035",
+			"question": "Where is Air Education and Training Command (AETC) headquartered?",
+			"options": [
+				"Randolph Air Force Base, Texas",
+				"Maxwell Air Force Base, Alabama",
+				"Joint Base San Antonio-Randolph, Texas",
+				"Keesler Air Force Base, Mississippi"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_036",
+			"question": "Where is Air Force Materiel Command (AFMC) headquartered?",
+			"options": [
+				"Wright-Patterson Air Force Base, Ohio",
+				"Tinker Air Force Base, Oklahoma",
+				"Hill Air Force Base, Utah",
+				"Robins Air Force Base, Georgia"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_037",
+			"question": "Where is Air Mobility Command (AMC) headquartered?",
+			"options": [
+				"Joint Base Andrews, Maryland",
+				"Travis Air Force Base, California",
+				"Joint Base McGuire-Dix-Lakehurst, New Jersey",
+				"Scott Air Force Base, Illinois"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_038",
+			"question": "A numbered air force (NAF) is a level of command directly under what?",
+			"options": [
+				"The Secretary of the Air Force",
+				"A wing commander",
+				"A MAJCOM",
+				"A group commander"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_039",
+			"question": "A group is a tactically self-sufficient unit that is composed of two or more what?",
+			"options": [
+				"Wings",
+				"Squadrons",
+				"Flights",
+				"Numbered Air Forces"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
+		},
+		{
+			"id": "ch5_040",
+			"question": "Where is Air Force Global Strike Command (AFGSC) headquartered?",
+			"options": [
+				"Minot Air Force Base, North Dakota",
+				"Whiteman Air Force Base, Missouri",
+				"Barksdale Air Force Base, Louisiana",
+				"F.E. Warren Air Force Base, Wyoming"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 5, Sec. 5E"
 		}
 	]
 }

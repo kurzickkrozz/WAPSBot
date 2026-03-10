@@ -1,306 +1,486 @@
 {
-  "chapter": "Chapter 8",
-  "title": "Assessments and Recognition",
-  "questions": [
-    {
-      "id": "ch8_001",
-      "question": "What is the performance feedback assessment designed to do?",
-      "options": [
-        "Serve as a formal two-way communication between a rater and ratee to discuss standards, responsibilities, expectations, and goals",
-        "Replace the enlisted performance report with a less formal evaluation method",
-        "Provide a one-way communication from the rater to the ratee about deficiencies only",
-        "Document only negative performance for administrative action purposes"
-      ],
-      "answer": 0,
-      "reference": "AFH 1, Ch. 8, Sec. 8A"
-    },
-    {
-      "id": "ch8_002",
-      "question": "After the performance feedback assessment has been completed, what must the rater do with the original worksheet?",
-      "options": [
-        "File it with the military personnel flight for the official record",
-        "Give the original, completed, and signed worksheet to the ratee",
-        "Forward it to the senior rater for review and signature",
-        "Destroy the original and retain only digital copies"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 8, Sec. 8A"
-    },
-    {
-      "id": "ch8_003",
-      "question": "When may raters conduct performance feedback assessment sessions by telephone?",
-      "options": [
-        "Whenever the ratee requests a telephone session",
-        "When the rater is deployed to a combat zone",
-        "In unusual circumstances where face-to-face sessions are impractical",
-        "Telephone sessions are never authorized under any circumstances"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8A"
-    },
-    {
-      "id": "ch8_004",
-      "question": "Which performance feedback assessment worksheet is designated for use with enlisted personnel in the grades of AB through TSgt?",
-      "options": [
-        "AF Form 724",
-        "AF Form 724-A",
-        "AF Form 931",
-        "AF Form 932"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8A"
-    },
-    {
-      "id": "ch8_005",
-      "question": "Within how many days of when supervision begins must all initial performance feedback assessment sessions be conducted?",
-      "options": [
-        "30 days",
-        "60 days",
-        "90 days",
-        "120 days"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 8, Sec. 8A"
-    },
-    {
-      "id": "ch8_006",
-      "question": "For Chief Master Sergeants and Colonels, what is the only feedback requirement?",
-      "options": [
-        "Both initial and mid-term performance feedback assessments are required",
-        "Only a mid-term performance feedback assessment is required",
-        "The initial performance feedback assessment is the only feedback required",
-        "No performance feedback assessments are required"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8A"
-    },
-    {
-      "id": "ch8_007",
-      "question": "What is the performance evaluation system designed to provide?",
-      "options": [
-        "A tool for commanders to manage personnel assignments exclusively",
-        "A reliable, long-term, cumulative record of performance and potential",
-        "A short-term snapshot of duty performance only during the current rating period",
-        "A mechanism for raters to justify disciplinary actions"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 8, Sec. 8B"
-    },
-    {
-      "id": "ch8_008",
-      "question": "When a ratee signs an evaluation, what does the signature signify?",
-      "options": [
-        "The ratee concurs with all content and ratings on the evaluation",
-        "The ratee waives the right to appeal the evaluation",
-        "Acknowledgment of receipt and certification that the ratee has reviewed the evaluation for administrative errors",
-        "The ratee agrees that all performance statements are factually accurate"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8B"
-    },
-    {
-      "id": "ch8_009",
-      "question": "What must a performance statement in an evaluation include?",
-      "options": [
-        "A comparison of the ratee's performance to that of their peers",
-        "Two elements: the behavior or action taken and the impact, results, or outcome of that behavior or action",
-        "A recommendation for the ratee's next assignment or duty position",
-        "Three elements: the action, the standard, and the rater's personal assessment"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 8, Sec. 8B"
-    },
-    {
-      "id": "ch8_010",
-      "question": "If an entry on an evaluation would result in the release of classified information, what should be entered in its place?",
-      "options": [
-        "\"Classified\" followed by the security classification level",
-        "\"Redacted for Security\" and leave the section blank",
-        "\"Data Masked\"",
-        "\"See Classified Attachment\" with a reference number"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8B"
-    },
-    {
-      "id": "ch8_011",
-      "question": "When documenting adverse information on evaluations, which of the following is considered too vague?",
-      "options": [
-        "\"Master Sergeant Smith drove while intoxicated, for which he received an Article 15\"",
-        "\"Captain Jones made improper sexually suggestive and harassing comments to a squadron member, for which he received a Letter of Reprimand\"",
-        "\"An error in judgment led to an off-duty incident\"",
-        "\"Staff Sergeant Doe was convicted of assault under Article 128, UCMJ, and received 30 days extra duty\""
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8B"
-    },
-    {
-      "id": "ch8_012",
-      "question": "When do first-term Airmen receive selective reenlistment consideration?",
-      "options": [
-        "Within 12 months of their expiration of term of service",
-        "Within 13 months of their expiration of term of service",
-        "Within 15 months of their expiration of term of service",
-        "Within 18 months of their expiration of term of service"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    },
-    {
-      "id": "ch8_013",
-      "question": "If an Airman is not selected for reenlistment, how many calendar days does the Airman have to render an appeal intent?",
-      "options": [
-        "5 calendar days",
-        "3 calendar days",
-        "7 calendar days",
-        "10 calendar days"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    },
-    {
-      "id": "ch8_014",
-      "question": "Who is the appeal authority for first-term Airmen who are non-selected under the Selective Reenlistment Program?",
-      "options": [
-        "The respective wing commander",
-        "The Secretary of the Air Force",
-        "The respective group commander",
-        "The major command commander"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    },
-    {
-      "id": "ch8_015",
-      "question": "Under the NCO Career Status Program, Airmen with at least how many years of total active federal military service on date of discharge will be reenlisted for an unspecified period?",
-      "options": [
-        "8 years",
-        "10 years",
-        "12 years",
-        "15 years"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    },
-    {
-      "id": "ch8_016",
-      "question": "What is the maximum voluntary extension per enlistment for all Airmen?",
-      "options": [
-        "24 months",
-        "36 months",
-        "48 months",
-        "60 months"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    },
-    {
-      "id": "ch8_017",
-      "question": "What is the maximum Selective Retention Bonus (SRB) per zone?",
-      "options": [
-        "$50,000",
-        "$75,000",
-        "$100,000",
-        "$150,000"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    },
-    {
-      "id": "ch8_018",
-      "question": "Which SRB zone applies to Airmen reenlisting between 18 and 20 years of total active federal military service?",
-      "options": [
-        "Zone A",
-        "Zone B",
-        "Zone C",
-        "Zone E"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    },
-    {
-      "id": "ch8_019",
-      "question": "What is the nation's highest unit award?",
-      "options": [
-        "Air Force Outstanding Unit Award",
-        "Gallant Unit Citation",
-        "Presidential Unit Citation",
-        "Joint Meritorious Unit Award"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8D"
-    },
-    {
-      "id": "ch8_020",
-      "question": "What is the highest decoration for heroism in military action that can be awarded to a member of the U.S. Armed Forces?",
-      "options": [
-        "Air Force Cross",
-        "Silver Star",
-        "Distinguished Service Medal",
-        "Medal of Honor"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 8, Sec. 8D"
-    },
-    {
-      "id": "ch8_021",
-      "question": "What is the second highest decoration that can be awarded to a member of the U.S. Armed Forces?",
-      "options": [
-        "Silver Star",
-        "Distinguished Service Medal",
-        "Air Force Cross",
-        "Legion of Merit"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8D"
-    },
-    {
-      "id": "ch8_022",
-      "question": "The Airman's Medal is awarded for heroism involving voluntary risk of life under what conditions?",
-      "options": [
-        "While engaged in aerial flight operations",
-        "While participating in combat against an armed enemy",
-        "Conditions other than those of conflict with an armed enemy of the United States",
-        "While serving in a designated combat zone during wartime operations"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8D"
-    },
-    {
-      "id": "ch8_023",
-      "question": "What percentage of similar units assigned to a command may be recommended annually for the Air Force Outstanding Unit Award?",
-      "options": [
-        "5 percent",
-        "10 percent",
-        "15 percent",
-        "20 percent"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 8, Sec. 8D"
-    },
-    {
-      "id": "ch8_024",
-      "question": "The Purple Heart is a decoration that a member earns entitlement to in what manner?",
-      "options": [
-        "Through nomination by the member's commanding officer",
-        "Through recommendation by the member's peers and supervisors",
-        "A member earns entitlement rather than being awarded through recommendation",
-        "Through a formal board review and approval by the Secretary of the Air Force"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8D"
-    },
-    {
-      "id": "ch8_025",
-      "question": "After the Airman renders appeal intent for Selective Reenlistment Program non-selection, how many calendar days does the Airman have to submit the appeal to the military personnel flight?",
-      "options": [
-        "5 calendar days",
-        "7 calendar days",
-        "10 calendar days",
-        "15 calendar days"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 8, Sec. 8C"
-    }
-  ]
+	"chapter": "Chapter 8",
+	"title": "Assessments and Recognition",
+	"questions": [
+		{
+			"id": "ch8_001",
+			"question": "What is the performance feedback assessment designed to do?",
+			"options": [
+				"Serve as a formal two-way communication between a rater and ratee to discuss standards, responsibilities, expectations, and goals",
+				"Replace the enlisted performance report with a less formal evaluation method",
+				"Provide a one-way communication from the rater to the ratee about deficiencies only",
+				"Document only negative performance for administrative action purposes"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_002",
+			"question": "After the performance feedback assessment has been completed, what must the rater do with the original worksheet?",
+			"options": [
+				"File it with the military personnel flight for the official record",
+				"Give the original, completed, and signed worksheet to the ratee",
+				"Forward it to the senior rater for review and signature",
+				"Destroy the original and retain only digital copies"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_003",
+			"question": "When may raters conduct performance feedback assessment sessions by telephone?",
+			"options": [
+				"Whenever the ratee requests a telephone session",
+				"When the rater is deployed to a combat zone",
+				"In unusual circumstances where face-to-face sessions are impractical",
+				"Telephone sessions are never authorized under any circumstances"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_004",
+			"question": "Which performance feedback assessment worksheet is designated for use with enlisted personnel in the grades of AB through TSgt?",
+			"options": [
+				"AF Form 724",
+				"AF Form 724-A",
+				"AF Form 931",
+				"AF Form 932"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_005",
+			"question": "Within how many days of when supervision begins must all initial performance feedback assessment sessions be conducted?",
+			"options": [
+				"30 days",
+				"60 days",
+				"90 days",
+				"120 days"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_006",
+			"question": "For Chief Master Sergeants and Colonels, what is the only feedback requirement?",
+			"options": [
+				"Both initial and mid-term performance feedback assessments are required",
+				"Only a mid-term performance feedback assessment is required",
+				"The initial performance feedback assessment is the only feedback required",
+				"No performance feedback assessments are required"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_007",
+			"question": "What is the performance evaluation system designed to provide?",
+			"options": [
+				"A tool for commanders to manage personnel assignments exclusively",
+				"A reliable, long-term, cumulative record of performance and potential",
+				"A short-term snapshot of duty performance only during the current rating period",
+				"A mechanism for raters to justify disciplinary actions"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8B"
+		},
+		{
+			"id": "ch8_008",
+			"question": "When a ratee signs an evaluation, what does the signature signify?",
+			"options": [
+				"The ratee concurs with all content and ratings on the evaluation",
+				"The ratee waives the right to appeal the evaluation",
+				"Acknowledgment of receipt and certification that the ratee has reviewed the evaluation for administrative errors",
+				"The ratee agrees that all performance statements are factually accurate"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8B"
+		},
+		{
+			"id": "ch8_009",
+			"question": "What must a performance statement in an evaluation include?",
+			"options": [
+				"A comparison of the ratee's performance to that of their peers",
+				"Two elements: the behavior or action taken and the impact, results, or outcome of that behavior or action",
+				"A recommendation for the ratee's next assignment or duty position",
+				"Three elements: the action, the standard, and the rater's personal assessment"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8B"
+		},
+		{
+			"id": "ch8_010",
+			"question": "If an entry on an evaluation would result in the release of classified information, what should be entered in its place?",
+			"options": [
+				"\"Classified\" followed by the security classification level",
+				"\"Redacted for Security\" and leave the section blank",
+				"\"Data Masked\"",
+				"\"See Classified Attachment\" with a reference number"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8B"
+		},
+		{
+			"id": "ch8_011",
+			"question": "When documenting adverse information on evaluations, which of the following is considered too vague?",
+			"options": [
+				"\"Master Sergeant Smith drove while intoxicated, for which he received an Article 15\"",
+				"\"Captain Jones made improper sexually suggestive and harassing comments to a squadron member, for which he received a Letter of Reprimand\"",
+				"\"An error in judgment led to an off-duty incident\"",
+				"\"Staff Sergeant Doe was convicted of assault under Article 128, UCMJ, and received 30 days extra duty\""
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8B"
+		},
+		{
+			"id": "ch8_012",
+			"question": "When do first-term Airmen receive selective reenlistment consideration?",
+			"options": [
+				"Within 12 months of their expiration of term of service",
+				"Within 13 months of their expiration of term of service",
+				"Within 15 months of their expiration of term of service",
+				"Within 18 months of their expiration of term of service"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_013",
+			"question": "If an Airman is not selected for reenlistment, how many calendar days does the Airman have to render an appeal intent?",
+			"options": [
+				"5 calendar days",
+				"3 calendar days",
+				"7 calendar days",
+				"10 calendar days"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_014",
+			"question": "Who is the appeal authority for first-term Airmen who are non-selected under the Selective Reenlistment Program?",
+			"options": [
+				"The respective wing commander",
+				"The Secretary of the Air Force",
+				"The respective group commander",
+				"The major command commander"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_015",
+			"question": "Under the NCO Career Status Program, Airmen with at least how many years of total active federal military service on date of discharge will be reenlisted for an unspecified period?",
+			"options": [
+				"8 years",
+				"10 years",
+				"12 years",
+				"15 years"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_016",
+			"question": "What is the maximum voluntary extension per enlistment for all Airmen?",
+			"options": [
+				"24 months",
+				"36 months",
+				"48 months",
+				"60 months"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_017",
+			"question": "What is the maximum Selective Retention Bonus (SRB) per zone?",
+			"options": [
+				"$100,000",
+				"$150,000",
+				"$180,000",
+				"$200,000"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_018",
+			"question": "Which SRB zone applies to Airmen reenlisting between 18 and 20 years of total active federal military service?",
+			"options": [
+				"Zone A",
+				"Zone B",
+				"Zone C",
+				"Zone E"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_019",
+			"question": "What is the nation's highest unit award?",
+			"options": [
+				"Air Force Outstanding Unit Award",
+				"Gallant Unit Citation",
+				"Presidential Unit Citation",
+				"Joint Meritorious Unit Award"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_020",
+			"question": "What is the highest decoration for heroism in military action that can be awarded to a member of the U.S. Armed Forces?",
+			"options": [
+				"Air Force Cross",
+				"Silver Star",
+				"Distinguished Service Medal",
+				"Medal of Honor"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_021",
+			"question": "What is the second highest decoration that can be awarded to a member of the U.S. Armed Forces?",
+			"options": [
+				"Silver Star",
+				"Distinguished Service Medal",
+				"Air Force Cross",
+				"Legion of Merit"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_022",
+			"question": "The Airman's Medal is awarded for heroism involving voluntary risk of life under what conditions?",
+			"options": [
+				"While engaged in aerial flight operations",
+				"While participating in combat against an armed enemy",
+				"Conditions other than those of conflict with an armed enemy of the United States",
+				"While serving in a designated combat zone during wartime operations"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_023",
+			"question": "What percentage of similar units assigned to a command may be recommended annually for the Air Force Outstanding Unit Award?",
+			"options": [
+				"5 percent",
+				"10 percent",
+				"15 percent",
+				"20 percent"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_024",
+			"question": "The Purple Heart is a decoration that a member earns entitlement to in what manner?",
+			"options": [
+				"Through nomination by the member's commanding officer",
+				"Through recommendation by the member's peers and supervisors",
+				"A member earns entitlement rather than being awarded through recommendation",
+				"Through a formal board review and approval by the Secretary of the Air Force"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_025",
+			"question": "After the Airman renders appeal intent for Selective Reenlistment Program non-selection, how many calendar days does the Airman have to submit the appeal to the military personnel flight?",
+			"options": [
+				"5 calendar days",
+				"7 calendar days",
+				"10 calendar days",
+				"15 calendar days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_026",
+			"question": "Which performance feedback assessment worksheet is designated for use with MSgt through CMSgt and civilian equivalents?",
+			"options": [
+				"AF Form 931",
+				"AF Form 724",
+				"AF Form 932",
+				"AF Form 724-A"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_027",
+			"question": "In the performance evaluation system, what does the term 'Data Masked' indicate on an evaluation?",
+			"options": [
+				"Information has been redacted for privacy reasons",
+				"The data is pending verification by the military personnel flight",
+				"The ratee requested removal of the information",
+				"The entry would result in the release of classified information"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 8, Sec. 8B"
+		},
+		{
+			"id": "ch8_028",
+			"question": "Which aspect of performance should be considered when preparing an accurate assessment of misconduct behavior: 'Is the ratee in a sensitive job? Did the ratee know better?'",
+			"options": [
+				"Impact of the misconduct on the USAF as an institution",
+				"Grade, assignment, and experience of the ratee",
+				"Impact of the misconduct on the USAF mission",
+				"Number of separate violations and frequency of the misconduct"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8B"
+		},
+		{
+			"id": "ch8_029",
+			"question": "What is the maximum SRB career cap across all zones?",
+			"options": [
+				"$100,000",
+				"$150,000",
+				"$200,000",
+				"$180,000"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_030",
+			"question": "Which SRB zone applies to Airmen reenlisting between 6 and 10 years of total active federal military service?",
+			"options": [
+				"Zone A",
+				"Zone B",
+				"Zone C",
+				"Zone D"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_031",
+			"question": "Which SRB zone applies to Airmen reenlisting between 10 and 14 years of total active federal military service?",
+			"options": [
+				"Zone A",
+				"Zone B",
+				"Zone C",
+				"Zone D"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_032",
+			"question": "Who is the appeal authority for career Airmen (second-term and beyond) who are non-selected under the Selective Reenlistment Program?",
+			"options": [
+				"The respective wing commander",
+				"The respective group commander",
+				"The respective MAJCOM commander",
+				"The Secretary of the Air Force"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		},
+		{
+			"id": "ch8_033",
+			"question": "The Distinguished Flying Cross is awarded for what type of achievement?",
+			"options": [
+				"Heroism not involving aerial flight",
+				"Outstanding leadership in a combat zone",
+				"Meritorious service in a duty of great responsibility",
+				"Heroism or extraordinary achievement while participating in aerial flight"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_034",
+			"question": "The Silver Star is awarded for what?",
+			"options": [
+				"Gallantry in action against an enemy of the United States",
+				"Meritorious achievement in aerial flight",
+				"Outstanding achievement in non-combat operations",
+				"Heroism involving voluntary risk of life not in combat"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_035",
+			"question": "The Legion of Merit is awarded for what type of service?",
+			"options": [
+				"Heroism in aerial flight",
+				"Gallantry in action against an armed enemy",
+				"Exceptionally meritorious conduct in the performance of outstanding services and achievements",
+				"Heroism involving voluntary risk of life under non-combat conditions"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_036",
+			"question": "The Meritorious Service Medal is awarded for what?",
+			"options": [
+				"Heroism in combat operations",
+				"Gallantry in action against an armed enemy",
+				"Heroism involving voluntary risk of life",
+				"Outstanding non-combat meritorious achievement or meritorious service"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_037",
+			"question": "What award is earned for being wounded or killed in action against an enemy, or as a result of an act of any hostile foreign force?",
+			"options": [
+				"Air Force Cross",
+				"Purple Heart",
+				"Silver Star",
+				"Airman's Medal"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_038",
+			"question": "The Gallant Unit Citation recognizes a unit for what type of action?",
+			"options": [
+				"Sustained meritorious performance over a 24-month period",
+				"Outstanding organizational efficiency during peacetime operations",
+				"Gallantry, determination, and esprit de corps in accomplishing its mission under extremely difficult and hazardous conditions",
+				"Extraordinary heroism exclusively during wartime operations"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8D"
+		},
+		{
+			"id": "ch8_039",
+			"question": "What performance feedback worksheet is designated for use with SSgt through TSgt?",
+			"options": [
+				"AF Form 724",
+				"AF Form 931",
+				"AF Form 932",
+				"AF Form 724-A"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 8, Sec. 8A"
+		},
+		{
+			"id": "ch8_040",
+			"question": "Which SRB zone applies to Airmen reenlisting between 14 and 18 years of total active federal military service?",
+			"options": [
+				"Zone B",
+				"Zone C",
+				"Zone D",
+				"Zone E"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 8, Sec. 8C"
+		}
+	]
 }

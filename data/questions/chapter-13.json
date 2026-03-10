@@ -1,246 +1,486 @@
 {
-  "chapter": "Chapter 13",
-  "title": "Developing Organizations",
-  "questions": [
-    {
-      "id": "ch13_001",
-      "question": "According to AFH 1, when is change appropriate?",
-      "options": [
-        "When leadership directs it regardless of circumstances",
-        "When there is a perceived gap between what the norms are and what they should be",
-        "When the majority of employees vote for it",
-        "When the organization has been static for more than one year"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_002",
-      "question": "What is the best quality a leader can demonstrate when coping with change?",
-      "options": [
-        "Firm decisiveness",
-        "Cautious skepticism",
-        "Tough-minded, realistic optimism",
-        "Flexible neutrality"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_003",
-      "question": "What is an essential element for preventing or overcoming resistance to change?",
-      "options": [
-        "Offering financial incentives to all employees",
-        "Establishing a well thought out plan",
-        "Replacing employees who resist the change",
-        "Delaying the change until all resistance is eliminated"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_004",
-      "question": "Which common response to change occurs when organizational structure is so rigid that it inhibits change and possibly damages professional relationships?",
-      "options": [
-        "Distrust",
-        "Self-interest",
-        "Uncertainty",
-        "Over-determination"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_005",
-      "question": "What is the role of the 'change agent' in organizational change?",
-      "options": [
-        "The person who resists organizational change",
-        "The person advocating for or leading the organizational change",
-        "The outside consultant who evaluates the change after implementation",
-        "The person responsible for documenting the change in official records"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_006",
-      "question": "Which approach to reducing resistance to change can negatively affect attitudes and potentially cause long-term negative consequences?",
-      "options": [
-        "Participation and involvement",
-        "Education and communication",
-        "Coercion",
-        "Negotiation and agreement"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_007",
-      "question": "Who proposed the three-stage change process model of unfreezing, changing, and refreezing?",
-      "options": [
-        "Frederick Herzberg",
-        "Abraham Maslow",
-        "Peter Drucker",
-        "Kurt Lewin"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_008",
-      "question": "What is the most neglected, yet essential part of the unfreezing stage?",
-      "options": [
-        "Developing a detailed implementation timeline",
-        "Creating an environment where people feel the need for change",
-        "Training employees on new processes",
-        "Identifying the change agent for the project"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_009",
-      "question": "During Stage 2 (Changing) of the three-stage change process, what does the changing stage involve modifying?",
-      "options": [
-        "Only personnel assignments and duty titles",
-        "Technology, tasks, structure, or distribution of people",
-        "Budgets, schedules, and external partnerships",
-        "Only equipment and facility layouts"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_010",
-      "question": "During the refreezing stage, what is a critical step?",
-      "options": [
-        "Immediately beginning a new change initiative",
-        "Returning to the old process if any issues arise",
-        "Remaining engaged and evaluating results to determine if the change reached the desired effect",
-        "Transferring all responsibility to subordinates"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_011",
-      "question": "What does Continuous Improvement (CI) increase while reducing associated costs?",
-      "options": [
-        "Staffing levels",
-        "Operational capabilities",
-        "Organizational hierarchy levels",
-        "Administrative requirements"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_012",
-      "question": "Which CI methodology is focused on workflow, customer value, and eliminating process waste, with a primary focus on eliminating non-value-added activities?",
-      "options": [
-        "Six Sigma",
-        "Theory of Constraints",
-        "Business Process Reengineering",
-        "Lean"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_013",
-      "question": "Which CI methodology is a rigorous, data-driven approach focused on minimizing waste through identifying, controlling, and reducing process variation?",
-      "options": [
-        "Lean",
-        "Six Sigma",
-        "Business Process Reengineering",
-        "Theory of Constraints"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_014",
-      "question": "How many steps are in the Practical Problem-Solving Method?",
-      "options": [
-        "Five",
-        "Six",
-        "Eight",
-        "Ten"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_015",
-      "question": "In the Practical Problem-Solving Method, what should a problem statement NOT assume?",
-      "options": [
-        "The scope and direction of the problem",
-        "A root cause, solution, or countermeasure",
-        "The who, what, when, and where of the problem",
-        "The significance of the problem"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_016",
-      "question": "According to the Practical Problem-Solving Method, what is the most commonly neglected step?",
-      "options": [
-        "Step 1: Clarify and Validate the Problem",
-        "Step 4: Determine Root Cause",
-        "Step 7: Confirm Results and Process",
-        "Step 8: Standardize Successful Processes"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_017",
-      "question": "What is the most common mistake made during Continuous Improvement efforts?",
-      "options": [
-        "Failure to set improvement targets",
-        "Incorrect root-cause determination",
-        "Not involving enough team members",
-        "Inadequate funding for the project"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_018",
-      "question": "What are the three levels of effort available for the Practical Problem-Solving Method?",
-      "options": [
-        "Basic, Intermediate, and Advanced",
-        "Individual, Team, and Organizational",
-        "Just Do It, Rapid Improvement Event, and Improvement Project",
-        "Planning, Execution, and Evaluation"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_019",
-      "question": "What are the three main constraints most often realized in project management?",
-      "options": [
-        "Scope, risk, and resources",
-        "Quality, time, and cost",
-        "People, processes, and technology",
-        "Budget, schedule, and performance"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    },
-    {
-      "id": "ch13_020",
-      "question": "What is a work breakdown structure?",
-      "options": [
-        "A list of employees assigned to each phase of a project",
-        "A schedule showing the timeline for project completion",
-        "A technique based on dividing a project into sub-units or work packages",
-        "A risk assessment document identifying potential project failures"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 13, Sec. 13C"
-    }
-  ]
+	"chapter": "Chapter 13",
+	"title": "Developing Organizations",
+	"questions": [
+		{
+			"id": "ch13_001",
+			"question": "According to AFH 1, when is change appropriate?",
+			"options": [
+				"When leadership directs it regardless of circumstances",
+				"When there is a perceived gap between what the norms are and what they should be",
+				"When the majority of employees vote for it",
+				"When the organization has been static for more than one year"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_002",
+			"question": "What is the best quality a leader can demonstrate when coping with change?",
+			"options": [
+				"Firm decisiveness",
+				"Cautious skepticism",
+				"Tough-minded, realistic optimism",
+				"Flexible neutrality"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_003",
+			"question": "What is an essential element for preventing or overcoming resistance to change?",
+			"options": [
+				"Offering financial incentives to all employees",
+				"Establishing a well thought out plan",
+				"Replacing employees who resist the change",
+				"Delaying the change until all resistance is eliminated"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_004",
+			"question": "Which common response to change occurs when organizational structure is so rigid that it inhibits change and possibly damages professional relationships?",
+			"options": [
+				"Distrust",
+				"Self-interest",
+				"Uncertainty",
+				"Over-determination"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_005",
+			"question": "What is the role of the 'change agent' in organizational change?",
+			"options": [
+				"The person who resists organizational change",
+				"The person advocating for or leading the organizational change",
+				"The outside consultant who evaluates the change after implementation",
+				"The person responsible for documenting the change in official records"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_006",
+			"question": "Which approach to reducing resistance to change can negatively affect attitudes and potentially cause long-term negative consequences?",
+			"options": [
+				"Participation and involvement",
+				"Education and communication",
+				"Coercion",
+				"Negotiation and agreement"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_007",
+			"question": "Who proposed the three-stage change process model of unfreezing, changing, and refreezing?",
+			"options": [
+				"Frederick Herzberg",
+				"Abraham Maslow",
+				"Peter Drucker",
+				"Kurt Lewin"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_008",
+			"question": "What is the most neglected, yet essential part of the unfreezing stage?",
+			"options": [
+				"Developing a detailed implementation timeline",
+				"Creating an environment where people feel the need for change",
+				"Training employees on new processes",
+				"Identifying the change agent for the project"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_009",
+			"question": "During Stage 2 (Changing) of the three-stage change process, what does the changing stage involve modifying?",
+			"options": [
+				"Only personnel assignments and duty titles",
+				"Technology, tasks, structure, or distribution of people",
+				"Budgets, schedules, and external partnerships",
+				"Only equipment and facility layouts"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_010",
+			"question": "During the refreezing stage, what is a critical step?",
+			"options": [
+				"Immediately beginning a new change initiative",
+				"Returning to the old process if any issues arise",
+				"Remaining engaged and evaluating results to determine if the change reached the desired effect",
+				"Transferring all responsibility to subordinates"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_011",
+			"question": "What does Continuous Improvement (CI) increase while reducing associated costs?",
+			"options": [
+				"Staffing levels",
+				"Operational capabilities",
+				"Organizational hierarchy levels",
+				"Administrative requirements"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_012",
+			"question": "Which CI methodology is focused on workflow, customer value, and eliminating process waste, with a primary focus on eliminating non-value-added activities?",
+			"options": [
+				"Six Sigma",
+				"Theory of Constraints",
+				"Business Process Reengineering",
+				"Lean"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_013",
+			"question": "Which CI methodology is a rigorous, data-driven approach focused on minimizing waste through identifying, controlling, and reducing process variation?",
+			"options": [
+				"Lean",
+				"Six Sigma",
+				"Business Process Reengineering",
+				"Theory of Constraints"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_014",
+			"question": "How many steps are in the Practical Problem-Solving Method?",
+			"options": [
+				"Five",
+				"Six",
+				"Eight",
+				"Ten"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_015",
+			"question": "In the Practical Problem-Solving Method, what should a problem statement NOT assume?",
+			"options": [
+				"The scope and direction of the problem",
+				"A root cause, solution, or countermeasure",
+				"The who, what, when, and where of the problem",
+				"The significance of the problem"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_016",
+			"question": "According to the Practical Problem-Solving Method, what is the most commonly neglected step?",
+			"options": [
+				"Step 1: Clarify and Validate the Problem",
+				"Step 4: Determine Root Cause",
+				"Step 7: Confirm Results and Process",
+				"Step 8: Standardize Successful Processes"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_017",
+			"question": "What is the most common mistake made during Continuous Improvement efforts?",
+			"options": [
+				"Failure to set improvement targets",
+				"Incorrect root-cause determination",
+				"Not involving enough team members",
+				"Inadequate funding for the project"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_018",
+			"question": "What are the three levels of effort available for the Practical Problem-Solving Method?",
+			"options": [
+				"Basic, Intermediate, and Advanced",
+				"Individual, Team, and Organizational",
+				"Just Do It, Rapid Improvement Event, and Improvement Project",
+				"Planning, Execution, and Evaluation"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_019",
+			"question": "What are the three main constraints most often realized in project management?",
+			"options": [
+				"Scope, risk, and resources",
+				"Quality, time, and cost",
+				"People, processes, and technology",
+				"Budget, schedule, and performance"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_020",
+			"question": "What is a work breakdown structure?",
+			"options": [
+				"A list of employees assigned to each phase of a project",
+				"A schedule showing the timeline for project completion",
+				"A technique based on dividing a project into sub-units or work packages",
+				"A risk assessment document identifying potential project failures"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_021",
+			"question": "Which common response to change occurs when people experience fear of the unknown or see the change as a threat to organizational stability and their job security?",
+			"options": [
+				"Distrust",
+				"Self-interest",
+				"Uncertainty",
+				"Over-determination"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_022",
+			"question": "Which common response to change occurs when people consider their current position or role and question the direction and capabilities of those in positions of power after the change?",
+			"options": [
+				"Distrust",
+				"Uncertainty",
+				"Different Perception",
+				"Self-interest"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_023",
+			"question": "Which approach to reducing resistance to change involves actively involving those affected in designing and implementing the change?",
+			"options": [
+				"Education and Communication",
+				"Participation and Involvement",
+				"Facilitation and Support",
+				"Negotiation and Agreement"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_024",
+			"question": "In the three-stage change process, what must leaders analyze to overcome resistance during unfreezing?",
+			"options": [
+				"Restraining or opposing forces and devise ways to reduce them",
+				"Budget constraints and resource availability",
+				"Personnel qualifications and training records",
+				"Technology requirements and infrastructure needs"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_025",
+			"question": "During Stage 2 (Changing), what may indicate that the change is being implemented too early?",
+			"options": [
+				"Increased productivity and positive morale",
+				"Excessive requests for additional training",
+				"Higher than expected budget utilization",
+				"Negative reactions from employees"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_026",
+			"question": "During the refreezing stage, what helps the new behavior stick?",
+			"options": [
+				"Actively encouraging and reinforcing the use of new techniques",
+				"Issuing written directives mandating compliance",
+				"Immediately beginning a new change initiative",
+				"Transferring employees who resist the change"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_027",
+			"question": "Which CI methodology is a comprehensive process requiring a change in the fundamental way business processes are performed and identifies unnecessary activities to eliminate them?",
+			"options": [
+				"Lean",
+				"Six Sigma",
+				"Business Process Reengineering",
+				"Theory of Constraints"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_028",
+			"question": "Which CI methodology is a systematic approach to optimize resource utilization by identifying, exploiting, subordinating, elevating, and reassessing constraints (bottlenecks) in the process?",
+			"options": [
+				"Lean",
+				"Six Sigma",
+				"Business Process Reengineering",
+				"Theory of Constraints"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_029",
+			"question": "In the Practical Problem-Solving Method, Step 1 (Clarify and Validate the Problem) incorporates which aspects of the Osborn-Parnes model?",
+			"options": [
+				"Mess Finding, Data Finding, and Problem Finding",
+				"Idea Finding, Solution Finding, and Acceptance Finding",
+				"Convergent Thinking and Divergent Thinking",
+				"Planning, Execution, and Evaluation"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_030",
+			"question": "In the Practical Problem-Solving Method, what does Step 4 (Determine Root Cause) involve?",
+			"options": [
+				"Setting improvement targets based on strategic goals",
+				"Root cause analysis with the correct root cause validated by the same data used in Step 1",
+				"Developing countermeasures for potential root causes",
+				"Confirming results and verifying sustainability of improvements"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_031",
+			"question": "In the Practical Problem-Solving Method, Step 5 (Develop Countermeasures) incorporates which aspects of the Osborn-Parnes model?",
+			"options": [
+				"Mess Finding, Data Finding, and Problem Finding",
+				"Convergent Thinking and Divergent Thinking",
+				"Idea Finding, Solution Finding, and Acceptance Finding",
+				"Planning, Execution, and Evaluation"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_032",
+			"question": "According to the Practical Problem-Solving Method, what should happen if improvement targets are not met in Step 7?",
+			"options": [
+				"It may be necessary to return to Step 4 (Determine Root Cause)",
+				"Close the project and document lessons learned",
+				"Standardize the current process as-is",
+				"Restart the entire eight-step process from Step 1"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_033",
+			"question": "In Step 8 (Standardize Successful Processes), which of the following is a key question to consider?",
+			"options": [
+				"How much budget was spent on the improvement project?",
+				"Who should be disciplined for the original process failures?",
+				"When should the next improvement project begin?",
+				"How should improvements and lessons learned be communicated?"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_034",
+			"question": "A 'Just Do It' (point improvement) approach to problem solving involves how many people and can be accomplished in what timeframe?",
+			"options": [
+				"A large team and conducted over several weeks",
+				"A small team of subject matter experts and less than a week",
+				"One person (or a small team) and less than a day",
+				"An entire squadron and less than a month"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_035",
+			"question": "A Rapid Improvement Event consists of what size team and can be accomplished in what timeframe?",
+			"options": [
+				"One person and less than a day",
+				"A small team of subject matter experts and less than a week",
+				"A large team and conducted over several months",
+				"An entire unit and less than two weeks"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_036",
+			"question": "According to AFH 1, how is project management defined?",
+			"options": [
+				"The process of budgeting and allocating resources for a program",
+				"The act of delegating tasks to team members and tracking completion",
+				"The method of evaluating project outcomes against industry benchmarks",
+				"The process of leading, coordinating, planning, and controlling a diverse and complex set of processes and people in pursuit of achieving an established objective"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_037",
+			"question": "According to AFH 1, what is the difference between a project and a program?",
+			"options": [
+				"A project is ongoing while a program is temporary",
+				"A project is temporary, based on an established objective, while programs are ongoing",
+				"A project requires more resources than a program",
+				"There is no difference; the terms are interchangeable"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_038",
+			"question": "In project management, the 'cost' constraint refers to what?",
+			"options": [
+				"Only the monetary budget for the project",
+				"The price of procuring new equipment",
+				"Resource constraints including money, manpower, machinery, and materials",
+				"The financial cost of delaying the project"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_039",
+			"question": "What is the final step in the project management process?",
+			"options": [
+				"Execute the plan",
+				"Close the project by documenting lessons learned",
+				"Monitor and control progress",
+				"Develop solution options"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		},
+		{
+			"id": "ch13_040",
+			"question": "What information does a task analysis provide that is NOT depicted in a work breakdown structure?",
+			"options": [
+				"Sub-units and work packages",
+				"The overall project objective",
+				"The budget allocation for each work element",
+				"Task milestones, how the milestones can be measured, and resources or requirements"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 13, Sec. 13C"
+		}
+	]
 }

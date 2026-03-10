@@ -361,6 +361,126 @@
 			],
 			"answer": 1,
 			"reference": "AFH 1, Ch. 12, Sec. 12E"
+		},
+		{
+			"id": "ch12_031",
+			"question": "The Federal Insurance Contributions Act (FICA) requires federal agencies to withhold which two taxes from the basic pay of military members?",
+			"options": [
+				"Federal income tax and state income tax",
+				"Social Security and Medicare",
+				"Armed Forces Retirement Home and TSP contributions",
+				"FITW and SITW"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_032",
+			"question": "Members are not permitted to contribute more than what percentage of their basic pay to the Thrift Savings Plan (TSP)?",
+			"options": [
+				"80 percent",
+				"85 percent",
+				"90 percent",
+				"92 percent"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_033",
+			"question": "How do Roth TSP contributions differ from Traditional TSP contributions regarding taxation?",
+			"options": [
+				"Roth contributions are taken out before taxes; Traditional contributions are taken out after taxes",
+				"Roth contributions are taken out after income is taxed and withdrawals are tax-free; Traditional contributions are taken out before taxes are computed",
+				"Both Roth and Traditional contributions are tax-deferred until withdrawal",
+				"Roth contributions receive a government match; Traditional contributions do not"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_034",
+			"question": "To allow for sufficient processing time, allotments should be requested how many days before the desired month?",
+			"options": [
+				"10 days",
+				"15 days",
+				"30 days",
+				"45 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_035",
+			"question": "What are the three principal goals of the Commercial Services Management Program?",
+			"options": [
+				"Reduce costs, eliminate positions, and privatize operations",
+				"Sustain readiness, improve performance and quality, and focus available personnel and resources on core USAF missions",
+				"Increase military manning, reduce civilian positions, and improve audit scores",
+				"Maximize contractor support, minimize government oversight, and reduce budget requests"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_036",
+			"question": "At what number of days past due is the first late fee charged on a GTCC account?",
+			"options": [
+				"31 days",
+				"61 days",
+				"75 days (two cycles plus fifteen days)",
+				"96 days"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_037",
+			"question": "What is defined as the extravagant, careless, or needless expenditure of USAF funds or the consumption of USAF property resulting from deficient practices, systems controls, or decisions?",
+			"options": [
+				"Fraud",
+				"Abuse",
+				"Waste",
+				"Misappropriation"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_038",
+			"question": "What form is required documentation for a financial liability investigation of property loss?",
+			"options": [
+				"AF Form 332",
+				"DD Form 200",
+				"DD Form 1351-2",
+				"DFAS Form 702"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_039",
+			"question": "Who appoints resource advisors within the resource management system?",
+			"options": [
+				"The installation commander",
+				"The comptroller",
+				"The responsibility center manager",
+				"The financial management board"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12"
+		},
+		{
+			"id": "ch12_040",
+			"question": "The Future Years Defense Program (FYDP) is composed of how many major force programs?",
+			"options": [
+				"5",
+				"8",
+				"11",
+				"15"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 12"
 		}
 	]
 }

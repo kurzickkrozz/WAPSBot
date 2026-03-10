@@ -1,306 +1,486 @@
 {
-  "chapter": "Chapter 1",
-  "title": "Professionalism",
-  "questions": [
-    {
-      "id": "ch1_001",
-      "question": "According to AFH 1, professionalism within the USAF is framed by which requirements?",
-      "options": [
-        "Trust, loyalty, dignity, and personal commitment",
-        "Honor, courage, commitment, and sacrifice",
-        "Duty, respect, integrity, and service",
-        "Leadership, discipline, teamwork, and excellence"
-      ],
-      "answer": 0,
-      "reference": "AFH 1, Ch. 1, Sec. 1A"
-    },
-    {
-      "id": "ch1_002",
-      "question": "What is described as being at the root of professionalism?",
-      "options": [
-        "Integrity",
-        "Duty",
-        "Respect",
-        "Excellence"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1A"
-    },
-    {
-      "id": "ch1_003",
-      "question": "The USAF is described as a Total Force that effectively leverages the unique capabilities of which groups?",
-      "options": [
-        "Active duty, Reserve, and Guard members only",
-        "Officer, enlisted, and civilian Airmen across RegAF, Guard, Reserve, and Auxiliary Components",
-        "Officers and enlisted members across all military branches",
-        "Combat, support, and administrative personnel across all commands"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1A"
-    },
-    {
-      "id": "ch1_004",
-      "question": "As a Total Force, the USAF is described as what type of air force?",
-      "options": [
-        "A technology-driven, innovation-focused, results-oriented air force",
-        "A combat-ready, globally-engaged, strategically-minded air force",
-        "A values-based, mission-focused, people-oriented air force",
-        "A discipline-driven, service-focused, honor-bound air force"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1A"
-    },
-    {
-      "id": "ch1_005",
-      "question": "Which Air Force Chief of Staff stated that members of the profession of arms are 'entrusted with the security of our nation, the protection of our citizens and the preservation of its way of life'?",
-      "options": [
-        "General T. Michael Moseley",
-        "General Ronald Fogleman",
-        "CMSAF JoAnne S. Bass",
-        "General Hap Arnold"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1B"
-    },
-    {
-      "id": "ch1_006",
-      "question": "General Ronald Fogleman was the _____ Air Force Chief of Staff.",
-      "options": [
-        "14th",
-        "15th",
-        "16th",
-        "18th"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1B"
-    },
-    {
-      "id": "ch1_007",
-      "question": "According to AFH 1, the profession of arms is distinguished from other professions because of expertise in what area?",
-      "options": [
-        "Technological innovation and cyber warfare",
-        "Strategic planning and global logistics",
-        "The justified application of lethal military force",
-        "Diplomatic relations and international cooperation"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1B"
-    },
-    {
-      "id": "ch1_008",
-      "question": "What are the three USAF core values?",
-      "options": [
-        "Honor, Courage, and Commitment",
-        "Integrity First, Service Before Self, and Excellence In All We Do",
-        "Duty, Loyalty, and Respect",
-        "Mission, Discipline, and Teamwork"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_009",
-      "question": "According to AFH 1, the USAF core values are recognized as universal, consistent standards used to evaluate what?",
-      "options": [
-        "The combat readiness of all USAF units",
-        "The professional development of all Airmen",
-        "The ethical climate of all USAF organizations",
-        "The leadership effectiveness of all commanders"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_010",
-      "question": "What are the three virtues of Integrity First?",
-      "options": [
-        "Duty, loyalty, and respect",
-        "Honesty, courage, and accountability",
-        "Mission, discipline, and teamwork",
-        "Honor, valor, and sacrifice"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_011",
-      "question": "What are the three virtues of Service Before Self?",
-      "options": [
-        "Honesty, courage, and accountability",
-        "Mission, discipline, and teamwork",
-        "Duty, loyalty, and respect",
-        "Valor, courage, and sacrifice"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_012",
-      "question": "What are the three virtues of Excellence In All We Do?",
-      "options": [
-        "Duty, loyalty, and respect",
-        "Honesty, courage, and accountability",
-        "Innovation, stewardship, and readiness",
-        "Mission, discipline, and teamwork"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_013",
-      "question": "According to AFH 1, integrity is described as what?",
-      "options": [
-        "Placing the needs of the service above personal desires",
-        "A sustained passion for continuous improvement",
-        "Simply doing the right thing, all the time, whether everyone is watching, or no one is watching",
-        "An individual commitment to uphold the highest personal and professional standards"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_014",
-      "question": "According to AFH 1, courage is defined as:",
-      "options": [
-        "The willingness to make personal sacrifices for the mission",
-        "Not the absence of fear but doing the right thing despite fear",
-        "The ability to lead others through difficult situations",
-        "Maintaining composure under extreme pressure"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_015",
-      "question": "Which USAF core value represents an abiding dedication to the age-old military virtue of selfless dedication to duty?",
-      "options": [
-        "Integrity First",
-        "Excellence In All We Do",
-        "Service Before Self",
-        "Professionalism"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_016",
-      "question": "According to AFH 1, loyalty as a virtue of Service Before Self is ordered in what priority?",
-      "options": [
-        "Family first, unit second, nation third",
-        "The nation first, the values and commitments of the USAF second, and the men and women with whom we serve third",
-        "Self first, then peers, then the USAF",
-        "The mission first, commanders second, the nation third"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_017",
-      "question": "Excellence In All We Do does NOT mean:",
-      "options": [
-        "Continuously advancing our craft and increasing knowledge",
-        "Demanding perfection in everything from everyone",
-        "Seeking out opportunities and completing developmental education",
-        "Having a passion for deliberate continuous improvement and innovation"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_018",
-      "question": "What is honesty described as in relation to integrity?",
-      "options": [
-        "The foundation of integrity",
-        "The hallmark of integrity",
-        "The essence of integrity",
-        "The cornerstone of integrity"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1C"
-    },
-    {
-      "id": "ch1_019",
-      "question": "According to AFH 1, what are the three general causes or sources of ethical dilemmas?",
-      "options": [
-        "Fear, pressure, and self-interest",
-        "Ignorance, apathy, and bias",
-        "Uncertainty, competing values, and potential harm",
-        "Ambiguity, conflicting orders, and time pressure"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1D"
-    },
-    {
-      "id": "ch1_020",
-      "question": "Dr. Robert M. Hicks identified three tests to check the morality of actions and decisions. Which of the following is NOT one of those tests?",
-      "options": [
-        "The Network Test",
-        "The United States of America Test",
-        "The Divine Test",
-        "The Peer Review Test"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 1, Sec. 1D"
-    },
-    {
-      "id": "ch1_021",
-      "question": "The Network Test asks you to consider:",
-      "options": [
-        "Whether your peers would approve of your decision",
-        "How your decision would look if aired on the news or social media",
-        "Whether your chain of command would support your decision",
-        "How your decision aligns with USAF regulations"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1D"
-    },
-    {
-      "id": "ch1_022",
-      "question": "The Airman's Creed was presented to the USAF in 2007 by which Air Force Chief of Staff?",
-      "options": [
-        "General Ronald Fogleman, 15th CSAF",
-        "General T. Michael Moseley, 18th CSAF",
-        "General Norton Schwartz, 19th CSAF",
-        "General Mark Welsh, 20th CSAF"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1D"
-    },
-    {
-      "id": "ch1_023",
-      "question": "According to AFH 1, what are the three types of courage critical in the profession of arms?",
-      "options": [
-        "Physical, mental, and spiritual",
-        "Tactical, operational, and strategic",
-        "Personal, physical, and moral",
-        "Individual, collective, and institutional"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 1, Sec. 1D"
-    },
-    {
-      "id": "ch1_024",
-      "question": "According to AFH 1, what is the stated mission in the Airman's Creed?",
-      "options": [
-        "To serve, protect, and defend",
-        "To fly, fight, and win",
-        "To deter, defend, and defeat",
-        "To train, equip, and deploy"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1D"
-    },
-    {
-      "id": "ch1_025",
-      "question": "According to Title 5, CFR, Part 2635, employees may accept voluntary gifts from subordinates of nominal value not to exceed what amount on occasions of special personal significance?",
-      "options": [
-        "$5",
-        "$10",
-        "$20",
-        "$25"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 1, Sec. 1D"
-    }
-  ]
+	"chapter": "Chapter 1",
+	"title": "Professionalism",
+	"questions": [
+		{
+			"id": "ch1_001",
+			"question": "According to AFH 1, professionalism within the USAF is framed by which requirements?",
+			"options": [
+				"Trust, loyalty, dignity, and personal commitment",
+				"Honor, courage, commitment, and sacrifice",
+				"Duty, respect, integrity, and service",
+				"Leadership, discipline, teamwork, and excellence"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 1, Sec. 1A"
+		},
+		{
+			"id": "ch1_002",
+			"question": "What is described as being at the root of professionalism?",
+			"options": [
+				"Integrity",
+				"Duty",
+				"Respect",
+				"Excellence"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1A"
+		},
+		{
+			"id": "ch1_003",
+			"question": "The USAF is described as a Total Force that effectively leverages the unique capabilities of which groups?",
+			"options": [
+				"Active duty, Reserve, and Guard members only",
+				"Officer, enlisted, and civilian Airmen across RegAF, Guard, Reserve, and Auxiliary Components",
+				"Officers and enlisted members across all military branches",
+				"Combat, support, and administrative personnel across all commands"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1A"
+		},
+		{
+			"id": "ch1_004",
+			"question": "As a Total Force, the USAF is described as what type of air force?",
+			"options": [
+				"A technology-driven, innovation-focused, results-oriented air force",
+				"A combat-ready, globally-engaged, strategically-minded air force",
+				"A values-based, mission-focused, people-oriented air force",
+				"A discipline-driven, service-focused, honor-bound air force"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1A"
+		},
+		{
+			"id": "ch1_005",
+			"question": "Which Air Force Chief of Staff stated that members of the profession of arms are 'entrusted with the security of our nation, the protection of our citizens and the preservation of its way of life'?",
+			"options": [
+				"General T. Michael Moseley",
+				"General Ronald Fogleman",
+				"CMSAF JoAnne S. Bass",
+				"General Hap Arnold"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1B"
+		},
+		{
+			"id": "ch1_006",
+			"question": "General Ronald Fogleman was the _____ Air Force Chief of Staff.",
+			"options": [
+				"14th",
+				"15th",
+				"16th",
+				"18th"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1B"
+		},
+		{
+			"id": "ch1_007",
+			"question": "According to AFH 1, the profession of arms is distinguished from other professions because of expertise in what area?",
+			"options": [
+				"Technological innovation and cyber warfare",
+				"Strategic planning and global logistics",
+				"The justified application of lethal military force",
+				"Diplomatic relations and international cooperation"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1B"
+		},
+		{
+			"id": "ch1_008",
+			"question": "What are the three USAF core values?",
+			"options": [
+				"Honor, Courage, and Commitment",
+				"Integrity First, Service Before Self, and Excellence In All We Do",
+				"Duty, Loyalty, and Respect",
+				"Mission, Discipline, and Teamwork"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_009",
+			"question": "According to AFH 1, the USAF core values are recognized as universal, consistent standards used to evaluate what?",
+			"options": [
+				"The combat readiness of all USAF units",
+				"The professional development of all Airmen",
+				"The ethical climate of all USAF organizations",
+				"The leadership effectiveness of all commanders"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_010",
+			"question": "What are the three virtues of Integrity First?",
+			"options": [
+				"Duty, loyalty, and respect",
+				"Honesty, courage, and accountability",
+				"Mission, discipline, and teamwork",
+				"Honor, valor, and sacrifice"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_011",
+			"question": "What are the three virtues of Service Before Self?",
+			"options": [
+				"Honesty, courage, and accountability",
+				"Mission, discipline, and teamwork",
+				"Duty, loyalty, and respect",
+				"Valor, courage, and sacrifice"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_012",
+			"question": "What are the three virtues of Excellence In All We Do?",
+			"options": [
+				"Duty, loyalty, and respect",
+				"Honesty, courage, and accountability",
+				"Innovation, stewardship, and readiness",
+				"Mission, discipline, and teamwork"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_013",
+			"question": "According to AFH 1, integrity is described as what?",
+			"options": [
+				"Placing the needs of the service above personal desires",
+				"A sustained passion for continuous improvement",
+				"Simply doing the right thing, all the time, whether everyone is watching, or no one is watching",
+				"An individual commitment to uphold the highest personal and professional standards"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_014",
+			"question": "According to AFH 1, courage is defined as:",
+			"options": [
+				"The willingness to make personal sacrifices for the mission",
+				"Not the absence of fear but doing the right thing despite fear",
+				"The ability to lead others through difficult situations",
+				"Maintaining composure under extreme pressure"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_015",
+			"question": "Which USAF core value represents an abiding dedication to the age-old military virtue of selfless dedication to duty?",
+			"options": [
+				"Integrity First",
+				"Excellence In All We Do",
+				"Service Before Self",
+				"Professionalism"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_016",
+			"question": "According to AFH 1, loyalty as a virtue of Service Before Self is ordered in what priority?",
+			"options": [
+				"Family first, unit second, nation third",
+				"The nation first, the values and commitments of the USAF second, and the men and women with whom we serve third",
+				"Self first, then peers, then the USAF",
+				"The mission first, commanders second, the nation third"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_017",
+			"question": "Excellence In All We Do does NOT mean:",
+			"options": [
+				"Continuously advancing our craft and increasing knowledge",
+				"Demanding perfection in everything from everyone",
+				"Seeking out opportunities and completing developmental education",
+				"Having a passion for deliberate continuous improvement and innovation"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_018",
+			"question": "What is honesty described as in relation to integrity?",
+			"options": [
+				"The foundation of integrity",
+				"The hallmark of integrity",
+				"The essence of integrity",
+				"The cornerstone of integrity"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_019",
+			"question": "According to AFH 1, what are the three general causes or sources of ethical dilemmas?",
+			"options": [
+				"Fear, pressure, and self-interest",
+				"Ignorance, apathy, and bias",
+				"Uncertainty, competing values, and potential harm",
+				"Ambiguity, conflicting orders, and time pressure"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_020",
+			"question": "Dr. Robert M. Hicks identified three tests to check the morality of actions and decisions. Which of the following is NOT one of those tests?",
+			"options": [
+				"The Network Test",
+				"The United States of America Test",
+				"The Divine Test",
+				"The Peer Review Test"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_021",
+			"question": "The Network Test asks you to consider:",
+			"options": [
+				"Whether your peers would approve of your decision",
+				"How your decision would look if aired on the news or social media",
+				"Whether your chain of command would support your decision",
+				"How your decision aligns with USAF regulations"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_022",
+			"question": "The Airman's Creed was presented to the USAF in 2007 by which Air Force Chief of Staff?",
+			"options": [
+				"General Ronald Fogleman, 15th CSAF",
+				"General T. Michael Moseley, 18th CSAF",
+				"General Norton Schwartz, 19th CSAF",
+				"General Mark Welsh, 20th CSAF"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_023",
+			"question": "According to AFH 1, what are the three types of courage critical in the profession of arms?",
+			"options": [
+				"Physical, mental, and spiritual",
+				"Tactical, operational, and strategic",
+				"Personal, physical, and moral",
+				"Individual, collective, and institutional"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_024",
+			"question": "According to AFH 1, what is the stated mission in the Airman's Creed?",
+			"options": [
+				"To serve, protect, and defend",
+				"To fly, fight, and win",
+				"To deter, defend, and defeat",
+				"To train, equip, and deploy"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_025",
+			"question": "According to Title 5, CFR, Part 2635, employees may accept voluntary gifts from subordinates of nominal value not to exceed what amount on occasions of special personal significance?",
+			"options": [
+				"$5",
+				"$10",
+				"$20",
+				"$25"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_026",
+			"question": "According to AFH 1, what is at the root of professionalism within the USAF?",
+			"options": [
+				"Discipline",
+				"Integrity",
+				"Trust, loyalty, dignity, and personal commitment",
+				"Excellence in training and education"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1A"
+		},
+		{
+			"id": "ch1_027",
+			"question": "Enlisted promotion tests are designed to reflect each applicable Airman's knowledge. Group study for the purpose of enlisted promotion testing is:",
+			"options": [
+				"Encouraged with supervisor approval",
+				"Permitted only during duty hours",
+				"Allowed only for study groups of three or fewer",
+				"Strictly prohibited in accordance with DAFMAN 36-2664"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 1, Sec. 1A"
+		},
+		{
+			"id": "ch1_028",
+			"question": "According to AFH 1, enlisted personnel who violate the prohibition against group study for promotion testing are subject to prosecution under what article?",
+			"options": [
+				"Article 91 of the UCMJ",
+				"Article 92 of the UCMJ",
+				"Article 134 of the UCMJ",
+				"Article 15 of the UCMJ"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1A"
+		},
+		{
+			"id": "ch1_029",
+			"question": "According to AFH 1, integrity is described as a compass that keeps us on the right path when confronted with what?",
+			"options": [
+				"Ethical challenges and personal temptations",
+				"Difficult leadership decisions and organizational change",
+				"Mission requirements and resource constraints",
+				"Peer pressure and subordinate resistance"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_030",
+			"question": "According to AFH 1, accountability instills responsibility while maintaining what two qualities?",
+			"options": [
+				"Courage and integrity",
+				"Honesty and discipline",
+				"Loyalty and respect",
+				"Transparency and ownership"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_031",
+			"question": "According to AFH 1, duty is defined as the obligation to perform what?",
+			"options": [
+				"What is required for the mission",
+				"What leadership directs without question",
+				"What is outlined in one's duty description",
+				"What peers and subordinates expect"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_032",
+			"question": "According to AFH 1, discipline as a virtue of Excellence In All We Do is described as:",
+			"options": [
+				"The ability to enforce standards across the organization",
+				"A willingness to follow orders without hesitation",
+				"A commander's tool for maintaining unit readiness",
+				"An individual commitment to uphold the highest of personal and professional standards"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 1, Sec. 1C"
+		},
+		{
+			"id": "ch1_033",
+			"question": "According to AFH 1, whereas moral values describe what we hold to be right and wrong, ethics is:",
+			"options": [
+				"A set of rules prescribed by military regulation",
+				"The systematic reflection of these values enabling us to live and act according to our beliefs",
+				"A legal framework for disciplinary proceedings",
+				"A code of conduct unique to each military branch"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_034",
+			"question": "According to AFH 1, laws only tell us what we can and cannot do. Ethics, on the other hand, tells us:",
+			"options": [
+				"What we must do under military law",
+				"How to avoid legal consequences",
+				"What we should or shouldn't do",
+				"What our commander expects of us"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_035",
+			"question": "The United States of America Test asks you to consider which prioritized questions?",
+			"options": [
+				"Is this legal? Is this ethical? Is this moral?",
+				"Is this good for me? Is this good for my family? Is this good for my career?",
+				"Would my supervisor approve? Would my commander approve? Would the Secretary of the Air Force approve?",
+				"Is this good for the United States? Is this good for the USAF? Is this good for my unit? Is this good for me?"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_036",
+			"question": "The Divine Test deals with asking yourself which question?",
+			"options": [
+				"Would my religious leader approve of this decision?",
+				"Would I feel good about the decision when I give account for my life?",
+				"Is this decision aligned with my spiritual beliefs?",
+				"Would I be comfortable discussing this decision with my family?"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_037",
+			"question": "According to AFH 1, valor is defined as:",
+			"options": [
+				"The ability to face danger or hardship in a determined and resolute manner",
+				"The willingness to sacrifice one's life for the mission",
+				"A Medal of Honor-level act of heroism in combat",
+				"Physical bravery demonstrated exclusively on the battlefield"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_038",
+			"question": "According to AFH 1, personal courage is about:",
+			"options": [
+				"Overcoming fears of bodily harm to get the job done",
+				"Standing by the core values when it may not be the popular thing to do",
+				"Doing what is right even when risking one's career",
+				"Demonstrating bravery in a combat environment"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_039",
+			"question": "According to AFH 1, moral courage is described as:",
+			"options": [
+				"Doing what is right even when risking one's career",
+				"Overcoming fears of bodily harm to get the job done",
+				"Willingness to risk harm to yourself for someone else's sake",
+				"The ability to stand by the core values when it may not be the popular thing to do"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		},
+		{
+			"id": "ch1_040",
+			"question": "According to AFH 1, the intent of the Airman's Creed was to enhance the building of what among Airmen?",
+			"options": [
+				"A sense of professionalism and discipline",
+				"A coherent bond and warrior ethos",
+				"An understanding of Air Force heritage",
+				"A commitment to continuous improvement"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 1, Sec. 1D"
+		}
+	]
 }

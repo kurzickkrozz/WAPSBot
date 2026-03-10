@@ -27,10 +27,17 @@ export function buildAnswerButtons(questionIndex: number): ActionRowBuilder<Butt
 }
 
 export function buildCorrectEmbed(question: Question, selected: number): EmbedBuilder {
+	const optionLines = question.options
+		.map((opt, i) => {
+			const prefix = `**${ANSWER_LABELS[i]}.** ${opt}`;
+			return i === selected ? `${prefix} ✅` : prefix;
+		})
+		.join('\n');
+
 	const embed = new EmbedBuilder()
 		.setColor(EMBED_COLOR_CORRECT)
 		.setTitle('Correct!')
-		.setDescription(`**${ANSWER_LABELS[selected]}.** ${question.options[selected]}`);
+		.setDescription(`${question.question}\n\n${optionLines}`);
 
 	if (question.reference) {
 		embed.setFooter({ text: `Ref: ${question.reference}` });
@@ -41,12 +48,19 @@ export function buildCorrectEmbed(question: Question, selected: number): EmbedBu
 
 export function buildIncorrectEmbed(question: Question, selected: number): EmbedBuilder {
 	const correct = question.answer;
+	const optionLines = question.options
+		.map((opt, i) => {
+			const prefix = `**${ANSWER_LABELS[i]}.** ${opt}`;
+			if (i === correct) return `${prefix} ✅`;
+			if (i === selected) return `${prefix} ❌`;
+			return prefix;
+		})
+		.join('\n');
+
 	const embed = new EmbedBuilder()
 		.setColor(EMBED_COLOR_INCORRECT)
 		.setTitle('Incorrect')
-		.setDescription(
-			`You chose: **${ANSWER_LABELS[selected]}.** ${question.options[selected]}\nCorrect answer: **${ANSWER_LABELS[correct]}.** ${question.options[correct]}`
-		);
+		.setDescription(`${question.question}\n\n${optionLines}`);
 
 	if (question.reference) {
 		embed.setFooter({ text: `Ref: ${question.reference}` });
@@ -86,10 +100,17 @@ export function buildResultsEmbed(session: QuizSession): EmbedBuilder {
 
 export function buildTimeoutEmbed(question: Question): EmbedBuilder {
 	const correct = question.answer;
+	const optionLines = question.options
+		.map((opt, i) => {
+			const prefix = `**${ANSWER_LABELS[i]}.** ${opt}`;
+			return i === correct ? `${prefix} ✅` : prefix;
+		})
+		.join('\n');
+
 	const embed = new EmbedBuilder()
 		.setColor(EMBED_COLOR_INCORRECT)
 		.setTitle('Time\'s Up!')
-		.setDescription(`Correct answer: **${ANSWER_LABELS[correct]}.** ${question.options[correct]}`);
+		.setDescription(`${question.question}\n\n${optionLines}`);
 
 	if (question.reference) {
 		embed.setFooter({ text: `Ref: ${question.reference}` });

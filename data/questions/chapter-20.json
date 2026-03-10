@@ -301,6 +301,186 @@
 			],
 			"answer": 2,
 			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_026",
+			"question": "What are Self-Assessment Communicators (SACs) designed to do?",
+			"options": [
+				"Replace the Inspector General inspection process entirely",
+				"Provide individual performance feedback to supervisors",
+				"Improve compliance with published guidance and communicate risk and program health up and down the chain of command",
+				"Document safety violations for OSHA compliance"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20A"
+		},
+		{
+			"id": "ch20_027",
+			"question": "According to AFH 1, what are the four Major Graded Areas (MGAs) in the Air Force Inspection System?",
+			"options": [
+				"Training, personnel, logistics, and finance",
+				"Safety, security, readiness, and compliance",
+				"Administration, operations, maintenance, and communications",
+				"Managing resources, leading people, improving the unit, and executing the mission"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 20, Sec. 20A"
+		},
+		{
+			"id": "ch20_028",
+			"question": "According to AFH 1, what is the primary objective of the Air Force Inspection System (AFIS)?",
+			"options": [
+				"To foster a culture of critical self-assessment and continuous improvement and reduce reliance on external inspection teams",
+				"To punish units that fail to meet standards",
+				"To replace the chain of command for enforcement purposes",
+				"To conduct quarterly evaluations of all USAF squadrons"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 20, Sec. 20A"
+		},
+		{
+			"id": "ch20_029",
+			"question": "Under the Military Whistleblower's Protection Act, what is prohibited?",
+			"options": [
+				"Filing anonymous complaints with the Inspector General",
+				"Restricting or retaliating against a member for making a lawful communication to Congress or an Inspector General",
+				"Discussing complaints with legal counsel before filing",
+				"Submitting complaints through the chain of command"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_030",
+			"question": "What is the driving privilege suspension for a second DUI/DWI offense on a military installation?",
+			"options": [
+				"One year",
+				"Two years",
+				"Three years",
+				"Permanent revocation"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_031",
+			"question": "What are the four types of drug testing authorized for use in the USAF?",
+			"options": [
+				"Random, probable cause, commander-directed, and voluntary",
+				"Annual, quarterly, incident-based, and random",
+				"Inspection (unit sweep), probable cause (search and seizure authorization), commander-directed, and consent",
+				"Entrance, periodic, random, and involuntary"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20B"
+		},
+		{
+			"id": "ch20_032",
+			"question": "According to AFH 1, unprofessional relationships are those that do NOT respect which differences?",
+			"options": [
+				"Age, education, and experience differences",
+				"Cultural, ethnic, and religious differences",
+				"Gender, race, and national origin differences",
+				"Differences in grade, rank, or position"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_033",
+			"question": "What are the two types of sexual harassment defined in AFH 1?",
+			"options": [
+				"Quid pro quo and hostile work environment",
+				"Direct and indirect harassment",
+				"Verbal and physical harassment",
+				"Individual and systemic harassment"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_034",
+			"question": "Under restricted reporting for sexual assault, who can a victim disclose the assault to while maintaining confidentiality?",
+			"options": [
+				"Their immediate supervisor and first sergeant only",
+				"The Inspector General and Staff Judge Advocate",
+				"Any military member of equal or higher rank",
+				"A Sexual Assault Response Coordinator (SARC), victim advocate, or healthcare provider"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_035",
+			"question": "What is a Letter of Counseling (LOC) used for?",
+			"options": [
+				"A formal disciplinary tool that is permanently filed in the member's records",
+				"An administrative tool to document minor infractions or to clarify expected standards of behavior",
+				"A document indicating the member is on the control roster",
+				"A legal document that initiates UCMJ proceedings"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_036",
+			"question": "What is the correct order of administrative actions from least to most severe?",
+			"options": [
+				"Letter of reprimand, letter of admonishment, letter of counseling",
+				"Letter of counseling, letter of reprimand, letter of admonishment",
+				"Letter of counseling, letter of admonishment, letter of reprimand",
+				"Letter of admonishment, letter of counseling, letter of reprimand"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_037",
+			"question": "According to AFH 1, nonjudicial punishment under Article 15, UCMJ, is available to commanders to deal with what?",
+			"options": [
+				"Only felony-level criminal offenses",
+				"Minor acts of indiscipline",
+				"Only offenses committed during deployment",
+				"Civilian misconduct on military installations"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_038",
+			"question": "What is the Air Force Board for Correction of Military Records (AFBCMR)?",
+			"options": [
+				"A board that reviews fitness assessment failures",
+				"A panel that determines promotion eligibility",
+				"A board that conducts criminal investigations",
+				"The highest level of administrative review for correcting military records"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
+		},
+		{
+			"id": "ch20_039",
+			"question": "According to AFH 1, retaliation under Article 132, UCMJ, includes which of the following acts?",
+			"options": [
+				"Only physical harm against the reporting individual",
+				"Filing a counter-complaint through the Inspector General",
+				"Ostracism and acts of maltreatment or cruelty against the reporting individual",
+				"Reassigning the reporting individual to a different unit"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 20, Sec. 20C"
+		},
+		{
+			"id": "ch20_040",
+			"question": "How many duty days does an individual have to respond with a written statement before the commander makes a final decision on an Unfavorable Information File (UIF) action?",
+			"options": [
+				"One duty day",
+				"Three duty days",
+				"Five duty days",
+				"Seven duty days"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 20, Sec. 20D"
 		}
 	]
 }

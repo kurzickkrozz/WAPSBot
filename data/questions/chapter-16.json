@@ -1,306 +1,486 @@
 {
-  "chapter": "Chapter 16",
-  "title": "Developing Ideas",
-  "questions": [
-    {
-      "id": "ch16_001",
-      "question": "According to AFH 1, what is the Guardian and Airmen Innovation Network (GAIN) Program?",
-      "options": [
-        "A training program for new Airmen focused on technology skills",
-        "The DAF innovation program that solicits suggestions and ideas from Airmen to improve operations or programs",
-        "A mentoring network that pairs senior leaders with junior Airmen",
-        "A classified research and development initiative for advanced weapon systems"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16A"
-    },
-    {
-      "id": "ch16_002",
-      "question": "What does prospect theory help explain in the context of decision-making?",
-      "options": [
-        "Why groups always make better decisions than individuals",
-        "Our tendency to escalate commitment based on sunk costs instead of making rational evaluations",
-        "Why leaders prefer consensus over unilateral decisions",
-        "The advantage of using formal analysis exclusively without intuition"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_003",
-      "question": "According to AFH 1, what happens when organizations are faced with changes perceived as threats versus opportunities?",
-      "options": [
-        "Organizations react the same way regardless of how change is framed",
-        "Threats to comfortable frameworks are met with rigid resistance, while opportunities are met with flexibility and adaptability",
-        "Organizations always resist change initially before adapting",
-        "Threats produce faster adaptation than opportunities"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_004",
-      "question": "What is a key caution about using analogies in decision-making?",
-      "options": [
-        "Analogies should never be used because they always lead to incorrect conclusions",
-        "Analogies may lead us to focus on similarities between events and downplay important differences",
-        "Analogies are only useful in scientific decision-making contexts",
-        "Analogies eliminate the need for critical thinking in the decision process"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_005",
-      "question": "According to AFH 1, what is the proper relationship between intuition and formal analysis in decision-making?",
-      "options": [
-        "Intuition should always override formal analysis",
-        "Formal analysis should completely replace intuition",
-        "Formal analysis can check intuition, while intuition is useful in validating and testing assumptions that underlie analysis",
-        "Intuition and formal analysis should never be used together"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_006",
-      "question": "When establishing groups for decision-making, which of the following is recommended for achieving the 'wisdom of groups'?",
-      "options": [
-        "Include only members from the same discipline for focused expertise",
-        "Have members who are subordinate to one another to ensure accountability",
-        "Hold discussions in a centralized location with tight controls",
-        "Seek group members who are independent, meaning not subordinate to one another"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_007",
-      "question": "What is groupthink as defined in AFH 1?",
-      "options": [
-        "A structured approach to collaborative problem-solving",
-        "A decision trap where pressures within the team demand conformity at the expense of true critical thinking",
-        "A method for reaching consensus through democratic voting",
-        "A technique for encouraging dissenting viewpoints in group settings"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_008",
-      "question": "Which of the following is a common indicator of groupthink?",
-      "options": [
-        "Group members frequently disagree on key issues",
-        "The group seeks outside consultation before making decisions",
-        "There is a tendency to rationalize away disconfirming data and warning signs",
-        "The group takes extended time to deliberate on each decision"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_009",
-      "question": "What is one way to reduce groupthink according to AFH 1?",
-      "options": [
-        "Eliminate dissenting opinions to maintain group cohesion",
-        "Allow the senior-ranking member to make all final decisions",
-        "Define roles within decision-making teams and hold members accountable for representing their perspectives",
-        "Reduce the number of group members to the minimum possible"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_010",
-      "question": "According to AFH 1, what percentage of the time does the majority position on a jury's first ballot end up being the group's final decision?",
-      "options": [
-        "50%",
-        "65%",
-        "75%",
-        "85%"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_011",
-      "question": "What effect can even a single opposing view have on group decision-making?",
-      "options": [
-        "It typically causes the group to become dysfunctional",
-        "It can foster divergent thinking and encourage the group to consider a broader range of possible options",
-        "It always leads the group to adopt the dissenter's position",
-        "It slows the decision process to the point of analysis paralysis"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_012",
-      "question": "Professor Andrew J. DuBrin stated that a high-performance team demands what quality among its members?",
-      "options": [
-        "Strict adherence to hierarchy",
-        "Avoidance of all conflict",
-        "Sincere and tactful criticism",
-        "Unanimous agreement on all decisions"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_013",
-      "question": "In addressing conflict positively, what type of conflict is considered constructive in the decision-making process?",
-      "options": [
-        "Affective conflict focused on personal emotions",
-        "Cognitive conflict focused on issues and ideas",
-        "Hierarchical conflict between ranks",
-        "Interpersonal conflict between group members"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_014",
-      "question": "In a 'culture of no,' what behavior do dissenters typically exhibit?",
-      "options": [
-        "They silently endorse proposals without analysis",
-        "They delay decisions by requesting more information",
-        "They tear down or block proposals and ideas rather than critique them with intent to strengthen",
-        "They defer all decisions to the senior leader"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_015",
-      "question": "What characterizes the 'culture of maybe' in organizational decision-making?",
-      "options": [
-        "Dissenters stay silent and later undermine implementation",
-        "Leaders make quick unilateral decisions without analysis",
-        "Decision-makers constantly delay action because they think more information will clarify their choice, resulting in analysis paralysis",
-        "Groups always adopt the majority position without debate"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_016",
-      "question": "According to AFH 1, what does consensus mean in the context of decision-making outcomes?",
-      "options": [
-        "A unanimous vote by all team members",
-        "A commitment to, and shared understanding of, the desired outcome",
-        "Agreement achieved only after every member's preferred option is included",
-        "The majority opinion overriding all minority positions"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_017",
-      "question": "What does the normalized deviance theory describe?",
-      "options": [
-        "The process by which new technology replaces outdated systems",
-        "The gradual acceptance of unexpected events and risks as normal behavior, including acceptance of lower standards",
-        "A formal method for evaluating deviations from standard procedures",
-        "The deliberate introduction of variation to improve organizational resilience"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_018",
-      "question": "The Challenger space shuttle disaster is cited in AFH 1 as a classic case of what concept?",
-      "options": [
-        "Practical drift",
-        "Normal accident theory",
-        "Normalized deviance",
-        "Groupthink"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_019",
-      "question": "What is 'practical drift' as described in AFH 1?",
-      "options": [
-        "The intentional restructuring of organizational procedures by senior leadership",
-        "Sub-unit leaders establishing localized rules and procedures that, over time, cause organizational norms to drift from the overall intent",
-        "The planned transition from one operating procedure to another",
-        "A deliberate strategy for adapting to changes in the operating environment"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16B"
-    },
-    {
-      "id": "ch16_020",
-      "question": "What does the CRAAP test evaluate when assessing information sources?",
-      "options": [
-        "Cost, Reliability, Authenticity, Applicability, and Precision",
-        "Clarity, Relevance, Accuracy, Accessibility, and Perspective",
-        "Currency, Relevance, Authority, Accuracy, and Purpose",
-        "Credibility, Reach, Audience, Accountability, and Presentation"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16C"
-    },
-    {
-      "id": "ch16_021",
-      "question": "According to AFH 1, what are the two distinct components of creative problem solving?",
-      "options": [
-        "Strategic Thinking and Tactical Thinking",
-        "Divergent Thinking and Convergent Thinking",
-        "Analytical Thinking and Creative Thinking",
-        "Inductive Reasoning and Deductive Reasoning"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16C"
-    },
-    {
-      "id": "ch16_022",
-      "question": "What is the central principle of the Osborn-Parnes model for problem solving?",
-      "options": [
-        "Immediate evaluation of all ideas as they are generated",
-        "Reliance on expert opinion over group input",
-        "Deferred judgment, allowing ideas to flow freely before evaluating them",
-        "Limiting idea generation to only the most practical solutions"
-      ],
-      "answer": 2,
-      "reference": "AFH 1, Ch. 16, Sec. 16C"
-    },
-    {
-      "id": "ch16_023",
-      "question": "In the Vroom-Yetton-Jago Decision-Making Model, what does Level IV (Facilitate Consensus) involve?",
-      "options": [
-        "Leaders make the decision and announce it to the group",
-        "Leaders delegate the problem entirely to the group with no further involvement",
-        "Leaders gather input from selected individuals and then decide alone",
-        "Leaders present issues to the group and facilitate the decision-making process; if the group cannot reach consensus, the leader may make the decision"
-      ],
-      "answer": 3,
-      "reference": "AFH 1, Ch. 16, Sec. 16C"
-    },
-    {
-      "id": "ch16_024",
-      "question": "According to AFH 1, what is the relationship between delegation and empowerment?",
-      "options": [
-        "Delegation and empowerment are the same thing",
-        "Delegation is not empowerment, but effective empowerment does require good delegation",
-        "Empowerment eliminates the need for delegation entirely",
-        "Delegation is a higher form of empowerment used only by senior leaders"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16D"
-    },
-    {
-      "id": "ch16_025",
-      "question": "What does AFH 1 identify as the greatest challenge the USAF faces regarding the future?",
-      "options": [
-        "Recruiting sufficient numbers of new Airmen",
-        "Maintaining the ability to adapt and innovate quickly",
-        "Securing adequate funding for all existing programs",
-        "Establishing partnerships with foreign militaries"
-      ],
-      "answer": 1,
-      "reference": "AFH 1, Ch. 16, Sec. 16D"
-    }
-  ]
+	"chapter": "Chapter 16",
+	"title": "Developing Ideas",
+	"questions": [
+		{
+			"id": "ch16_001",
+			"question": "According to AFH 1, what is the Guardian and Airmen Innovation Network (GAIN) Program?",
+			"options": [
+				"A training program for new Airmen focused on technology skills",
+				"The DAF innovation program that solicits suggestions and ideas from Airmen to improve operations or programs",
+				"A mentoring network that pairs senior leaders with junior Airmen",
+				"A classified research and development initiative for advanced weapon systems"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16A"
+		},
+		{
+			"id": "ch16_002",
+			"question": "What does prospect theory help explain in the context of decision-making?",
+			"options": [
+				"Why groups always make better decisions than individuals",
+				"Our tendency to escalate commitment based on sunk costs instead of making rational evaluations",
+				"Why leaders prefer consensus over unilateral decisions",
+				"The advantage of using formal analysis exclusively without intuition"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_003",
+			"question": "According to AFH 1, what happens when organizations are faced with changes perceived as threats versus opportunities?",
+			"options": [
+				"Organizations react the same way regardless of how change is framed",
+				"Threats to comfortable frameworks are met with rigid resistance, while opportunities are met with flexibility and adaptability",
+				"Organizations always resist change initially before adapting",
+				"Threats produce faster adaptation than opportunities"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_004",
+			"question": "What is a key caution about using analogies in decision-making?",
+			"options": [
+				"Analogies should never be used because they always lead to incorrect conclusions",
+				"Analogies may lead us to focus on similarities between events and downplay important differences",
+				"Analogies are only useful in scientific decision-making contexts",
+				"Analogies eliminate the need for critical thinking in the decision process"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_005",
+			"question": "According to AFH 1, what is the proper relationship between intuition and formal analysis in decision-making?",
+			"options": [
+				"Intuition should always override formal analysis",
+				"Formal analysis should completely replace intuition",
+				"Formal analysis can check intuition, while intuition is useful in validating and testing assumptions that underlie analysis",
+				"Intuition and formal analysis should never be used together"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_006",
+			"question": "When establishing groups for decision-making, which of the following is recommended for achieving the 'wisdom of groups'?",
+			"options": [
+				"Include only members from the same discipline for focused expertise",
+				"Have members who are subordinate to one another to ensure accountability",
+				"Hold discussions in a centralized location with tight controls",
+				"Seek group members who are independent, meaning not subordinate to one another"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_007",
+			"question": "What is groupthink as defined in AFH 1?",
+			"options": [
+				"A structured approach to collaborative problem-solving",
+				"A decision trap where pressures within the team demand conformity at the expense of true critical thinking",
+				"A method for reaching consensus through democratic voting",
+				"A technique for encouraging dissenting viewpoints in group settings"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_008",
+			"question": "Which of the following is a common indicator of groupthink?",
+			"options": [
+				"Group members frequently disagree on key issues",
+				"The group seeks outside consultation before making decisions",
+				"There is a tendency to rationalize away disconfirming data and warning signs",
+				"The group takes extended time to deliberate on each decision"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_009",
+			"question": "What is one way to reduce groupthink according to AFH 1?",
+			"options": [
+				"Eliminate dissenting opinions to maintain group cohesion",
+				"Allow the senior-ranking member to make all final decisions",
+				"Define roles within decision-making teams and hold members accountable for representing their perspectives",
+				"Reduce the number of group members to the minimum possible"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_010",
+			"question": "According to AFH 1, what percentage of the time does the majority position on a jury's first ballot end up being the group's final decision?",
+			"options": [
+				"50%",
+				"65%",
+				"75%",
+				"85%"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_011",
+			"question": "What effect can even a single opposing view have on group decision-making?",
+			"options": [
+				"It typically causes the group to become dysfunctional",
+				"It can foster divergent thinking and encourage the group to consider a broader range of possible options",
+				"It always leads the group to adopt the dissenter's position",
+				"It slows the decision process to the point of analysis paralysis"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_012",
+			"question": "Professor Andrew J. DuBrin stated that a high-performance team demands what quality among its members?",
+			"options": [
+				"Strict adherence to hierarchy",
+				"Avoidance of all conflict",
+				"Sincere and tactful criticism",
+				"Unanimous agreement on all decisions"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_013",
+			"question": "In addressing conflict positively, what type of conflict is considered constructive in the decision-making process?",
+			"options": [
+				"Affective conflict focused on personal emotions",
+				"Cognitive conflict focused on issues and ideas",
+				"Hierarchical conflict between ranks",
+				"Interpersonal conflict between group members"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_014",
+			"question": "In a 'culture of no,' what behavior do dissenters typically exhibit?",
+			"options": [
+				"They silently endorse proposals without analysis",
+				"They delay decisions by requesting more information",
+				"They tear down or block proposals and ideas rather than critique them with intent to strengthen",
+				"They defer all decisions to the senior leader"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_015",
+			"question": "What characterizes the 'culture of maybe' in organizational decision-making?",
+			"options": [
+				"Dissenters stay silent and later undermine implementation",
+				"Leaders make quick unilateral decisions without analysis",
+				"Decision-makers constantly delay action because they think more information will clarify their choice, resulting in analysis paralysis",
+				"Groups always adopt the majority position without debate"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_016",
+			"question": "According to AFH 1, what does consensus mean in the context of decision-making outcomes?",
+			"options": [
+				"A unanimous vote by all team members",
+				"A commitment to, and shared understanding of, the desired outcome",
+				"Agreement achieved only after every member's preferred option is included",
+				"The majority opinion overriding all minority positions"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_017",
+			"question": "What does the normalized deviance theory describe?",
+			"options": [
+				"The process by which new technology replaces outdated systems",
+				"The gradual acceptance of unexpected events and risks as normal behavior, including acceptance of lower standards",
+				"A formal method for evaluating deviations from standard procedures",
+				"The deliberate introduction of variation to improve organizational resilience"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_018",
+			"question": "The Challenger space shuttle disaster is cited in AFH 1 as a classic case of what concept?",
+			"options": [
+				"Practical drift",
+				"Normal accident theory",
+				"Normalized deviance",
+				"Groupthink"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_019",
+			"question": "What is 'practical drift' as described in AFH 1?",
+			"options": [
+				"The intentional restructuring of organizational procedures by senior leadership",
+				"Sub-unit leaders establishing localized rules and procedures that, over time, cause organizational norms to drift from the overall intent",
+				"The planned transition from one operating procedure to another",
+				"A deliberate strategy for adapting to changes in the operating environment"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_020",
+			"question": "What does the CRAAP test evaluate when assessing information sources?",
+			"options": [
+				"Cost, Reliability, Authenticity, Applicability, and Precision",
+				"Clarity, Relevance, Accuracy, Accessibility, and Perspective",
+				"Currency, Relevance, Authority, Accuracy, and Purpose",
+				"Credibility, Reach, Audience, Accountability, and Presentation"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_021",
+			"question": "According to AFH 1, what are the two distinct components of creative problem solving?",
+			"options": [
+				"Strategic Thinking and Tactical Thinking",
+				"Divergent Thinking and Convergent Thinking",
+				"Analytical Thinking and Creative Thinking",
+				"Inductive Reasoning and Deductive Reasoning"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_022",
+			"question": "What is the central principle of the Osborn-Parnes model for problem solving?",
+			"options": [
+				"Immediate evaluation of all ideas as they are generated",
+				"Reliance on expert opinion over group input",
+				"Deferred judgment, allowing ideas to flow freely before evaluating them",
+				"Limiting idea generation to only the most practical solutions"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_023",
+			"question": "In the Vroom-Yetton-Jago Decision-Making Model, what does Level IV (Facilitate Consensus) involve?",
+			"options": [
+				"Leaders make the decision and announce it to the group",
+				"Leaders delegate the problem entirely to the group with no further involvement",
+				"Leaders gather input from selected individuals and then decide alone",
+				"Leaders present issues to the group and facilitate the decision-making process; if the group cannot reach consensus, the leader may make the decision"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_024",
+			"question": "According to AFH 1, what is the relationship between delegation and empowerment?",
+			"options": [
+				"Delegation and empowerment are the same thing",
+				"Delegation is not empowerment, but effective empowerment does require good delegation",
+				"Empowerment eliminates the need for delegation entirely",
+				"Delegation is a higher form of empowerment used only by senior leaders"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16D"
+		},
+		{
+			"id": "ch16_025",
+			"question": "What does AFH 1 identify as the greatest challenge the USAF faces regarding the future?",
+			"options": [
+				"Recruiting sufficient numbers of new Airmen",
+				"Maintaining the ability to adapt and innovate quickly",
+				"Securing adequate funding for all existing programs",
+				"Establishing partnerships with foreign militaries"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16D"
+		},
+		{
+			"id": "ch16_026",
+			"question": "According to AFH 1, what do groups tend to do when exposed to an opposing view during decision-making?",
+			"options": [
+				"Immediately reject the opposing view and solidify their position",
+				"Become paralyzed and unable to reach a decision",
+				"Defer the decision to the senior-ranking member",
+				"Make better decisions because members process information more carefully"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_027",
+			"question": "What is affective conflict in the context of group decision-making?",
+			"options": [
+				"Conflict focused on personal emotions and personalities that can undermine the team",
+				"Conflict focused on issues and ideas that benefits the decision process",
+				"Conflict between organizational subunits over resource allocation",
+				"Conflict arising from unclear roles and responsibilities"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_028",
+			"question": "In a 'culture of yes,' what problem can arise in organizational decision-making?",
+			"options": [
+				"Decisions are constantly delayed by excessive analysis",
+				"Dissenters openly block all proposed changes",
+				"Leaders refuse to accept input from subordinates",
+				"Dissent goes underground and dissenters may quietly work to undermine implementation"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_029",
+			"question": "According to AFH 1, what does the Currency element of the CRAAP test evaluate?",
+			"options": [
+				"Whether the source material costs money to access",
+				"The timeliness of the information and when it was published or last updated",
+				"Whether the information is currently being used by other organizations",
+				"The financial backing of the information source"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_030",
+			"question": "What is divergent thinking in the Osborn-Parnes model of creative problem solving?",
+			"options": [
+				"The process of evaluating and selecting the best option from alternatives",
+				"The process of disagreeing with group consensus to foster debate",
+				"The process of generating many ideas and options without immediate evaluation",
+				"The process of analyzing data to find root causes"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_031",
+			"question": "What is convergent thinking in the Osborn-Parnes model of creative problem solving?",
+			"options": [
+				"The process of generating many ideas without judgment",
+				"The process of bringing multiple teams together to brainstorm",
+				"The process of evaluating, selecting, strengthening, and refining the best options",
+				"The process of reaching unanimous agreement among all participants"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_032",
+			"question": "In the Vroom-Yetton-Jago Decision-Making Model, Level I (Decide) involves what?",
+			"options": [
+				"The leader making the decision alone using available information",
+				"Gathering input from multiple individuals before deciding",
+				"Presenting the issue to a group and facilitating consensus",
+				"Delegating the problem entirely to the group"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_033",
+			"question": "In the Vroom-Yetton-Jago Decision-Making Model, Level V (Delegate) involves what?",
+			"options": [
+				"The leader making the decision and announcing it",
+				"The leader delegating the problem to a group, providing relevant information and resources",
+				"The leader gathering input from individuals and deciding alone",
+				"The leader presenting issues to a group and facilitating the process"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_034",
+			"question": "According to AFH 1, effective empowerment requires what?",
+			"options": [
+				"Complete elimination of oversight and accountability",
+				"Allowing subordinates to make all decisions without guidance",
+				"Good delegation combined with giving people authority and resources to act",
+				"Removing the chain of command structure entirely"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16D"
+		},
+		{
+			"id": "ch16_035",
+			"question": "Which groupthink symptom is present when individuals are pressured when they present dissenting views?",
+			"options": [
+				"The group feeling invulnerable or egocentric",
+				"A tendency to rationalize away disconfirming data",
+				"Group members regressing in their ability to contribute",
+				"Pressure on individuals who present dissenting views"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_036",
+			"question": "According to AFH 1, what does the 'sunk cost' bias refer to in decision-making?",
+			"options": [
+				"The tendency to abandon projects when costs exceed initial estimates",
+				"The tendency to escalate commitment based on prior investment rather than making rational evaluations",
+				"The practice of accurately accounting for all project expenditures",
+				"The requirement to recover all funds spent on unsuccessful projects"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_037",
+			"question": "What is the relationship between the GAIN program and the Practical Problem-Solving Method?",
+			"options": [
+				"They are the same program with different names",
+				"GAIN replaces the Practical Problem-Solving Method entirely",
+				"The Practical Problem-Solving Method is used only within the GAIN program",
+				"GAIN solicits innovative ideas from Airmen, while the Practical Problem-Solving Method is a structured eight-step process for solving problems"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 16, Sec. 16A"
+		},
+		{
+			"id": "ch16_038",
+			"question": "According to AFH 1, what is the danger of normalized deviance over time?",
+			"options": [
+				"It leads to gradual acceptance of lower standards and increased risk until a catastrophic failure occurs",
+				"It increases organizational flexibility and adaptability",
+				"It strengthens the organization's safety culture",
+				"It improves decision-making by encouraging creative thinking"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		},
+		{
+			"id": "ch16_039",
+			"question": "In the Vroom-Yetton-Jago Decision-Making Model, Level II (Consult Individually) involves what?",
+			"options": [
+				"Making the decision alone using available information",
+				"Presenting the issue to the group and facilitating consensus",
+				"Presenting the problem to individuals, getting their input, and then making the decision alone",
+				"Delegating the problem entirely to a group"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 16, Sec. 16C"
+		},
+		{
+			"id": "ch16_040",
+			"question": "According to AFH 1, practical drift occurs when sub-unit leaders do what?",
+			"options": [
+				"Deliberately sabotage organizational processes",
+				"Establish localized rules and procedures that over time cause organizational norms to drift from the overall intent",
+				"Rapidly implement changes without approval from higher headquarters",
+				"Follow the established procedures exactly without any deviation"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 16, Sec. 16B"
+		}
+	]
 }
