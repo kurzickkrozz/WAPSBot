@@ -150,12 +150,12 @@
 			"id": "ch15_013",
 			"question": "What is the seventh and final step for effective communication as indicated in DAFH 33-337?",
 			"options": [
-				"Draft the final product",
-				"Edit for grammar and clarity",
-				"Organize and outline the message",
-				"Fight for feedback and get approval"
+				"Finalize and deliver",
+				"Edit the draft",
+				"Fight for feedback and get approval",
+				"Draft the message"
 			],
-			"answer": 3,
+			"answer": 0,
 			"reference": "AFH 1, Ch. 15, Sec. 15C"
 		},
 		{
@@ -179,7 +179,7 @@
 				"Point paper",
 				"Position paper"
 			],
-			"answer": 2,
+			"answer": 0,
 			"reference": "AFH 1, Ch. 15, Sec. 15D"
 		},
 		{
