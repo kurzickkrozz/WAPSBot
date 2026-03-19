@@ -133,6 +133,59 @@ export function buildQuiz(chapterFilter: string | null, count: number): Question
 	return shuffled.slice(0, Math.min(count, shuffled.length));
 }
 
+/**
+ * Builds a weighted WAPS practice test.
+ * High-yield chapters get 3x weight, update-driven chapters get 2x, standard get 1x.
+ * Questions are proportionally drawn from each chapter then shuffled together.
+ */
+export function buildWapsTest(count: number): Question[] | null {
+	const HIGH_YIELD: ReadonlySet<string> = new Set([
+		'Chapter 1', 'Chapter 9', 'Chapter 10', 'Chapter 12', 'Chapter 22'
+	]);
+	const UPDATE_DRIVEN: ReadonlySet<string> = new Set([
+		'Chapter 4', 'Chapter 11', 'Chapter 17', 'Chapter 19'
+	]);
+	const WAPS_CHAPTERS: ReadonlySet<string> = new Set([
+		'Chapter 1', 'Chapter 2', 'Chapter 3', 'Chapter 4', 'Chapter 6',
+		'Chapter 7', 'Chapter 8', 'Chapter 9', 'Chapter 10', 'Chapter 11',
+		'Chapter 12', 'Chapter 15', 'Chapter 17', 'Chapter 18', 'Chapter 19',
+		'Chapter 21', 'Chapter 22', 'Chapter 25'
+	]);
+
+	// Collect eligible chapters with their weights
+	const weighted: { chapter: Chapter; weight: number }[] = [];
+	let totalWeight = 0;
+
+	for (const ch of chapters.values()) {
+		if (!WAPS_CHAPTERS.has(ch.chapter)) continue;
+		const weight = HIGH_YIELD.has(ch.chapter) ? 3 : UPDATE_DRIVEN.has(ch.chapter) ? 2 : 1;
+		weighted.push({ chapter: ch, weight });
+		totalWeight += weight;
+	}
+
+	if (weighted.length === 0 || totalWeight === 0) return null;
+
+	// Proportionally allocate questions per chapter
+	const pool: Question[] = [];
+	let remaining = count;
+
+	for (let i = 0; i < weighted.length; i++) {
+		const { chapter, weight } = weighted[i];
+		const allocation = i === weighted.length - 1
+			? remaining
+			: Math.max(1, Math.round((weight / totalWeight) * count));
+
+		const chunkSize = Math.min(allocation, chapter.questions.length, remaining);
+		const shuffled = shuffle(chapter.questions);
+		pool.push(...shuffled.slice(0, chunkSize));
+		remaining -= chunkSize;
+
+		if (remaining <= 0) break;
+	}
+
+	return shuffle(pool);
+}
+
 export function getSession(userId: string): QuizSession | undefined {
 	return sessions.get(userId);
 }

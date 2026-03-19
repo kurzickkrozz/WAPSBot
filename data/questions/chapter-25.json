@@ -1,0 +1,486 @@
+{
+	"chapter": "Chapter 25",
+	"title": "Drills and Ceremonies",
+	"questions": [
+		{
+			"id": "ch25_001",
+			"question": "At the position of attention, where should the thumbs be placed?",
+			"options": [
+				"Along the trouser seams with thumbs pointing downward",
+				"Along the trouser seams with thumbs wrapped around the fingers",
+				"Curled along the trouser seams with fingertips touching the leg",
+				"Behind the back with thumbs interlocked"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_002",
+			"question": "When given the command 'Parade, REST,' where are the hands placed?",
+			"options": [
+				"At the sides along the trouser seams",
+				"Crossed in front of the chest",
+				"On the hips with fingers pointing downward",
+				"Behind the back, right hand inside the left, just below the waist"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_003",
+			"question": "What is the difference between 'At Ease' and 'Rest'?",
+			"options": [
+				"At Ease requires silence; Rest permits talking",
+				"At Ease allows talking; Rest does not",
+				"Both allow free movement and talking",
+				"There is no difference between the two commands"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_004",
+			"question": "Which foot remains stationary during the commands At Ease and Rest?",
+			"options": [
+				"The right foot",
+				"Either foot may remain stationary",
+				"Both feet must remain in place",
+				"The left foot"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_005",
+			"question": "How many counts are involved in executing 'Right Face'?",
+			"options": [
+				"One count",
+				"Two counts",
+				"Three counts",
+				"Four counts"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_006",
+			"question": "During 'About Face,' on which foot's heel and which foot's toe does the pivot occur?",
+			"options": [
+				"Left heel and left toe",
+				"Right heel and left toe",
+				"Left heel and right toe",
+				"Right heel and right toe"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_007",
+			"question": "What is the cadence for quick time marching?",
+			"options": [
+				"80 steps per minute",
+				"100 steps per minute",
+				"120 steps per minute",
+				"180 steps per minute"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_008",
+			"question": "What is the length of a step in quick time?",
+			"options": [
+				"24 inches",
+				"15 inches",
+				"30 inches",
+				"36 inches"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_009",
+			"question": "What is the cadence for double time marching?",
+			"options": [
+				"120 steps per minute",
+				"180 steps per minute",
+				"150 steps per minute",
+				"200 steps per minute"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_010",
+			"question": "During half step, what is the approximate step length?",
+			"options": [
+				"6 inches",
+				"18 inches",
+				"24 inches",
+				"12 inches"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_011",
+			"question": "On which foot is the command of execution 'MARCH' given when initiating mark time from quick time?",
+			"options": [
+				"Either foot",
+				"The right foot",
+				"The left foot",
+				"It does not matter which foot"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_012",
+			"question": "What are the two parts of a drill command?",
+			"options": [
+				"Directive command and action command",
+				"Warning command and movement command",
+				"Preparatory command and command of execution",
+				"Alert command and response command"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_013",
+			"question": "What is a 'supplementary command'?",
+			"options": [
+				"A command used only during ceremonies",
+				"A written directive issued before drill practice",
+				"A command given by the senior officer present",
+				"An oral command given by a subordinate leader that reinforces or relays the commander's command"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_014",
+			"question": "In a flight formation, what is the 'element'?",
+			"options": [
+				"The smallest drill unit comprised of at least 3 but normally 4 members in a column",
+				"The entire flight assembled together",
+				"A single file of personnel from front to rear",
+				"The space between two adjacent members"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_015",
+			"question": "What is the normal interval between members when in formation?",
+			"options": [
+				"One foot",
+				"One arm's length",
+				"Two arm's lengths",
+				"Shoulder to shoulder"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_016",
+			"question": "What is 'close interval'?",
+			"options": [
+				"Arm's length between members",
+				"Shoulder to shoulder with no space",
+				"Four inches between the shoulder and elbow of adjacent members",
+				"Double arm's length between members"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_017",
+			"question": "What is the approximate distance between ranks in a formation?",
+			"options": [
+				"40 inches",
+				"30 inches",
+				"24 inches",
+				"48 inches"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_018",
+			"question": "When rendering the hand salute, the upper arm should be at what angle relative to the ground?",
+			"options": [
+				"At a 30-degree angle",
+				"Parallel to the ground",
+				"At a 45-degree angle",
+				"Perpendicular to the ground"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_019",
+			"question": "When saluting, the tip of the right forefinger should touch where?",
+			"options": [
+				"The center of the forehead",
+				"The tip of the nose",
+				"The left eyebrow or the front left corner of the headgear",
+				"The right eyebrow or the front right corner of the headgear"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_020",
+			"question": "Who initiates the salute between two individuals of different rank?",
+			"options": [
+				"The senior-ranking individual",
+				"The junior-ranking individual",
+				"Either individual may initiate the salute",
+				"Only officers initiate salutes"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_021",
+			"question": "What command is used to dismiss a flight from formation?",
+			"options": [
+				"'Flight, BREAK RANKS'",
+				"'Flight, FALL OUT'",
+				"'DISMISSED'",
+				"'Flight, AT EASE'"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_022",
+			"question": "During a column movement, what command changes the direction of march 90 degrees to the right?",
+			"options": [
+				"'Column Right, MARCH'",
+				"'Right Step, MARCH'",
+				"'Right Flank, MARCH'",
+				"'Right Turn, MARCH'"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_023",
+			"question": "What is the difference between a column movement and a flanking movement?",
+			"options": [
+				"Column movements change direction 45 degrees; flanking movements change 90 degrees",
+				"Column movements are used only in ceremonies; flanking movements are for drill",
+				"There is no difference; the terms are interchangeable",
+				"In a column movement the lead element pivots and others follow; in a flanking movement all members pivot simultaneously"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_024",
+			"question": "On which foot does the command of execution 'MARCH' fall when executing 'Right Flank, MARCH'?",
+			"options": [
+				"The right foot",
+				"The left foot",
+				"Either foot",
+				"Both feet are together"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_025",
+			"question": "What command is given to align a flight in ranks with arm's-length interval?",
+			"options": [
+				"'COVER'",
+				"'Dress Right, DRESS'",
+				"'Ready, FRONT'",
+				"'ALIGN'"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_026",
+			"question": "After 'Dress Right, DRESS,' what command returns personnel to the position of attention?",
+			"options": [
+				"'ATTENTION'",
+				"'Order, ARMS'",
+				"'Ready, FRONT'",
+				"'As You Were'"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_027",
+			"question": "What is the command to open ranks for inspection?",
+			"options": [
+				"'Extend, RANKS'",
+				"'Inspection, RANKS'",
+				"'Spread, MARCH'",
+				"'Open Ranks, MARCH'"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_028",
+			"question": "During the retreat ceremony, what action is taken at the first note of 'To the Color' or the national anthem?",
+			"options": [
+				"All personnel outdoors face the flag (or music) and salute",
+				"Members begin marching in review",
+				"The flight commander gives the command 'Parade, REST'",
+				"All personnel stand at ease until the music ends"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25C"
+		},
+		{
+			"id": "ch25_029",
+			"question": "What bugle call signals the end of the official duty day and accompanies the lowering of the flag?",
+			"options": [
+				"Taps",
+				"Reveille",
+				"Retreat",
+				"Assembly"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25C"
+		},
+		{
+			"id": "ch25_030",
+			"question": "What bugle call is played at the beginning of the official duty day and accompanies the raising of the flag?",
+			"options": [
+				"Retreat",
+				"Assembly",
+				"First Call",
+				"Reveille"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25C"
+		},
+		{
+			"id": "ch25_031",
+			"question": "During a change of command ceremony, what object is passed to symbolize the transfer of authority?",
+			"options": [
+				"The unit sword",
+				"The organizational colors or guidon",
+				"A ceremonial baton",
+				"The command charter"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25C"
+		},
+		{
+			"id": "ch25_032",
+			"question": "How many rifle volleys are traditionally fired during a military funeral honors ceremony?",
+			"options": [
+				"One volley",
+				"Two volleys",
+				"Three volleys",
+				"Seven volleys"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25C"
+		},
+		{
+			"id": "ch25_033",
+			"question": "What bugle call is played at military funerals after the rifle volleys?",
+			"options": [
+				"Reveille",
+				"Retreat",
+				"Assembly",
+				"Taps"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25C"
+		},
+		{
+			"id": "ch25_034",
+			"question": "Who carries the guidon in a flight formation?",
+			"options": [
+				"The flight commander",
+				"The flight sergeant",
+				"The element leader of the first element",
+				"The guidon bearer, positioned to the left of and one step behind the flight commander"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_035",
+			"question": "When the flight is given 'Present, ARMS,' how does the guidon bearer render the salute?",
+			"options": [
+				"By executing a standard hand salute with the free hand",
+				"By lowering the guidon to a 45-degree angle from the vertical",
+				"By raising the guidon overhead",
+				"By passing the guidon to the nearest member and saluting"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_036",
+			"question": "What is the proper arm swing while marching at quick time?",
+			"options": [
+				"Arms swing 9 inches to the front and 6 inches to the rear of the trouser seam",
+				"Arms swing 6 inches to the front and 3 inches to the rear of the trouser seam",
+				"Arms swing 3 inches to the front and 3 inches to the rear",
+				"Arms remain at the sides without swinging"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_037",
+			"question": "What is the command to halt a flight that is marching at quick time?",
+			"options": [
+				"'Flight, STOP'",
+				"'Flight, STAND FAST'",
+				"'Mark Time, HALT'",
+				"'Flight, HALT'"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_038",
+			"question": "When marching, on which foot does the 'HALT' command of execution fall?",
+			"options": [
+				"Either foot",
+				"The right foot",
+				"The left foot",
+				"Both feet simultaneously"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 25, Sec. 25B"
+		},
+		{
+			"id": "ch25_039",
+			"question": "What command is given to assemble personnel into formation?",
+			"options": [
+				"'ATTENTION'",
+				"'Ready, FRONT'",
+				"'FALL IN'",
+				"'FORM RANKS'"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		},
+		{
+			"id": "ch25_040",
+			"question": "What does the command 'COVER' direct members in a formation to do?",
+			"options": [
+				"Take shelter from incoming fire",
+				"Align themselves directly behind the person in front of them at the proper distance",
+				"Place their headgear on",
+				"Close the interval between ranks to shoulder width"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 25, Sec. 25A"
+		}
+	]
+}

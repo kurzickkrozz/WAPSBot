@@ -2,6 +2,19 @@
 
 All notable changes to WAPSBot will be documented in this file.
 
+## [1.2.0] - 2026-03-18
+
+### Added
+- `/wapstest` command — weighted WAPS practice test (50 or 100 questions) with high-yield chapter emphasis
+- `/clearleaderboard` command — admin-only, clear all scores or remove a specific user
+- 9 new AFH-1 chapters: 2 (Air Force Organization), 3 (Airpower Operations), 4 (Air Force History), 6 (Joint Operations), 9 (Enlisted Force Structure), 10 (Leadership), 21 (Security), 23 (Cyber Operations), 25 (Drills and Ceremonies)
+- Question bank expanded to 1,000 questions across 25 chapters
+
+### Fixed
+- Corrected chapter titles and content for chapters 2, 3, 4, 6, 9, 10, 21 to match AFH-1
+- Fixed chapter 7 EJPME I grade levels (E-5/E-7 → E-5/E-6)
+- Fixed chapter 15 communication step 7 and talking paper answers
+
 ## [1.1.4] - 2026-03-10
 
 ### Added

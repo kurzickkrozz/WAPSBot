@@ -20,7 +20,8 @@ Built with [Sapphire Framework](https://www.sapphirejs.dev/) and [Discord.js](ht
 - **Timed mode** — Optional 60-second timer per question (default: untimed)
 - **Score tracking** — Persistent per-user stats with quiz history
 - **Leaderboard** — Guild-wide rankings by accuracy
-- **Question bank** — 640 questions across 16 AFH-1 chapters (2026 E-6 PFE)
+- **WAPS practice test** — Weighted 50 or 100-question mock exams with high-yield chapter emphasis
+- **Question bank** — 1,000 questions across 25 AFH-1 chapters
 
 ## Commands
 
@@ -28,9 +29,11 @@ Built with [Sapphire Framework](https://www.sapphirejs.dev/) and [Discord.js](ht
 |---------|-------------|
 | `/quiz start [chapter] [count] [timed]` | Start a DM quiz session |
 | `/quiz cancel` | Cancel your active quiz session |
+| `/wapstest [count] [timed]` | Start a weighted WAPS practice test (50 or 100 questions) |
 | `/chapters` | List available PFE chapters with question counts |
 | `/score` | View your personal stats and recent history |
 | `/leaderboard` | Top 10 users by accuracy (min 10 questions) |
+| `/clearleaderboard [user]` | Clear all scores or remove a specific user (admin only) |
 | `/about` | Bot version and information |
 
 ## Getting Started
@@ -113,9 +116,9 @@ Questions are stored as JSON files in `data/questions/`. Each file represents on
 - `reference` — Optional study reference shown on the review screen
 - `options` — Exactly 4 answer choices
 
-### Included Chapters (2026 E-6 PFE)
+### Included Chapters
 
-Chapters 1, 5, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24
+Chapters 1–22, 24, 25 (25 chapters total)
 
 ## Configuration
 
@@ -125,7 +128,7 @@ Bot versioning and metadata are configurable via environment variables:
 |----------|---------|-------------|
 | `DISCORD_TOKEN` | — | Discord bot token (required) |
 | `NODE_ENV` | `development` | Environment (`development` or `production`) |
-| `BOT_VERSION` | `1.1.4` | Displayed bot version |
+| `BOT_VERSION` | `1.2.0` | Displayed bot version |
 | `AFH1_VERSION` | `15 February 2025` | AFH-1 publication date |
 | `TEST_CYCLE` | `26E5 / 26E6` | Current WAPS test cycle |
 | `BOT_DEVELOPER` | `TunnelRat` | Developer name shown in `/about` |
@@ -138,9 +141,11 @@ WAPSBot/
 │   ├── index.ts                           # Sapphire client init + login
 │   ├── commands/                           # Slash commands
 │   │   ├── quiz.ts                        #   /quiz start, /quiz cancel
+│   │   ├── wapstest.ts                    #   /wapstest
 │   │   ├── chapters.ts                    #   /chapters
 │   │   ├── score.ts                       #   /score
 │   │   ├── leaderboard.ts                 #   /leaderboard
+│   │   ├── clearleaderboard.ts            #   /clearleaderboard
 │   │   └── about.ts                       #   /about
 │   ├── interaction-handlers/
 │   │   └── quiz-autocomplete.ts           # Chapter autocomplete

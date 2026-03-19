@@ -1,0 +1,486 @@
+{
+	"chapter": "Chapter 23",
+	"title": "Cyber Operations",
+	"questions": [
+		{
+			"id": "ch23_001",
+			"question": "What is the Department of Defense's definition of cyberspace?",
+			"options": [
+				"A global domain within the information environment consisting of the interdependent networks of information technology infrastructures and resident data",
+				"The collection of all military computer networks and systems used for command and control",
+				"Any electronic medium used to transmit classified information between government agencies",
+				"The physical infrastructure of servers, routers, and cables that support internet communications"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_002",
+			"question": "Which organization serves as the Air Force's primary component for cyberspace operations?",
+			"options": [
+				"Air Combat Command (ACC)",
+				"Air Force Space Command (AFSPC)",
+				"16th Air Force (Air Forces Cyber)",
+				"25th Air Force"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_003",
+			"question": "What are the three types of cyberspace operations recognized by the Department of Defense?",
+			"options": [
+				"Network attack, network defense, and network exploitation",
+				"Offensive cyberspace operations, defensive cyberspace operations, and DODIN operations",
+				"Cyber warfare, cyber intelligence, and cyber security",
+				"Strategic cyber operations, tactical cyber operations, and operational cyber operations"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_004",
+			"question": "What does DODIN stand for?",
+			"options": [
+				"Department of Defense Intelligence Network",
+				"Distributed Operations Data Integration Network",
+				"Department of Defense Information Network",
+				"Defense Operational Data Infrastructure Network"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_005",
+			"question": "What is the primary purpose of Offensive Cyberspace Operations (OCO)?",
+			"options": [
+				"To monitor friendly networks for unauthorized access",
+				"To maintain and configure Department of Defense networks",
+				"To train cyber operators in simulated environments",
+				"To project power by the application of force in or through cyberspace"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_006",
+			"question": "Defensive Cyberspace Operations (DCO) are conducted to:",
+			"options": [
+				"Defend the Department of Defense or other friendly cyberspace and protect data, networks, and systems",
+				"Launch preemptive strikes against known adversary cyber infrastructure",
+				"Develop new encryption algorithms for military communications",
+				"Recruit and train civilian cybersecurity professionals for government service"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_007",
+			"question": "Which of the following best describes DODIN operations?",
+			"options": [
+				"Offensive actions taken against adversary networks to degrade their capabilities",
+				"Operations to secure, configure, operate, extend, maintain, and sustain DOD cyberspace",
+				"Intelligence gathering operations conducted through cyber means",
+				"Joint operations combining cyber and kinetic effects against enemy targets"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_008",
+			"question": "What is Operations Security (OPSEC)?",
+			"options": [
+				"The encryption of all data stored on government systems",
+				"Physical security measures for military installations",
+				"A classified program for monitoring foreign communications",
+				"A process of identifying critical information and analyzing friendly actions to deny adversaries knowledge of operations"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_009",
+			"question": "What is the first step in the OPSEC process?",
+			"options": [
+				"Analyze threats",
+				"Identify critical information",
+				"Assess risk",
+				"Analyze vulnerabilities"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_010",
+			"question": "Communications Security (COMSEC) is designed to protect which of the following?",
+			"options": [
+				"Only voice communications over telephone lines",
+				"Physical documents marked as classified",
+				"Telecommunications and information systems from unauthorized access",
+				"Only email communications on government networks"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_011",
+			"question": "Which type of cyber threat actor is typically the most well-resourced and persistent?",
+			"options": [
+				"Hacktivists",
+				"Nation-state actors",
+				"Script kiddies",
+				"Insider threats"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_012",
+			"question": "What is phishing?",
+			"options": [
+				"A method of encrypting data to prevent unauthorized access",
+				"A hardware attack that intercepts network traffic at the router level",
+				"A technique used to probe network defenses for open ports",
+				"A social engineering attack that uses deceptive emails or messages to trick users into revealing sensitive information"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_013",
+			"question": "Spear phishing differs from general phishing in that it:",
+			"options": [
+				"Targets specific individuals or organizations with personalized messages",
+				"Uses phone calls instead of emails",
+				"Only targets government networks",
+				"Involves physical access to the target's computer"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_014",
+			"question": "What is the purpose of the Risk Management Framework (RMF) in cybersecurity?",
+			"options": [
+				"To replace all firewalls with advanced intrusion detection systems",
+				"To provide a structured process for integrating security and risk management into information systems",
+				"To eliminate all cyber threats from government networks",
+				"To train all military personnel as cybersecurity specialists"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_015",
+			"question": "Which of the following is an example of good cyber hygiene?",
+			"options": [
+				"Sharing passwords with trusted coworkers for convenience",
+				"Using the same password across all systems for ease of memory",
+				"Connecting personal devices to government networks to increase productivity",
+				"Using strong, unique passwords and enabling multi-factor authentication"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_016",
+			"question": "What is the primary role of U.S. Cyber Command (USCYBERCOM)?",
+			"options": [
+				"To direct, synchronize, and coordinate cyberspace planning and operations to defend and advance national interests",
+				"To develop commercial cybersecurity software for government agencies",
+				"To conduct only defensive operations on behalf of the intelligence community",
+				"To manage the procurement of information technology hardware for the DOD"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_017",
+			"question": "What is an Advanced Persistent Threat (APT)?",
+			"options": [
+				"A one-time malware infection that is quickly detected and removed",
+				"A type of firewall used to protect critical infrastructure",
+				"A prolonged and targeted cyberattack in which an adversary gains and maintains unauthorized access to a network",
+				"An automated software update that patches system vulnerabilities"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_018",
+			"question": "Which layer of cyberspace includes the physical network components such as cables, routers, and servers?",
+			"options": [
+				"Logical layer",
+				"Physical network layer",
+				"Cyber-persona layer",
+				"Application layer"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_019",
+			"question": "The cyber-persona layer of cyberspace consists of:",
+			"options": [
+				"Physical hardware devices connected to the network",
+				"Routing protocols and IP addressing schemes",
+				"The identities and accounts that represent people and entities in cyberspace",
+				"Encryption algorithms used to protect data in transit"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_020",
+			"question": "What does the logical network layer of cyberspace encompass?",
+			"options": [
+				"The elements of the network that are related to one another in ways that are abstracted from the physical network",
+				"Only the operating systems installed on network devices",
+				"The people who interact with cyberspace systems",
+				"Exclusively the wireless transmission frequencies used by military assets"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_021",
+			"question": "What is the purpose of an Intrusion Detection System (IDS)?",
+			"options": [
+				"To encrypt all outbound network traffic",
+				"To physically prevent unauthorized users from accessing terminals",
+				"To monitor network traffic for suspicious activity and alert administrators",
+				"To automatically launch counterattacks against intruders"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_022",
+			"question": "Which of the following best describes social engineering in the context of cybersecurity?",
+			"options": [
+				"Manipulating people into divulging confidential information or performing actions that compromise security",
+				"Designing user-friendly interfaces for government computer systems",
+				"Developing social media strategies for public affairs offices",
+				"Programming automated bots to interact with users on social media platforms"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_023",
+			"question": "What is the correct order of the OPSEC five-step process?",
+			"options": [
+				"Analyze threats, identify critical information, analyze vulnerabilities, assess risk, apply countermeasures",
+				"Assess risk, analyze threats, apply countermeasures, analyze vulnerabilities, identify critical information",
+				"Apply countermeasures, identify critical information, analyze threats, assess risk, analyze vulnerabilities",
+				"Identify critical information, analyze threats, analyze vulnerabilities, assess risk, apply countermeasures"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_024",
+			"question": "Critical Infrastructure Protection (CIP) in the cyber domain focuses on:",
+			"options": [
+				"Building physical barriers around data centers",
+				"Safeguarding systems and assets whose disruption would have a debilitating impact on security, the economy, or public health and safety",
+				"Classifying all government information at the top secret level",
+				"Replacing all legacy systems with new hardware every two years"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_025",
+			"question": "What is the primary goal of cyber incident response?",
+			"options": [
+				"To permanently shut down compromised networks",
+				"To publicly disclose all security breaches within 24 hours",
+				"To replace all hardware on the affected network",
+				"To quickly identify, contain, eradicate, and recover from cybersecurity incidents"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_026",
+			"question": "Authorized use of government information systems means that users must:",
+			"options": [
+				"Use government systems only for official or authorized purposes and comply with all applicable policies",
+				"Have unlimited personal use of government systems during non-duty hours",
+				"Share login credentials with supervisors for transparency",
+				"Install any software that improves personal productivity on government machines"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_027",
+			"question": "What is malware?",
+			"options": [
+				"Hardware components that have been physically damaged",
+				"Authorized security testing tools used by network administrators",
+				"Software intentionally designed to cause damage to a computer, server, or network",
+				"A type of network configuration used to isolate sensitive data"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_028",
+			"question": "Which of the following is a component of COMSEC?",
+			"options": [
+				"Operational planning for kinetic strikes",
+				"Cryptographic security, including the use of encryption to protect information",
+				"Physical fitness standards for communications personnel",
+				"Procurement of commercial cell phones for government use"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_029",
+			"question": "Transmission security, a component of COMSEC, protects communications from:",
+			"options": [
+				"Physical theft of communication devices",
+				"Budget shortfalls in communications programs",
+				"Interception and exploitation through measures other than cryptography",
+				"Software licensing violations"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_030",
+			"question": "Why is cyberspace considered a warfighting domain?",
+			"options": [
+				"Because it is used exclusively for intelligence collection",
+				"Because all military operations have some dependency on cyberspace, and adversaries can contest it",
+				"Because it replaces the need for air, land, and sea operations",
+				"Because only military personnel have access to cyberspace"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23A"
+		},
+		{
+			"id": "ch23_031",
+			"question": "What is a denial-of-service (DoS) attack?",
+			"options": [
+				"An attempt to make a machine or network resource unavailable to its intended users by overwhelming it with traffic",
+				"Denying physical access to a server room",
+				"A policy that restricts users from accessing certain websites",
+				"A method for employees to request service outages for maintenance"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_032",
+			"question": "What distinguishes Defensive Cyberspace Operations-Response Actions (DCO-RA) from other defensive measures?",
+			"options": [
+				"DCO-RA are purely administrative actions such as updating security policies",
+				"DCO-RA are limited to monitoring network traffic for anomalies",
+				"DCO-RA involve deliberate actions taken outside the defended network to defeat specific threats",
+				"DCO-RA focus exclusively on training personnel in cyber awareness"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_033",
+			"question": "Multi-factor authentication enhances security by:",
+			"options": [
+				"Allowing users to bypass password requirements",
+				"Requiring users to verify their identity using two or more independent factors",
+				"Automatically encrypting all files on a user's computer",
+				"Replacing passwords with biometric scans exclusively"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_034",
+			"question": "What is the function of a firewall in network defense?",
+			"options": [
+				"To provide wireless connectivity to all network users",
+				"To store backup copies of critical data",
+				"To manage user account creation and deletion",
+				"To monitor and control incoming and outgoing network traffic based on predetermined security rules"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_035",
+			"question": "Insider threats in cybersecurity refer to:",
+			"options": [
+				"Threats posed by individuals within the organization who have authorized access and may intentionally or unintentionally cause harm",
+				"External hackers who have breached the network perimeter",
+				"Automated malware that spreads without human interaction",
+				"Foreign intelligence agencies conducting espionage operations"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_036",
+			"question": "What is the significance of the Common Access Card (CAC) in DOD cybersecurity?",
+			"options": [
+				"It serves only as a physical identification badge",
+				"It provides encrypted storage for personal files",
+				"It serves as the standard identification and authentication token for accessing DOD networks and systems",
+				"It automatically updates software on government computers"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_037",
+			"question": "Cyber warfare integration with traditional military operations is important because:",
+			"options": [
+				"Cyber operations can only be conducted independently of other military actions",
+				"Cyber effects can enhance or be synchronized with kinetic operations across all domains",
+				"Traditional military operations are no longer relevant in modern warfare",
+				"Cyber capabilities eliminate the need for intelligence gathering"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 23, Sec. 23B"
+		},
+		{
+			"id": "ch23_038",
+			"question": "When a user suspects a cybersecurity incident on a government system, the correct first action is to:",
+			"options": [
+				"Attempt to resolve the issue personally before reporting it",
+				"Immediately disconnect the system from the internet and wipe the hard drive",
+				"Ignore the issue unless it directly affects mission operations",
+				"Report the incident to the appropriate cybersecurity authority and follow established incident response procedures"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_039",
+			"question": "What is the principle of least privilege in cybersecurity?",
+			"options": [
+				"Granting users only the minimum access necessary to perform their duties",
+				"Providing all users with administrator-level access for maximum efficiency",
+				"Restricting network access to only senior leadership",
+				"Allowing unrestricted access during duty hours and restricted access after hours"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		},
+		{
+			"id": "ch23_040",
+			"question": "Which of the following best describes the concept of defense in depth in cybersecurity?",
+			"options": [
+				"Relying on a single, highly advanced security tool to protect the entire network",
+				"Focusing all security resources on protecting the network perimeter",
+				"Employing multiple layers of security controls throughout an information system to provide redundancy",
+				"Delegating all cybersecurity responsibilities to a single office or individual"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 23, Sec. 23C"
+		}
+	]
+}

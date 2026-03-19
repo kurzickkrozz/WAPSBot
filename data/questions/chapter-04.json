@@ -1,0 +1,486 @@
+{
+	"chapter": "Chapter 4",
+	"title": "Air Force History",
+	"questions": [
+		{
+			"id": "ch4_001",
+			"question": "In what year did the U.S. Army establish the Aeronautical Division within the Office of the Chief Signal Officer, marking the military's first formal commitment to aviation?",
+			"options": [
+				"1903",
+				"1907",
+				"1911",
+				"1914"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_002",
+			"question": "Who made the first sustained, controlled, heavier-than-air powered flight at Kitty Hawk, North Carolina, on 17 December 1903?",
+			"options": [
+				"Orville and Wilbur Wright",
+				"Samuel Langley",
+				"Glenn Curtiss",
+				"Octave Chanute"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_003",
+			"question": "What was the primary role assigned to aircraft during the early years of World War I?",
+			"options": [
+				"Strategic bombing of enemy cities",
+				"Air superiority and dogfighting",
+				"Close air support of infantry",
+				"Aerial observation and reconnaissance"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_004",
+			"question": "Brigadier General Billy Mitchell is best known for his advocacy of what concept, which he demonstrated by sinking captured warships from the air in 1921?",
+			"options": [
+				"Tactical air support for ground forces",
+				"Integrating naval aviation with carrier operations",
+				"Independent airpower capable of striking strategic targets",
+				"Using aircraft exclusively for reconnaissance"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_005",
+			"question": "What happened to Brigadier General Billy Mitchell as a result of his outspoken criticism of senior military leaders regarding airpower?",
+			"options": [
+				"He was promoted to Major General",
+				"He was appointed Secretary of War",
+				"He was given command of an independent air corps",
+				"He was court-martialed in 1925"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_006",
+			"question": "The Air Corps Act of 1926 changed the name of the Air Service to what?",
+			"options": [
+				"Army Air Forces",
+				"Aeronautical Division",
+				"Air Corps",
+				"Army Air Service"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_007",
+			"question": "Which organization, created in June 1941, gave the air arm greater autonomy under the War Department and was commanded by General Henry 'Hap' Arnold?",
+			"options": [
+				"Army Air Forces",
+				"Air Corps",
+				"Air Service",
+				"Strategic Air Command"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_008",
+			"question": "General Henry 'Hap' Arnold is recognized as holding what distinction in the history of American airpower?",
+			"options": [
+				"First pilot to break the sound barrier",
+				"Architect of the Berlin Airlift",
+				"Commanding General of the Army Air Forces during WWII and the only five-star General of the Air Force",
+				"First military aviator to fly combat missions in WWI"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_009",
+			"question": "The Tuskegee Airmen were members of what Army Air Forces unit that distinguished itself in combat during World War II?",
+			"options": [
+				"8th Air Force",
+				"20th Air Force",
+				"4th Fighter Group",
+				"332nd Fighter Group"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_010",
+			"question": "What was the significance of the Tuskegee Airmen during World War II?",
+			"options": [
+				"They were the first African American military aviators in the U.S. armed forces and compiled an outstanding combat record",
+				"They pioneered the development of radar-guided bombing techniques",
+				"They were the first military unit to use jet aircraft in combat",
+				"They executed the first airborne paratrooper assault in the European Theater"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_011",
+			"question": "In April 1942, Lieutenant Colonel Jimmy Doolittle led a bombing raid on Tokyo using B-25 Mitchell bombers launched from what?",
+			"options": [
+				"A forward airfield on Iwo Jima",
+				"A base in the Aleutian Islands",
+				"The aircraft carrier USS Hornet",
+				"An airfield in Chungking, China"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_012",
+			"question": "What was the primary strategic purpose of the Doolittle Raid on Japan in April 1942?",
+			"options": [
+				"To destroy Japan's industrial capacity",
+				"To gain air superiority over the Pacific",
+				"To eliminate the Japanese Navy's carrier fleet",
+				"To boost American morale and demonstrate that Japan was vulnerable to air attack"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_013",
+			"question": "The Combined Bomber Offensive (CBO) during World War II involved what coordinated strategy?",
+			"options": [
+				"Combined U.S. Navy and Army Air Forces attacks on Japanese island fortifications",
+				"Joint Allied bombing of Italian rail networks",
+				"U.S. daylight precision bombing and British nighttime area bombing of German targets",
+				"American and Soviet coordinated attacks on the Eastern Front"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_014",
+			"question": "Which World War II air campaign targeted German aircraft factories, oil refineries, and transportation networks to cripple the enemy's war-making capability?",
+			"options": [
+				"Operation Torch",
+				"The Combined Bomber Offensive",
+				"Operation Market Garden",
+				"The Doolittle Raid"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_015",
+			"question": "General Curtis LeMay directed the strategic bombing campaign against Japan in the Pacific, transitioning from high-altitude daylight bombing to what tactic that proved far more effective?",
+			"options": [
+				"Dive-bombing attacks on naval vessels",
+				"High-altitude night precision raids",
+				"Carrier-based torpedo bombing runs",
+				"Low-altitude nighttime incendiary bombing"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_016",
+			"question": "The atomic bombs dropped on Hiroshima and Nagasaki in August 1945 were delivered by aircraft from which unit?",
+			"options": [
+				"8th Air Force",
+				"509th Composite Group",
+				"332nd Fighter Group",
+				"20th Bomber Command"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_017",
+			"question": "What legislation established the United States Air Force as an independent service, separate from the Army?",
+			"options": [
+				"Goldwater-Nichols Act of 1986",
+				"Air Corps Act of 1926",
+				"National Security Act of 1947",
+				"Defense Reorganization Act of 1958"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_018",
+			"question": "On what date did the United States Air Force officially become an independent branch of the armed forces?",
+			"options": [
+				"18 September 1947",
+				"11 November 1945",
+				"26 July 1947",
+				"1 October 1949"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_019",
+			"question": "Who served as the first Secretary of the Air Force following the establishment of the USAF as an independent service?",
+			"options": [
+				"General Carl Spaatz",
+				"Stuart Symington",
+				"General Hoyt Vandenberg",
+				"James Forrestal"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_020",
+			"question": "The Berlin Airlift (1948-1949) demonstrated the strategic value of airpower by accomplishing what?",
+			"options": [
+				"Destroying the Soviet blockade through aerial bombardment",
+				"Evacuating Allied forces from West Berlin before the blockade",
+				"Transporting ground combat troops to reinforce the Berlin garrison",
+				"Sustaining West Berlin's population by flying in food, fuel, and supplies over the Soviet blockade"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_021",
+			"question": "What Cold War organization was responsible for maintaining America's nuclear deterrent force and long-range bombing capability?",
+			"options": [
+				"Tactical Air Command",
+				"Air Defense Command",
+				"Military Airlift Command",
+				"Strategic Air Command"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_022",
+			"question": "During the Korean War, 'MiG Alley' referred to the airspace along the Yalu River where American pilots fought against what aircraft?",
+			"options": [
+				"Japanese Zero fighters",
+				"Soviet-built MiG-15 jet fighters",
+				"Chinese propeller-driven bombers",
+				"North Korean Il-28 bombers"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_023",
+			"question": "Which American fighter aircraft achieved a favorable kill ratio against the MiG-15 during the Korean War?",
+			"options": [
+				"F-86 Sabre",
+				"F-80 Shooting Star",
+				"P-51 Mustang",
+				"F-84 Thunderjet"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_024",
+			"question": "Operation Rolling Thunder (1965-1968) was a sustained bombing campaign during the Vietnam War aimed at what objective?",
+			"options": [
+				"Destroying all North Vietnamese airfields",
+				"Gaining air superiority over China's southern border",
+				"Coercing North Vietnam to stop supporting the insurgency in South Vietnam",
+				"Eliminating the Ho Chi Minh Trail through carpet bombing"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_025",
+			"question": "Why was Operation Rolling Thunder considered largely ineffective during the Vietnam War?",
+			"options": [
+				"The Air Force lacked sufficient aircraft to sustain the campaign",
+				"North Vietnam had superior air defenses that shot down most U.S. aircraft",
+				"The campaign was too short in duration to achieve results",
+				"Gradual escalation and political restrictions on targeting limited its strategic impact"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_026",
+			"question": "Operation Linebacker II, the 'Christmas Bombings' of December 1972, helped compel North Vietnam to return to peace negotiations. What type of aircraft played a central role in this operation?",
+			"options": [
+				"B-52 Stratofortress strategic bombers",
+				"F-4 Phantom II fighter-bombers",
+				"AC-130 Spectre gunships",
+				"A-1 Skyraider attack aircraft"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_027",
+			"question": "Which general led Strategic Air Command during the early Cold War period and built it into the dominant nuclear deterrent force?",
+			"options": [
+				"General Hoyt Vandenberg",
+				"General Curtis LeMay",
+				"General Nathan Twining",
+				"General Thomas Power"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_028",
+			"question": "During Operation Desert Storm in 1991, what stealth aircraft struck heavily defended targets in Baghdad on the opening night of the air campaign?",
+			"options": [
+				"B-2 Spirit",
+				"F-22 Raptor",
+				"B-1B Lancer",
+				"F-117 Nighthawk"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_029",
+			"question": "Operation Desert Storm demonstrated the effectiveness of precision-guided munitions (PGMs). What percentage of munitions used in the air campaign were PGMs?",
+			"options": [
+				"Approximately 25 percent",
+				"Approximately 50 percent",
+				"Approximately 9 percent",
+				"Approximately 75 percent"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_030",
+			"question": "What key lesson did Operation Desert Storm reinforce about the importance of airpower?",
+			"options": [
+				"Achieving air superiority early in a campaign enables dominance across all domains",
+				"Airpower could not operate effectively in desert environments",
+				"Ground forces alone could have liberated Kuwait without air support",
+				"Stealth technology was unreliable in combat conditions"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_031",
+			"question": "Operation Allied Force (1999) over Kosovo was significant because it demonstrated what about airpower?",
+			"options": [
+				"Airpower was ineffective without a ground invasion",
+				"An air campaign alone could coerce an adversary to capitulate without a ground offensive",
+				"Strategic bombing required nuclear weapons to be effective",
+				"Only carrier-based aviation was useful in European conflicts"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_032",
+			"question": "Following the terrorist attacks of September 11, 2001, the Air Force supported Operation Enduring Freedom in which country?",
+			"options": [
+				"Iraq",
+				"Afghanistan",
+				"Syria",
+				"Libya"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_033",
+			"question": "Operation Iraqi Freedom, launched in March 2003, featured what airpower concept that integrated simultaneous air and ground operations from the campaign's outset?",
+			"options": [
+				"Shock and awe",
+				"Air-land battle",
+				"Carpet bombing",
+				"Island hopping"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_034",
+			"question": "The Global War on Terrorism demonstrated the growing importance of which airpower capability for tracking and engaging insurgent and terrorist targets?",
+			"options": [
+				"Strategic nuclear deterrence",
+				"Manned interceptor aircraft",
+				"High-altitude carpet bombing",
+				"Intelligence, surveillance, and reconnaissance (ISR) using remotely piloted aircraft"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_035",
+			"question": "The 2018 National Defense Strategy marked a significant shift in U.S. defense priorities from counterterrorism to what?",
+			"options": [
+				"Humanitarian assistance and disaster relief",
+				"Great power competition, primarily with China and Russia",
+				"Expansion of nuclear weapons arsenals",
+				"Reducing the size of the active duty force"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_036",
+			"question": "The United States Space Force was established as an independent branch of the armed forces in what year?",
+			"options": [
+				"2017",
+				"2019",
+				"2018",
+				"2020"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_037",
+			"question": "Under what legislation was the United States Space Force established?",
+			"options": [
+				"National Security Act of 1947",
+				"Goldwater-Nichols Act of 1986",
+				"National Defense Authorization Act for Fiscal Year 2020",
+				"Space Policy Directive 4"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4C"
+		},
+		{
+			"id": "ch4_038",
+			"question": "Who was the first Chief of Staff of the newly independent United States Air Force in 1947?",
+			"options": [
+				"General Henry 'Hap' Arnold",
+				"General Jimmy Doolittle",
+				"General Carl 'Tooey' Spaatz",
+				"General Hoyt Vandenberg"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 4, Sec. 4B"
+		},
+		{
+			"id": "ch4_039",
+			"question": "What was the Aeronautical Division's first military aircraft, purchased from the Wright Brothers in 1909?",
+			"options": [
+				"Signal Corps Airplane No. 1 (Wright Military Flyer)",
+				"Curtiss Model D Pusher",
+				"Bleriot XI monoplane",
+				"Martin MB-1 bomber"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		},
+		{
+			"id": "ch4_040",
+			"question": "The Air Service was established as a combatant arm of the U.S. Army in 1918 and saw its first major combat operations during which conflict?",
+			"options": [
+				"Spanish-American War",
+				"World War I",
+				"The Mexican Expedition",
+				"World War II"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 4, Sec. 4A"
+		}
+	]
+}

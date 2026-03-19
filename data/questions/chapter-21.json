@@ -1,0 +1,486 @@
+{
+	"chapter": "Chapter 21",
+	"title": "Security",
+	"questions": [
+		{
+			"id": "ch21_001",
+			"question": "What are the three levels of classification for national security information?",
+			"options": [
+				"Confidential, Secret, and Top Secret",
+				"Sensitive, Secret, and Top Secret",
+				"Restricted, Confidential, and Secret",
+				"For Official Use Only, Secret, and Top Secret"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_002",
+			"question": "Which classification level is applied to information whose unauthorized disclosure could reasonably be expected to cause exceptionally grave damage to national security?",
+			"options": [
+				"Secret",
+				"Top Secret",
+				"Confidential",
+				"Sensitive Compartmented Information"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_003",
+			"question": "Which classification level is applied to information whose unauthorized disclosure could reasonably be expected to cause serious damage to national security?",
+			"options": [
+				"Confidential",
+				"Secret",
+				"Controlled Unclassified Information",
+				"Top Secret"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_004",
+			"question": "Which classification level is applied to information whose unauthorized disclosure could reasonably be expected to cause damage to national security?",
+			"options": [
+				"Secret",
+				"Top Secret",
+				"Confidential",
+				"For Official Use Only"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_005",
+			"question": "Who has the authority to make original classification decisions for national security information?",
+			"options": [
+				"Any government employee with a security clearance",
+				"Any military officer at the rank of O-4 or above",
+				"Only the Director of National Intelligence",
+				"Only individuals specifically designated in writing by the President, Vice President, or agency heads"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_006",
+			"question": "What is derivative classification?",
+			"options": [
+				"The initial determination that information requires protection against unauthorized disclosure",
+				"The incorporating, paraphrasing, restating, or generating in new form information that is already classified, and marking the newly developed material consistent with the classification markings of the source",
+				"The reclassification of information from a lower to a higher classification level",
+				"A process used to declassify information after a set period"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_007",
+			"question": "What document provides guidance for derivative classifiers on how to classify specific elements of information?",
+			"options": [
+				"A Security Classification Guide (SCG)",
+				"A Standard Operating Procedure (SOP)",
+				"A Concept of Operations (CONOPS)",
+				"An Operations Plan (OPLAN)"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_008",
+			"question": "How often must individuals who perform derivative classification receive training?",
+			"options": [
+				"Annually",
+				"Every 2 years",
+				"Every 5 years",
+				"Only once upon initial appointment"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_009",
+			"question": "Which marking is required on every classified document to indicate the overall classification level?",
+			"options": [
+				"A classification advisory on the last page only",
+				"A banner line at the top and bottom of each page showing the highest classification level of information on that page",
+				"A footer on each page with the originator's name",
+				"A watermark visible only under ultraviolet light"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_010",
+			"question": "What is the purpose of portion markings on a classified document?",
+			"options": [
+				"To identify the author of each section",
+				"To track the number of copies distributed",
+				"To mark the document for automatic declassification after 10 years",
+				"To indicate the classification level of each portion (paragraph, subject line, title, etc.) of the document"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_011",
+			"question": "What is the standard maximum duration for classification before information must be reviewed for declassification?",
+			"options": [
+				"5 years",
+				"25 years",
+				"15 years",
+				"10 years"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_012",
+			"question": "What is the minimum level of security container required for storing Top Secret information?",
+			"options": [
+				"A GSA-approved security container or an approved vault or secure room meeting specific standards",
+				"A locked desk drawer in a secured building",
+				"Any commercially available safe with a combination lock",
+				"A standard filing cabinet with a bar lock"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_013",
+			"question": "When classified material is not in use or under direct supervision, what must be done with it?",
+			"options": [
+				"It must be stored in a GSA-approved security container, vault, or secure room",
+				"It may be left on a desk if the office door is locked",
+				"It should be placed in a personal briefcase for safekeeping",
+				"It may be stored in any container that has a padlock"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_014",
+			"question": "What type of investigation is typically required for a Top Secret security clearance?",
+			"options": [
+				"National Agency Check with Inquiries (NACI)",
+				"Access National Agency Check and Inquiries (ANACI)",
+				"A Tier 5 investigation (formerly known as a Single Scope Background Investigation)",
+				"A basic criminal history check"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21B"
+		},
+		{
+			"id": "ch21_015",
+			"question": "Which of the following is NOT one of the adjudicative guidelines considered when determining security clearance eligibility?",
+			"options": [
+				"Allegiance to the United States",
+				"Financial considerations",
+				"Physical fitness test scores",
+				"Foreign influence"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21B"
+		},
+		{
+			"id": "ch21_016",
+			"question": "What is the Personnel Security program primarily designed to ensure?",
+			"options": [
+				"That only trustworthy individuals are granted access to classified information and sensitive positions",
+				"That all military members receive annual security training",
+				"That physical security measures are installed at all military facilities",
+				"That all employees receive a Top Secret clearance upon hiring"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21B"
+		},
+		{
+			"id": "ch21_017",
+			"question": "What is the Industrial Security program's primary purpose?",
+			"options": [
+				"To regulate the sale of military surplus equipment",
+				"To safeguard classified information released to or generated by contractors working on government contracts",
+				"To manage construction contracts on military installations",
+				"To inspect commercial manufacturing facilities for safety compliance"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21B"
+		},
+		{
+			"id": "ch21_018",
+			"question": "What is the first step of the Operations Security (OPSEC) five-step process?",
+			"options": [
+				"Analyze threats",
+				"Identify critical information",
+				"Apply countermeasures",
+				"Assess risk"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_019",
+			"question": "What is the correct order of the five steps of the OPSEC process?",
+			"options": [
+				"Analyze threats, identify critical information, assess risk, analyze vulnerabilities, apply countermeasures",
+				"Identify critical information, analyze threats, analyze vulnerabilities, assess risk, apply countermeasures",
+				"Apply countermeasures, assess risk, analyze threats, analyze vulnerabilities, identify critical information",
+				"Assess risk, identify critical information, analyze threats, apply countermeasures, analyze vulnerabilities"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_020",
+			"question": "In OPSEC, what is 'critical information'?",
+			"options": [
+				"Any information that has been classified at the Secret level or above",
+				"All operational orders issued by a commander",
+				"Only intelligence reports marked as time-sensitive",
+				"Information about friendly activities, intentions, capabilities, or limitations that an adversary needs to plan and act effectively against friendly mission accomplishment"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_021",
+			"question": "In the OPSEC process, what does the 'analyze vulnerabilities' step involve?",
+			"options": [
+				"Examining friendly actions and open-source information to identify what could reveal critical information to adversaries",
+				"Determining the cost of potential security upgrades",
+				"Counting the number of security incidents in the previous quarter",
+				"Reviewing all classified documents for proper marking"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_022",
+			"question": "What is Controlled Unclassified Information (CUI)?",
+			"options": [
+				"Information that has been declassified from Secret",
+				"A type of classification between Confidential and Unclassified",
+				"Government-created or -possessed information that requires safeguarding or dissemination controls pursuant to law, regulation, or government-wide policy, but is not classified",
+				"Information that is publicly available through Freedom of Information Act requests"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_023",
+			"question": "What type of security incident involves the loss, compromise, or suspected compromise of classified information?",
+			"options": [
+				"An administrative discrepancy",
+				"A physical security deviation",
+				"A personnel security concern",
+				"A security incident (formerly called a security violation or infraction)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_024",
+			"question": "When a security incident involving classified information is discovered, what is the first action that should be taken?",
+			"options": [
+				"Protect the classified material from further compromise and immediately report the incident to the security manager and commander",
+				"Wait until the next duty day to report it through the chain of command",
+				"Conduct a personal investigation to determine what happened before reporting",
+				"Send an email to the information owner describing the incident"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_025",
+			"question": "What is the primary goal of the DoD Insider Threat Program?",
+			"options": [
+				"To monitor all internet activity of government employees",
+				"To conduct annual polygraph examinations on all cleared personnel",
+				"To restrict social media use by military members",
+				"To deter, detect, and mitigate threats posed by individuals who have or had authorized access to DoD resources and use that access to harm national security"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21B"
+		},
+		{
+			"id": "ch21_026",
+			"question": "Which of the following behaviors might be a potential indicator of an insider threat?",
+			"options": [
+				"Taking authorized leave during holiday periods",
+				"Volunteering for extra duty assignments",
+				"Unexplained affluence, working unusual hours without authorization, or attempts to access information outside one's need to know",
+				"Attending professional military education courses"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21B"
+		},
+		{
+			"id": "ch21_027",
+			"question": "What is Continuous Evaluation (CE) in the context of personnel security?",
+			"options": [
+				"An ongoing vetting process that reviews relevant criminal, financial, and other data between periodic reinvestigations to assess continued eligibility for access",
+				"A one-time comprehensive background investigation conducted every 10 years",
+				"A monthly physical fitness evaluation for security forces personnel",
+				"A requirement for cleared personnel to take a polygraph examination every year"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21B"
+		},
+		{
+			"id": "ch21_028",
+			"question": "What is the purpose of cybersecurity awareness training for military members?",
+			"options": [
+				"To qualify members to work in cybersecurity career fields",
+				"To ensure personnel understand their responsibilities in protecting information systems and recognizing cyber threats such as phishing, malware, and social engineering",
+				"To teach members advanced network penetration testing techniques",
+				"To certify members as information system security managers"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_029",
+			"question": "Which of the following is a common social engineering technique used to compromise security?",
+			"options": [
+				"Encrypting all files on a shared drive",
+				"Conducting a vulnerability scan of the network",
+				"Implementing two-factor authentication",
+				"Phishing — sending deceptive emails designed to trick users into revealing sensitive information or clicking malicious links"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_030",
+			"question": "What should a user do if they suspect they have received a phishing email on a government network?",
+			"options": [
+				"Forward it to colleagues so they can verify if it is legitimate",
+				"Click the link to see where it leads before reporting",
+				"Delete it immediately without telling anyone",
+				"Report it to the Information Assurance Officer or help desk and do not click any links or open attachments"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_031",
+			"question": "What is the primary purpose of physical security measures on a military installation?",
+			"options": [
+				"To safeguard personnel, equipment, installations, and information from unauthorized access, espionage, sabotage, and other threats",
+				"To control vehicle traffic flow for convenience",
+				"To provide aesthetic improvements to the installation perimeter",
+				"To generate revenue through access badge fees"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_032",
+			"question": "What does Antiterrorism (AT) awareness include?",
+			"options": [
+				"Only the identification of explosive devices",
+				"Exclusively the training of security forces to conduct counterterrorism raids",
+				"Only the management of bomb threat evacuation procedures",
+				"Understanding threat levels, personal protective measures, and recognizing indicators of potential terrorist activity"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_033",
+			"question": "What is Force Protection Condition (FPCON) designed to communicate?",
+			"options": [
+				"The physical fitness standards required for deployment",
+				"The weather conditions affecting military operations",
+				"A progressive level of protective measures to be taken when a terrorist threat is assessed against military personnel and facilities",
+				"The budget allocation for security improvements at an installation"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_034",
+			"question": "What are the Force Protection Condition (FPCON) levels, from lowest to highest threat?",
+			"options": [
+				"Low, Moderate, High, Critical",
+				"Green, Yellow, Orange, Red",
+				"Normal, Alpha, Bravo, Charlie, Delta",
+				"Level 1, Level 2, Level 3, Level 4, Level 5"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_035",
+			"question": "What FPCON level applies when a general global threat of possible terrorist activity exists and warrants a routine security posture?",
+			"options": [
+				"FPCON Alpha",
+				"FPCON Bravo",
+				"FPCON Delta",
+				"FPCON Normal"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_036",
+			"question": "What does FPCON Delta indicate?",
+			"options": [
+				"A general threat of possible terrorist activity",
+				"An increased and more predictable threat of terrorist activity",
+				"A terrorist attack has occurred or intelligence indicates imminent terrorist action against a specific location or personnel",
+				"A slightly elevated general threat of terrorist activity"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		},
+		{
+			"id": "ch21_037",
+			"question": "What is the 'need to know' principle in information security?",
+			"options": [
+				"A determination by the holder of classified information that a prospective recipient requires access to specific classified information to perform official duties",
+				"A requirement that all classified information be shared with every cleared person in an organization",
+				"A policy requiring supervisors to know the details of every project in their organization",
+				"A rule that classified information must be shared with allied foreign governments upon request"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_038",
+			"question": "What two conditions must be met before a person may access classified information?",
+			"options": [
+				"They must be a U.S. citizen and an officer",
+				"They must be on active duty and hold a Top Secret clearance",
+				"They must hold the appropriate security clearance level and have a valid need to know",
+				"They must be assigned to an intelligence unit and have completed SERE training"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_039",
+			"question": "What is the Information Protection program responsible for?",
+			"options": [
+				"Only the protection of classified national security information",
+				"Managing personnel fitness evaluations",
+				"The integrated safeguarding of classified information, CUI, and other protected information across all security disciplines",
+				"Exclusively monitoring cybersecurity threats to Air Force networks"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 21, Sec. 21A"
+		},
+		{
+			"id": "ch21_040",
+			"question": "In the OPSEC process, what does the 'apply countermeasures' step involve?",
+			"options": [
+				"Identifying the critical information that needs protection",
+				"Determining which adversary nations are the greatest threat",
+				"Briefing the commander on historical security incidents",
+				"Implementing measures to eliminate vulnerabilities, minimize risks, or deny adversaries the ability to exploit critical information"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 21, Sec. 21C"
+		}
+	]
+}

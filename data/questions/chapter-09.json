@@ -1,0 +1,486 @@
+{
+	"chapter": "Chapter 9",
+	"title": "Enlisted Force Structure",
+	"questions": [
+		{
+			"id": "ch9_001",
+			"question": "What are the three tiers of the enlisted force structure?",
+			"options": [
+				"Junior Enlisted, NCO, and SNCO",
+				"Apprentice, Journeyman, and Craftsman",
+				"Airman, Sergeant, and Chief",
+				"Entry, Mid-Level, and Senior"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_002",
+			"question": "Which ranks comprise the Junior Enlisted tier?",
+			"options": [
+				"Airman Basic through Staff Sergeant",
+				"Airman Basic through Senior Airman (E-1 through E-4)",
+				"Airman through Technical Sergeant",
+				"Airman First Class through Staff Sergeant"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_003",
+			"question": "Which ranks make up the Noncommissioned Officer (NCO) tier?",
+			"options": [
+				"Senior Airman and Staff Sergeant",
+				"Staff Sergeant through Master Sergeant",
+				"Staff Sergeant and Technical Sergeant (E-5 and E-6)",
+				"Technical Sergeant and Master Sergeant"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_004",
+			"question": "Which ranks make up the Senior Noncommissioned Officer (SNCO) tier?",
+			"options": [
+				"Technical Sergeant through Chief Master Sergeant",
+				"Staff Sergeant through Senior Master Sergeant",
+				"Senior Master Sergeant and Chief Master Sergeant only",
+				"Master Sergeant, Senior Master Sergeant, and Chief Master Sergeant (E-7 through E-9)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_005",
+			"question": "What is the primary focus of an Airman Basic (AB)?",
+			"options": [
+				"Adapting to the military environment, learning Air Force standards, and beginning initial skills training",
+				"Leading work center teams and managing resources",
+				"Mentoring junior Airmen and conducting OJT",
+				"Managing programs and advising senior leadership"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_006",
+			"question": "At what rank does an enlisted member first earn the title of Noncommissioned Officer?",
+			"options": [
+				"Senior Airman (E-4)",
+				"Technical Sergeant (E-6)",
+				"Airman First Class (E-3)",
+				"Staff Sergeant (E-5)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_007",
+			"question": "What skill level is associated with a 3-level Apprentice?",
+			"options": [
+				"Awarded upon completion of technical school initial skills training",
+				"Awarded after completing 5-level upgrade training on the job",
+				"Awarded upon promotion to Technical Sergeant",
+				"Awarded after completing the NCO Academy"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_008",
+			"question": "What is the 5-skill level designation, and when is it typically awarded?",
+			"options": [
+				"Journeyman; awarded after completing upgrade training requirements, typically at the Senior Airman or Staff Sergeant level",
+				"Superintendent; awarded upon promotion to Senior Master Sergeant",
+				"Craftsman; awarded upon promotion to Staff Sergeant",
+				"Apprentice; awarded upon arrival at the first duty station"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_009",
+			"question": "The 7-skill level (Craftsman) is typically associated with which rank?",
+			"options": [
+				"Senior Airman (E-4)",
+				"Technical Sergeant (E-6)",
+				"Master Sergeant (E-7)",
+				"Staff Sergeant or Technical Sergeant (E-5/E-6)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_010",
+			"question": "What is the 9-skill level (Superintendent) designation, and at what rank is it awarded?",
+			"options": [
+				"It is the highest enlisted skill level, awarded to Senior Master Sergeants and Chief Master Sergeants",
+				"It is an intermediate skill level awarded to Technical Sergeants",
+				"It is the entry-level skill designation for all new Airmen",
+				"It is a special skill level only for First Sergeants"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_011",
+			"question": "What is the primary role of a Technical Sergeant (TSgt) within the enlisted force structure?",
+			"options": [
+				"Operational leader who manages programs and leads people",
+				"Technical expert who continues to develop subordinates while mastering their career field",
+				"Entry-level supervisor with limited responsibilities",
+				"Senior advisor to wing and group commanders"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_012",
+			"question": "How does the Master Sergeant (MSgt) role differ from the Technical Sergeant role?",
+			"options": [
+				"MSgts focus primarily on hands-on technical work rather than leadership",
+				"MSgts and TSgts have identical responsibilities within the force structure",
+				"MSgts transition from technical expert to operational leader, focusing on managing programs, leading people, and translating senior leader vision",
+				"MSgts have no supervisory responsibilities and serve purely as advisors"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_013",
+			"question": "What Professional Military Education (PME) must be completed before a Staff Sergeant can be promoted to Technical Sergeant?",
+			"options": [
+				"NCO Academy (NCOA)",
+				"Senior NCO Academy (SNCOA)",
+				"Airman Leadership School (ALS)",
+				"Chief Leadership Course (CLC)"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_014",
+			"question": "Airman Leadership School (ALS) is a PME requirement for which promotion?",
+			"options": [
+				"Airman First Class to Senior Airman",
+				"Staff Sergeant to Technical Sergeant",
+				"Technical Sergeant to Master Sergeant",
+				"Senior Airman to Staff Sergeant"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_015",
+			"question": "The Senior NCO Academy (SNCOA) is a PME requirement for which promotion?",
+			"options": [
+				"Staff Sergeant to Technical Sergeant",
+				"Master Sergeant to Senior Master Sergeant",
+				"Senior Airman to Staff Sergeant",
+				"Technical Sergeant to Master Sergeant"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_016",
+			"question": "What is the primary duty of a First Sergeant?",
+			"options": [
+				"Managing the unit's operational mission execution",
+				"Serving as the commander's principal advisor on the health, morale, welfare, and discipline of enlisted members",
+				"Conducting aircraft maintenance quality assurance inspections",
+				"Leading tactical combat operations at the squadron level"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9C"
+		},
+		{
+			"id": "ch9_017",
+			"question": "What distinguishes the First Sergeant position from other SNCO positions?",
+			"options": [
+				"First Sergeants hold a special duty identifier and wear a diamond insignia on their rank",
+				"First Sergeants outrank all other SNCOs regardless of pay grade",
+				"First Sergeants serve only in combat units",
+				"First Sergeants are selected by enlisted members through a vote"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9C"
+		},
+		{
+			"id": "ch9_018",
+			"question": "What is the role of a Command Chief Master Sergeant (CCM)?",
+			"options": [
+				"Managing day-to-day work center operations",
+				"Conducting technical training for junior Airmen",
+				"Serving as the senior enlisted advisor to a wing, NAF, MAJCOM, or equivalent commander on all matters affecting the enlisted force",
+				"Serving as the primary legal advisor to the commander"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9C"
+		},
+		{
+			"id": "ch9_019",
+			"question": "What is the role of the Chief Master Sergeant of the Air Force (CMSAF)?",
+			"options": [
+				"Commanding all enlisted personnel across the Air Force",
+				"Managing the Air Force's acquisition programs",
+				"Overseeing all officer promotions and assignments",
+				"Serving as the personal advisor to the Secretary of the Air Force and Chief of Staff on all issues regarding the welfare, readiness, morale, and proper utilization of the enlisted force"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9C"
+		},
+		{
+			"id": "ch9_020",
+			"question": "What is the primary responsibility of a Senior Airman (SrA)?",
+			"options": [
+				"Managing wing-level programs and advising senior leadership",
+				"Supervising large work sections and conducting EPRs",
+				"Serving as the commander's principal enlisted advisor",
+				"Completing upgrade training, becoming a skilled technician, and beginning to prepare for supervisory responsibilities"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_021",
+			"question": "At what point do NCOs begin to balance their technical expertise with supervisory and leadership responsibilities?",
+			"options": [
+				"Upon reaching the rank of Master Sergeant",
+				"Immediately upon enlisting",
+				"Upon promotion to Staff Sergeant (E-5), when they become first-line supervisors",
+				"Only after attending the Senior NCO Academy"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_022",
+			"question": "What mentoring responsibility do Staff Sergeants have within the enlisted force structure?",
+			"options": [
+				"They mentor only officers and warrant officers",
+				"They have no formal mentoring responsibilities",
+				"They mentor and develop Airmen by providing OJT, career guidance, and ensuring standards are met",
+				"They mentor only Senior Master Sergeants and above"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_023",
+			"question": "How does the Senior Master Sergeant (SMSgt) role differ from the Master Sergeant role?",
+			"options": [
+				"SMSgts focus primarily on hands-on technical work",
+				"SMSgts serve as senior functional managers and leaders, operating at a broader organizational level, often managing multiple work centers or functions",
+				"SMSgts have no leadership responsibilities and serve purely in advisory roles",
+				"SMSgts and MSgts have identical duties and responsibilities"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_024",
+			"question": "What is the highest enlisted rank in the Air Force?",
+			"options": [
+				"Senior Master Sergeant (E-8)",
+				"Command Chief Master Sergeant",
+				"First Sergeant",
+				"Chief Master Sergeant (E-9)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_025",
+			"question": "What is the Chief Master Sergeant's primary responsibility within the force structure?",
+			"options": [
+				"Performing hands-on technical work in their career field",
+				"Providing senior enlisted leadership, mentoring SNCOs and NCOs, and advising commanders on mission effectiveness and enlisted force management",
+				"Managing only administrative tasks for the squadron",
+				"Serving exclusively as a protocol officer for visiting dignitaries"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_026",
+			"question": "In the Space Force enlisted structure, what term replaced traditional Air Force enlisted rank titles for junior enlisted?",
+			"options": [
+				"Guardian Basic, Guardian, and Guardian First Class",
+				"Specialist 1, Specialist 2, Specialist 3, and Specialist 4",
+				"Space Cadet, Space Airman, and Space Senior Airman",
+				"Trainee, Apprentice, and Journeyman"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_027",
+			"question": "What upgrade training requirement must typically be completed to earn the 7-skill level (Craftsman)?",
+			"options": [
+				"Completing only a CDC end-of-course exam",
+				"Passing a physical fitness assessment",
+				"Completing 7-level upgrade training tasks, attending applicable PME, and demonstrating proficiency as certified by the supervisor and commander",
+				"Serving a minimum of 20 years in the career field"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_028",
+			"question": "What is the significance of on-the-job training (OJT) in the enlisted force development process?",
+			"options": [
+				"OJT is optional and only required for certain career fields",
+				"OJT is the primary method for developing job proficiency and is required for skill level upgrade across all career fields",
+				"OJT is only conducted during basic military training",
+				"OJT is only applicable to officers transitioning to enlisted roles"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_029",
+			"question": "What is the primary expectation of Airmen (Amn, E-2) and Airmen First Class (A1C, E-3)?",
+			"options": [
+				"Developing their technical skills, meeting Air Force standards, and adapting to the military way of life",
+				"Supervising and evaluating subordinates",
+				"Managing squadron-level programs",
+				"Advising wing commanders on enlisted force matters"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_030",
+			"question": "Why is the transition from Technical Sergeant to Master Sergeant considered a critical shift in the enlisted force structure?",
+			"options": [
+				"It marks the shift from the NCO tier to the SNCO tier, requiring a fundamental change from technical expert to operational leader",
+				"It requires a change in uniform from enlisted to officer attire",
+				"It is the first time the member is eligible for retirement",
+				"It eliminates all technical responsibilities entirely"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_031",
+			"question": "Which of the following best describes the Staff Sergeant's role as a first-line supervisor?",
+			"options": [
+				"SSgts focus solely on their own career progression with no supervisory duties",
+				"SSgts primarily advise senior leadership on policy matters",
+				"SSgts are responsible for their subordinates' training, welfare, development, and mission accomplishment at the work center level",
+				"SSgts only supervise civilian contractors, not military members"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_032",
+			"question": "What is the relationship between Career Development Courses (CDCs) and enlisted upgrade training?",
+			"options": [
+				"CDCs are only required for officers seeking command positions",
+				"CDCs replace all forms of hands-on OJT entirely",
+				"CDCs are optional self-study courses with no impact on skill level upgrades",
+				"CDCs supplement OJT and are a mandatory component of upgrade training for most career fields, testing knowledge required for the next skill level"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_033",
+			"question": "In the context of enlisted force structure, what does 'span of control' mean for an NCO?",
+			"options": [
+				"The physical area of the installation an NCO patrols",
+				"The number of subordinates and scope of responsibilities an NCO directly supervises and manages",
+				"The number of TDY trips an NCO takes per year",
+				"The NCO's authority to issue Article 15 punishments"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_034",
+			"question": "What mentoring responsibilities do SNCOs hold compared to NCOs?",
+			"options": [
+				"SNCOs have no mentoring responsibilities since they are beyond the supervisory level",
+				"SNCOs mentor only civilian employees within their organizations",
+				"SNCOs mentor NCOs, shape future leaders, develop organizational strategies, and ensure the professional growth of enlisted members across multiple levels",
+				"SNCOs mentor only other SNCOs of equal or higher rank"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_035",
+			"question": "Which of the following is a key responsibility unique to Chief Master Sergeants that distinguishes them from other SNCOs?",
+			"options": [
+				"Performing direct hands-on maintenance of equipment",
+				"Serving as the senior enlisted leaders who shape policies, provide strategic vision, and advocate for the enlisted force at the highest organizational levels",
+				"Completing 3-level upgrade training requirements",
+				"Conducting initial skills training for technical school students"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9A"
+		},
+		{
+			"id": "ch9_036",
+			"question": "How does the First Sergeant support the commander in maintaining unit discipline?",
+			"options": [
+				"By serving as the unit's judge advocate and issuing legal rulings",
+				"By monitoring and addressing issues related to standards, conduct, and readiness, and recommending appropriate corrective actions to the commander",
+				"By personally administering all non-judicial punishment without commander involvement",
+				"By transferring problem Airmen to other units without documentation"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 9, Sec. 9C"
+		},
+		{
+			"id": "ch9_037",
+			"question": "What is the NCO Academy (NCOA) designed to develop in its attendees?",
+			"options": [
+				"Basic military entry-level knowledge for new recruits",
+				"Advanced technical skills specific to each career field AFSC",
+				"Leadership, communication, and management skills needed for mid-level NCOs transitioning to greater supervisory responsibilities",
+				"Strategic-level policy development skills for general officers"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_038",
+			"question": "In the Space Force enlisted structure, what is the equivalent of the Air Force's Chief Master Sergeant of the Air Force?",
+			"options": [
+				"Chief Master Sergeant of the Space Force (CMSSF)",
+				"Space Force Senior Enlisted Advisor",
+				"Guardian Chief of Staff",
+				"Senior Specialist of the Space Force"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9C"
+		},
+		{
+			"id": "ch9_039",
+			"question": "What is the Senior NCO Academy (SNCOA) intended to prepare its graduates for?",
+			"options": [
+				"Initial entry into the Air Force as a basic trainee",
+				"First-line supervisory roles at the Staff Sergeant level",
+				"Senior leadership positions requiring strategic thinking, organizational leadership, and the ability to manage complex operations across the SNCO tier",
+				"Transitioning from enlisted to commissioned officer status"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 9, Sec. 9B"
+		},
+		{
+			"id": "ch9_040",
+			"question": "Why is the Command Chief Master Sergeant position considered a special duty rather than a rank?",
+			"options": [
+				"Because CCMs are selected from the Chief Master Sergeant ranks to serve in a specific advisory capacity and return to their previous role after the assignment ends",
+				"Because CCMs receive additional pay that elevates them above E-9",
+				"Because CCMs are appointed by Congress and serve indefinitely",
+				"Because CCMs hold authority over all officers below the rank of Colonel"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 9, Sec. 9C"
+		}
+	]
+}

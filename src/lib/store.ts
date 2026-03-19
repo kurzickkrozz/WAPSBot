@@ -79,6 +79,19 @@ export async function saveResult(
 	await flush();
 }
 
+export async function clearScores(): Promise<void> {
+	cache = {};
+	await flush();
+}
+
+export async function removeUserScore(userId: string): Promise<boolean> {
+	const store = await load();
+	if (!(userId in store)) return false;
+	delete store[userId];
+	await flush();
+	return true;
+}
+
 export async function getLeaderboard(limit: number): Promise<UserScore[]> {
 	const store = await load();
 	return Object.values(store)

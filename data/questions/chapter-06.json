@@ -1,0 +1,486 @@
+{
+	"chapter": "Chapter 6",
+	"title": "Joint Operations",
+	"questions": [
+		{
+			"id": "ch6_001",
+			"question": "What document establishes the missions, responsibilities, and geographic areas of responsibility for combatant commands?",
+			"options": [
+				"The National Security Strategy",
+				"The Unified Command Plan (UCP)",
+				"The National Defense Authorization Act",
+				"The Joint Strategic Capabilities Plan"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_002",
+			"question": "Who has the authority to establish combatant commands and assign forces to those commands?",
+			"options": [
+				"The President of the United States",
+				"The Secretary of Defense",
+				"The Chairman of the Joint Chiefs of Staff",
+				"The National Security Council"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_003",
+			"question": "Which of the following is a geographic combatant command?",
+			"options": [
+				"U.S. Special Operations Command",
+				"U.S. Transportation Command",
+				"U.S. Strategic Command",
+				"U.S. Indo-Pacific Command"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_004",
+			"question": "Which of the following is a functional combatant command?",
+			"options": [
+				"U.S. European Command",
+				"U.S. Central Command",
+				"U.S. Cyber Command",
+				"U.S. Africa Command"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_005",
+			"question": "What is the primary role of the Chairman of the Joint Chiefs of Staff (CJCS)?",
+			"options": [
+				"To serve as the principal military advisor to the President, Secretary of Defense, and National Security Council",
+				"To approve the defense budget for all military services",
+				"To command all U.S. military forces in combat operations",
+				"To appoint combatant commanders and approve their operational plans"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_006",
+			"question": "The Joint Chiefs of Staff (JCS) consist of which members?",
+			"options": [
+				"The Secretary of Defense, CJCS, and all four-star generals",
+				"The combatant commanders and their deputies",
+				"The CJCS, Vice CJCS, and the Service Chiefs of the Army, Navy, Air Force, Marine Corps, and Space Force",
+				"The CJCS and the commanders of all geographic combatant commands"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_007",
+			"question": "Does the Chairman of the Joint Chiefs of Staff exercise military command over any combatant command or armed force?",
+			"options": [
+				"Yes, the CJCS commands all joint forces during wartime",
+				"Yes, but only during contingency operations",
+				"Yes, the CJCS commands functional combatant commands only",
+				"No, the CJCS serves in an advisory capacity and does not exercise command authority"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_008",
+			"question": "What type of command authority does a combatant commander exercise over assigned forces?",
+			"options": [
+				"Administrative control (ADCON)",
+				"Tactical control (TACON)",
+				"Combatant command (COCOM) authority",
+				"Coordinating authority"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_009",
+			"question": "A joint force commander (JFC) may establish a joint task force (JTF) when an operation requires what?",
+			"options": [
+				"A single-service response with unified logistics support",
+				"Congressional approval for overseas deployment",
+				"A joint force with a designated commander to accomplish a specific mission",
+				"Only naval and air assets operating in the same theater"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_010",
+			"question": "Which principle of joint operations ensures all efforts are directed toward a clearly defined, decisive, and achievable goal?",
+			"options": [
+				"Unity of command",
+				"Mass",
+				"Offensive",
+				"Objective"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_011",
+			"question": "The principle of 'unity of command' in joint operations means what?",
+			"options": [
+				"All forces must be from the same military service",
+				"A single commander directs and coordinates the actions of all forces toward a common objective",
+				"Each service component retains independent command of its own forces",
+				"Command authority is shared equally among all component commanders"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_012",
+			"question": "Which principle of joint operations involves concentrating the effects of combat power at the most advantageous place and time?",
+			"options": [
+				"Economy of force",
+				"Maneuver",
+				"Surprise",
+				"Mass"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_013",
+			"question": "What does the principle of 'economy of force' require in joint operations?",
+			"options": [
+				"Using maximum force at all points of engagement simultaneously",
+				"Reducing the overall size of the joint force to minimize costs",
+				"Allocating minimum essential combat power to secondary efforts to mass forces elsewhere",
+				"Distributing supplies equally among all components regardless of mission needs"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_014",
+			"question": "The principle of 'maneuver' in joint operations focuses on what?",
+			"options": [
+				"Placing the enemy in a disadvantageous position through the flexible application of combat power",
+				"Conducting only defensive operations until attacked",
+				"Moving forces exclusively by air to gain speed",
+				"Stationing forces in fixed defensive positions"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_015",
+			"question": "Which principle of joint operations involves striking the enemy at a time, place, or in a manner for which they are not prepared?",
+			"options": [
+				"Security",
+				"Offensive",
+				"Surprise",
+				"Simplicity"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_016",
+			"question": "The principle of 'security' in joint operations is primarily about what?",
+			"options": [
+				"Never allowing the enemy to acquire an unexpected advantage",
+				"Preventing unauthorized personnel from entering military installations",
+				"Classifying all operational documents at the highest level",
+				"Assigning security forces to every unit in the joint force"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_017",
+			"question": "Why is 'simplicity' considered a principle of joint operations?",
+			"options": [
+				"It limits the number of forces that can participate in an operation",
+				"It requires using only one type of weapon system per engagement",
+				"It reduces the chances of miscommunication in multinational coalitions",
+				"It increases the probability that plans and orders will be clearly understood and properly executed"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_018",
+			"question": "Which principle of joint operations calls for the measured use of force appropriate to the situation?",
+			"options": [
+				"Restraint",
+				"Legitimacy",
+				"Perseverance",
+				"Offensive"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_019",
+			"question": "The principle of 'perseverance' in joint operations emphasizes what?",
+			"options": [
+				"The willingness to withdraw forces at the first sign of enemy resistance",
+				"Rotating forces frequently to maintain morale",
+				"Accepting any terms offered by an adversary to end conflict quickly",
+				"The patient, resolute, and persistent pursuit of national objectives despite obstacles"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_020",
+			"question": "The principle of 'legitimacy' in joint operations is most closely related to what?",
+			"options": [
+				"Ensuring operations conform to domestic law only",
+				"Maintaining legal and moral authority in the conduct of operations",
+				"Gaining approval from the United Nations before any military action",
+				"Using only conventional weapons in all engagements"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_021",
+			"question": "The principle of 'offensive' in joint operations means what?",
+			"options": [
+				"Avoiding all engagement with the enemy until full force readiness is achieved",
+				"Conducting exclusively air-to-air combat operations",
+				"Using only special operations forces for initial engagement",
+				"Seizing, retaining, and exploiting the initiative to gain and maintain a position of advantage"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_022",
+			"question": "What is the joint force air component commander (JFACC) responsible for?",
+			"options": [
+				"Making recommendations to the JFC on the proper employment of air forces and, if delegated, planning and executing joint air operations",
+				"Commanding all ground forces in a joint operations area",
+				"Managing the defense budget for the joint force",
+				"Coordinating only strategic airlift missions"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_023",
+			"question": "Who typically designates the JFACC in a joint force?",
+			"options": [
+				"The Secretary of the Air Force",
+				"The Chairman of the Joint Chiefs of Staff",
+				"The theater air control system commander",
+				"The joint force commander (JFC)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_024",
+			"question": "How many phases are in the joint phasing model for operations?",
+			"options": [
+				"Three (Deter, Seize Initiative, Dominate)",
+				"Four (Shape, Deter, Dominate, Stabilize)",
+				"Five (Shape, Deter, Seize Initiative, Dominate, Transition)",
+				"Six (Shape, Deter, Seize Initiative, Dominate, Stabilize, Enable Civil Authority)"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_025",
+			"question": "In the joint phasing model, which phase focuses on setting conditions to deter adversaries and assure allies?",
+			"options": [
+				"Phase 0 — Shape",
+				"Phase I — Deter",
+				"Phase II — Seize Initiative",
+				"Phase III — Dominate"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_026",
+			"question": "Phase V of the joint phasing model is called what?",
+			"options": [
+				"Dominate",
+				"Stabilize",
+				"Transition",
+				"Enable Civil Authority"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_027",
+			"question": "What is the Adaptive Planning and Execution (APEX) system?",
+			"options": [
+				"The Department of Defense system for joint operational planning and execution",
+				"A personnel management system for joint duty assignments",
+				"A fitness tracking system used by joint forces",
+				"A logistics tool for tracking supplies across combatant commands"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		},
+		{
+			"id": "ch6_028",
+			"question": "APEX replaced which earlier joint planning system?",
+			"options": [
+				"Joint Strategic Planning System (JSPS)",
+				"Joint Operation Planning and Execution System (JOPES)",
+				"Contingency Planning Guidance (CPG)",
+				"Global Force Management (GFM)"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		},
+		{
+			"id": "ch6_029",
+			"question": "What is Enlisted Joint Professional Military Education (EJPME)?",
+			"options": [
+				"A program that replaces service-specific PME for all enlisted members",
+				"Training provided only to officers serving in joint billets",
+				"A deployment readiness course required before all overseas tours",
+				"Education designed to prepare enlisted members for joint duty assignments and develop joint competencies"
+			],
+			"answer": 3,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		},
+		{
+			"id": "ch6_030",
+			"question": "Which phase of EJPME is integrated into the Senior NCO Academy curriculum?",
+			"options": [
+				"EJPME Phase I",
+				"EJPME Phase II",
+				"EJPME Phase III",
+				"EJPME is not integrated into any PME curriculum"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		},
+		{
+			"id": "ch6_031",
+			"question": "What is a joint duty assignment?",
+			"options": [
+				"An assignment to a joint activity on the joint duty assignment list, involving multiple military departments",
+				"An assignment to a unit composed of two or more Air Force specialty codes",
+				"Any overseas assignment regardless of the organization",
+				"A temporary duty assignment to a sister service training school"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		},
+		{
+			"id": "ch6_032",
+			"question": "In multinational operations, what is the primary challenge compared to purely joint operations?",
+			"options": [
+				"Multinational operations require fewer forces overall",
+				"Differences in language, culture, doctrine, equipment, and national objectives add complexity",
+				"All participating nations must use the same weapons systems",
+				"Multinational operations eliminate the need for a unified command structure"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		},
+		{
+			"id": "ch6_033",
+			"question": "What is the purpose of interagency coordination in joint operations?",
+			"options": [
+				"To replace military forces with civilian agency personnel in combat zones",
+				"To synchronize and integrate activities of governmental and nongovernmental organizations with military operations",
+				"To eliminate the role of the Department of State in national security",
+				"To transfer command authority from the military to a civilian agency"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		},
+		{
+			"id": "ch6_034",
+			"question": "What is the chain of command for military operations from the President down to combatant commanders?",
+			"options": [
+				"President to CJCS to combatant commanders",
+				"President to National Security Advisor to combatant commanders",
+				"President to Secretary of Defense to combatant commanders",
+				"President to Service Secretaries to combatant commanders"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_035",
+			"question": "Which geographic combatant command is responsible for military operations in the Middle East?",
+			"options": [
+				"U.S. European Command (USEUCOM)",
+				"U.S. Africa Command (USAFRICOM)",
+				"U.S. Central Command (USCENTCOM)",
+				"U.S. Southern Command (USSOUTHCOM)"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_036",
+			"question": "What distinguishes operational control (OPCON) from combatant command (COCOM) authority?",
+			"options": [
+				"OPCON is broader than COCOM and includes administrative authority",
+				"OPCON includes authority to organize and employ commands as the commander considers necessary, but cannot be transferred and is less comprehensive than COCOM",
+				"COCOM may be transferred to subordinate commanders while OPCON may not",
+				"OPCON is inherent to combatant commanders and cannot be delegated, while COCOM can be delegated"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_037",
+			"question": "What is tactical control (TACON)?",
+			"options": [
+				"The broadest command authority granted to combatant commanders",
+				"Authority over all administrative and logistic functions of assigned forces",
+				"Command authority over assigned forces that includes the detailed direction of movements and maneuvers necessary to accomplish assigned missions",
+				"Authority to reorganize a combatant command's force structure"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_038",
+			"question": "During Phase III (Dominate) of the joint phasing model, what is the primary focus?",
+			"options": [
+				"Setting conditions for a favorable security environment",
+				"Deterring adversary actions through show of force",
+				"Breaking the enemy's will to resist, establishing control over the operational environment, and completing full-spectrum operations",
+				"Transferring authority to civilian governance"
+			],
+			"answer": 2,
+			"reference": "AFH 1, Ch. 6, Sec. 6B"
+		},
+		{
+			"id": "ch6_039",
+			"question": "Which of the following best describes the role of U.S. Transportation Command (USTRANSCOM)?",
+			"options": [
+				"It serves as a geographic combatant command covering North American territory",
+				"It provides global air, land, and sea transportation for the Department of Defense",
+				"It commands all nuclear forces for the United States",
+				"It conducts cyber operations and defends DOD information networks"
+			],
+			"answer": 1,
+			"reference": "AFH 1, Ch. 6, Sec. 6A"
+		},
+		{
+			"id": "ch6_040",
+			"question": "EJPME Phase I is integrated into which enlisted PME course?",
+			"options": [
+				"NCO Academy",
+				"Airman Leadership School",
+				"Chief Leadership Course",
+				"First Sergeant Academy"
+			],
+			"answer": 0,
+			"reference": "AFH 1, Ch. 6, Sec. 6C"
+		}
+	]
+}
